@@ -1,0 +1,99 @@
+Init
+AddCourse 15 16
+AddCourse 13 -12
+AddCourse 16 -12
+AddCourse 104095 16
+RemoveCourse 104022
+AddCourse 16 0
+AddCourse 236319 40
+AddCourse 44252 13
+AddCourse 236319 13
+RemoveCourse 104293
+AddCourse -31 13
+AddCourse 13 16
+AddCourse 44252 52
+AddCourse 16 26
+RemoveCourse 104022
+AddCourse 104095 13
+AddCourse 0 26
+AddCourse 15 52
+AddCourse 0 -12
+RemoveCourse 104293
+AddCourse -31 -12
+AddCourse 12 16
+AddCourse 104095 0
+AddCourse 104293 13
+RemoveCourse 44252
+AddCourse 15 52
+AddCourse 104095 26
+AddCourse -31 -12
+AddCourse 12 26
+RemoveCourse 44252
+AddCourse 104293 -12
+AddCourse 12 40
+AddCourse 44252 52
+AddCourse 16 13
+RemoveCourse 14
+AddCourse 17 13
+AddCourse 17 52
+AddCourse 13 13
+AddCourse 104022 16
+RemoveCourse 15
+GetMostViewedClasses 17
+GetMostViewedClasses 0
+WatchClass 104022 3 24
+WatchClass 104293 21 10
+WatchClass 236319 27 5
+GetMostViewedClasses 17
+WatchClass 104293 25 25
+WatchClass 236319 3 13
+WatchClass 236319 14 17
+WatchClass 234218 -1 26
+WatchClass 12 22 13
+WatchClass 44252 0 25
+WatchClass 13 30 7
+WatchClass 104022 6 1
+WatchClass 234218 -3 -2
+TimeViewed 14 11
+GetMostViewedClasses 24
+WatchClass -31 17 1
+WatchClass 44252 17 -2
+WatchClass 0 28 22
+TimeViewed 236319 15
+WatchClass 236319 23 29
+WatchClass 15 6 9
+WatchClass 104022 26 6
+TimeViewed 15 6
+WatchClass 236319 13 16
+WatchClass 234218 26 15
+WatchClass 104022 13 -1
+TimeViewed 104095 6
+GetMostViewedClasses 21
+WatchClass 104293 15 21
+WatchClass 104022 24 23
+WatchClass 236319 25 27
+TimeViewed 104293 31
+AddCourse 236319 26
+RemoveCourse 104095
+WatchClass 44252 15 13
+GetMostViewedClasses 5
+TimeViewed -31 1
+GetMostViewedClasses 15
+WatchClass 104293 23 3
+TimeViewed 15 2
+TimeViewed 44252 23
+TimeViewed 0 25
+GetMostViewedClasses 12
+TimeViewed 234218 2
+WatchClass 15 -2 17
+TimeViewed 234218 12
+TimeViewed 12 7
+GetMostViewedClasses 28
+TimeViewed 15 32
+TimeViewed 13 27
+WatchClass 236319 28 8
+TimeViewed 12 3
+GetMostViewedClasses 11
+TimeViewed 13 25
+TimeViewed 236319 27
+Quit

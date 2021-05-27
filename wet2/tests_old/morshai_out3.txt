@@ -1,0 +1,1508 @@
+init done.
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: INVALID_INPUT
+RemoveCourse: INVALID_INPUT
+RemoveCourse: SUCCESS
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: INVALID_INPUT
+AddClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: 1
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 1 0
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 1 0
+AddClass: 2
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 1 0
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 1 0
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+TimeViewed: 992
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+TimeViewed: 780
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+TimeViewed: 490
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+AddClass: 2
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+TimeViewed: 595
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+TimeViewed: 452
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+TimeViewed: 52
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20001 0
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20001 0
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20001 0
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+TimeViewed: 910
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+TimeViewed: 606
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+TimeViewed: 788
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+TimeViewed: 503
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+TimeViewed: 370
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+TimeViewed: 264
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+TimeViewed: 66
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+TimeViewed: 340
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+AddCourse: SUCCESS
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20000 2
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20000 2
+AddClass: 2
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20000 2
+AddClass: 3
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20000 2
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20000 2
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20000 2
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20003 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: 174
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: 907
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: 518
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: 31
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+AddCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20003 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20003 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: 659
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+AddCourse: FAILURE
+AddClass: 0
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20003 1
+AddClass: 1
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20003 1
+AddClass: 2
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20003 1
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20003 1
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20007 2
+WatchClass: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20009 2
+WatchClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20009 2
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20009 2
+TimeViewed: 701
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20009 2
+TimeViewed: 469
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20009 2
+TimeViewed: 544
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20009 2
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20009 2
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20002 0
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20009 0
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20009 0
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 20005 1
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 20005 1
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 20007 0
+GetIthWatchedClass: 20007 3
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 20007 0
+GetIthWatchedClass: 20007 3
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 20007 0
+GetIthWatchedClass: 20007 3
+GetIthWatchedClass: 1 0
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20007 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20007 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 20007 0
+GetIthWatchedClass: 20007 3
+GetIthWatchedClass: 1 0
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 1 0
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 1 0
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 1 0
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+RemoveCourse: FAILURE
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 1 0
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+quit done.

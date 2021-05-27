@@ -1,0 +1,117 @@
+init done.
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 0
+AddClass: 1
+AddClass: 0
+AddClass: 2
+AddClass: 0
+AddClass: 3
+AddClass: 2
+AddClass: 1
+AddClass: 1
+AddClass: 2
+AddClass: 3
+WatchClass: SUCCESS
+RemoveCourse: SUCCESS
+RemoveCourse: SUCCESS
+AddClass: FAILURE
+AddCourse: SUCCESS
+AddClass: 0
+TimeViewed: 3
+AddClass: 4
+AddClass: 1
+WatchClass: INVALID_INPUT
+AddCourse: SUCCESS
+TimeViewed: 3
+GetIthWatchedClass: 3413389 0
+TimeViewed: 0
+TimeViewed: 0
+AddClass: 5
+AddCourse: SUCCESS
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+TimeViewed: 0
+AddClass: 6
+RemoveCourse: SUCCESS
+AddClass: 0
+GetIthWatchedClass: 3413389 0
+GetIthWatchedClass: 1168651 3
+AddClass: 4
+GetIthWatchedClass: 3413389 0
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: 1168651 3
+AddCourse: SUCCESS
+AddClass: 2
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+AddCourse: SUCCESS
+WatchClass: SUCCESS
+TimeViewed: 0
+RemoveCourse: SUCCESS
+RemoveCourse: SUCCESS
+TimeViewed: 8
+RemoveCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+GetIthWatchedClass: 7977474 2
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+TimeViewed: 11
+RemoveCourse: SUCCESS
+WatchClass: SUCCESS
+AddCourse: SUCCESS
+TimeViewed: 19
+AddClass: 3
+GetIthWatchedClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+GetIthWatchedClass: 7977474 2
+AddClass: 4
+WatchClass: SUCCESS
+AddClass: 1
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+GetIthWatchedClass: 7977474 2
+GetIthWatchedClass: 9148769 0
+AddCourse: SUCCESS
+WatchClass: SUCCESS
+RemoveCourse: SUCCESS
+GetIthWatchedClass: 9148769 0
+WatchClass: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 4
+AddClass: 0
+AddCourse: SUCCESS
+AddClass: 1
+AddClass: 0
+AddClass: 1
+AddCourse: SUCCESS
+WatchClass: FAILURE
+TimeViewed: INVALID_INPUT
+GetIthWatchedClass: 9148769 0
+GetIthWatchedClass: 9148769 0
+AddCourse: SUCCESS
+RemoveCourse: INVALID_INPUT
+RemoveCourse: SUCCESS
+AddClass: 1
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+AddClass: 0
+GetIthWatchedClass: 9986955 0
+RemoveCourse: INVALID_INPUT
+GetIthWatchedClass: 9986955 0
+AddClass: 0
+RemoveCourse: SUCCESS
+AddClass: 0
+RemoveCourse: SUCCESS
+WatchClass: INVALID_INPUT
+RemoveCourse: SUCCESS
+quit done.

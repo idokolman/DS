@@ -1,0 +1,208 @@
+init done.
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+WatchClass: SUCCESS
+TimeViewed: 988
+WatchClass: SUCCESS
+TimeViewed: 1061
+WatchClass: SUCCESS
+TimeViewed: 1122
+WatchClass: SUCCESS
+TimeViewed: 1473
+WatchClass: SUCCESS
+TimeViewed: 835
+WatchClass: SUCCESS
+TimeViewed: 945
+WatchClass: SUCCESS
+TimeViewed: 1359
+WatchClass: SUCCESS
+TimeViewed: 1844
+WatchClass: SUCCESS
+TimeViewed: 145
+WatchClass: SUCCESS
+TimeViewed: 900
+WatchClass: SUCCESS
+TimeViewed: 452
+WatchClass: SUCCESS
+TimeViewed: 290
+WatchClass: SUCCESS
+TimeViewed: 786
+WatchClass: SUCCESS
+TimeViewed: 1230
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 827
+WatchClass: SUCCESS
+TimeViewed: 1196
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+TimeViewed: 53
+WatchClass: SUCCESS
+TimeViewed: 721
+WatchClass: SUCCESS
+TimeViewed: 756
+WatchClass: SUCCESS
+TimeViewed: 836
+WatchClass: SUCCESS
+TimeViewed: 952
+WatchClass: SUCCESS
+TimeViewed: 337
+WatchClass: SUCCESS
+TimeViewed: 1133
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+WatchClass: SUCCESS
+TimeViewed: 519
+WatchClass: SUCCESS
+TimeViewed: 632
+WatchClass: SUCCESS
+TimeViewed: 646
+WatchClass: SUCCESS
+TimeViewed: 276
+WatchClass: SUCCESS
+TimeViewed: 1063
+WatchClass: SUCCESS
+TimeViewed: 1105
+WatchClass: SUCCESS
+TimeViewed: 456
+WatchClass: SUCCESS
+TimeViewed: 1338
+WatchClass: SUCCESS
+TimeViewed: 1705
+WatchClass: SUCCESS
+TimeViewed: 2251
+WatchClass: SUCCESS
+TimeViewed: 701
+WatchClass: SUCCESS
+TimeViewed: 1393
+WatchClass: SUCCESS
+TimeViewed: 1400
+WatchClass: SUCCESS
+TimeViewed: 2114
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 592
+WatchClass: SUCCESS
+TimeViewed: 476
+WatchClass: SUCCESS
+TimeViewed: 977
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 923
+WatchClass: SUCCESS
+TimeViewed: 1873
+WatchClass: SUCCESS
+TimeViewed: 2223
+WatchClass: SUCCESS
+TimeViewed: 519
+WatchClass: SUCCESS
+TimeViewed: 901
+WatchClass: SUCCESS
+TimeViewed: 1570
+WatchClass: SUCCESS
+TimeViewed: 2026
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+WatchClass: SUCCESS
+TimeViewed: 126
+WatchClass: SUCCESS
+TimeViewed: 964
+WatchClass: SUCCESS
+TimeViewed: 1374
+WatchClass: SUCCESS
+TimeViewed: 2179
+WatchClass: SUCCESS
+TimeViewed: 699
+WatchClass: SUCCESS
+TimeViewed: 1170
+WatchClass: SUCCESS
+TimeViewed: 2046
+WatchClass: SUCCESS
+TimeViewed: 300
+WatchClass: SUCCESS
+TimeViewed: 841
+WatchClass: SUCCESS
+TimeViewed: 1821
+WatchClass: SUCCESS
+TimeViewed: 2499
+WatchClass: SUCCESS
+TimeViewed: 444
+WatchClass: SUCCESS
+TimeViewed: 921
+WatchClass: SUCCESS
+TimeViewed: 1647
+WatchClass: SUCCESS
+TimeViewed: 1810
+WatchClass: SUCCESS
+TimeViewed: 2435
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+TimeViewed: 503
+WatchClass: SUCCESS
+TimeViewed: 1073
+WatchClass: SUCCESS
+TimeViewed: 967
+WatchClass: SUCCESS
+TimeViewed: 1477
+WatchClass: SUCCESS
+TimeViewed: 1756
+WatchClass: SUCCESS
+TimeViewed: 903
+WatchClass: SUCCESS
+TimeViewed: 1646
+WatchClass: SUCCESS
+TimeViewed: 1908
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20004 1
+GetIthWatchedClass: 20004 3
+GetIthWatchedClass: 20005 0
+GetIthWatchedClass: 20008 1
+GetIthWatchedClass: 20004 2
+GetIthWatchedClass: 20005 4
+GetIthWatchedClass: 20004 0
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20010 1
+GetIthWatchedClass: 20000 2
+GetIthWatchedClass: 20010 0
+GetIthWatchedClass: 20000 4
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20007 0
+GetIthWatchedClass: 20009 2
+GetIthWatchedClass: 20005 1
+GetIthWatchedClass: 20010 2
+GetIthWatchedClass: 20006 1
+GetIthWatchedClass: 20009 0
+GetIthWatchedClass: 20000 3
+GetIthWatchedClass: 20009 1
+GetIthWatchedClass: 20005 3
+GetIthWatchedClass: 20005 2
+GetIthWatchedClass: 20006 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20004 4
+quit done.

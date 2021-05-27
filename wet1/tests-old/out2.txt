@@ -1,0 +1,219 @@
+init done.
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+RemoveCourse: FAILURE
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+RemoveCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+RemoveCourse: FAILURE
+AddCourse: FAILURE
+AddCourse: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+RemoveCourse: FAILURE
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: FAILURE
+AddCourse: INVALID_INPUT
+RemoveCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+RemoveCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: FAILURE
+RemoveCourse: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+13	|	6
+13	|	7
+13	|	8
+13	|	9
+13	|	10
+13	|	11
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+13	|	6
+13	|	7
+13	|	8
+13	|	9
+13	|	10
+13	|	11
+13	|	12
+13	|	13
+13	|	14
+13	|	15
+14	|	0
+14	|	1
+14	|	2
+14	|	3
+14	|	4
+--End of most viewed classes--
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+WatchClass: FAILURE
+WatchClass: SUCCESS
+TimeViewed: FAILURE
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+44252	|	31
+236319	|	11
+14	|	1
+16	|	11
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+--End of most viewed classes--
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+TimeViewed: FAILURE
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: FAILURE
+TimeViewed: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+TimeViewed: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+TimeViewed: 0
+AddCourse: INVALID_INPUT
+RemoveCourse: SUCCESS
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+16	|	7
+16	|	8
+16	|	22
+236319	|	11
+14	|	1
+236319	|	13
+16	|	11
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+--End of most viewed classes--
+TimeViewed: 0
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+16	|	7
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: 0
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+16	|	7
+16	|	8
+16	|	22
+236319	|	11
+14	|	1
+236319	|	13
+16	|	11
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+--End of most viewed classes--
+TimeViewed: FAILURE
+WatchClass: FAILURE
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+16	|	7
+16	|	8
+16	|	22
+236319	|	11
+14	|	1
+236319	|	13
+--End of most viewed classes--
+TimeViewed: FAILURE
+TimeViewed: FAILURE
+WatchClass: INVALID_INPUT
+TimeViewed: FAILURE
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+16	|	7
+16	|	8
+16	|	22
+236319	|	11
+14	|	1
+236319	|	13
+16	|	11
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+13	|	6
+13	|	7
+13	|	8
+13	|	9
+13	|	10
+13	|	11
+13	|	12
+13	|	13
+13	|	14
+13	|	15
+--End of most viewed classes--
+TimeViewed: 0
+TimeViewed: FAILURE
+quit done.

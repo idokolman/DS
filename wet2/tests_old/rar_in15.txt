@@ -1,0 +1,5002 @@
+Quit
+RemoveCourse 42
+AddClass 34
+Init
+Init
+WatchClass 70 47 24
+Quit
+AddCourse 1
+AddClass 1
+AddCourse 65
+AddCourse 42
+TimeViewed 5 12
+AddClass 55
+AddCourse 38
+Quit
+AddCourse 31
+Init
+GetIthWatchedClass 20
+GetIthWatchedClass 64
+Init
+TimeViewed 8 7
+RemoveCourse 14
+WatchClass 29 27 28
+AddCourse 64
+GetIthWatchedClass 23
+AddCourse 21
+Quit
+Init
+AddCourse 35
+WatchClass 16 38 53
+AddClass 31
+Init
+WatchClass 67 49 58
+Init
+AddClass 24
+RemoveCourse 27
+AddClass 61
+TimeViewed 60 15
+RemoveCourse 53
+Init
+AddCourse -1
+Quit
+Quit
+TimeViewed 31 67
+GetIthWatchedClass 6
+Quit
+WatchClass 63 29 11
+AddClass -1
+Quit
+Quit
+AddClass -2
+RemoveCourse 18
+Quit
+WatchClass 32 47 19
+Init
+WatchClass 57 -1 30
+Quit
+AddCourse 29
+Init
+AddCourse 30
+Quit
+Init
+RemoveCourse 51
+RemoveCourse 58
+TimeViewed 64 54
+WatchClass 40 6 31
+WatchClass 49 39 46
+TimeViewed 46 58
+TimeViewed 11 67
+RemoveCourse 9
+Init
+AddClass 56
+WatchClass 38 43 15
+WatchClass 68 16 68
+AddClass 68
+AddClass 15
+Quit
+AddClass 35
+GetIthWatchedClass 60
+TimeViewed 30 40
+AddCourse 62
+GetIthWatchedClass 0
+Init
+Quit
+AddClass 10
+AddClass 64
+AddClass 8
+Init
+AddClass 57
+AddCourse 33
+RemoveCourse 46
+GetIthWatchedClass 27
+AddClass 0
+GetIthWatchedClass 9
+Init
+RemoveCourse 7
+WatchClass 0 57 56
+Quit
+AddCourse 36
+TimeViewed 41 6
+Quit
+Init
+GetIthWatchedClass 52
+Init
+AddClass 35
+RemoveCourse 45
+TimeViewed 54 54
+AddCourse 63
+WatchClass 20 10 -2
+TimeViewed 11 59
+GetIthWatchedClass 29
+TimeViewed 26 9
+WatchClass 46 39 10
+AddClass 51
+Init
+WatchClass 30 36 21
+Quit
+AddCourse 4
+Quit
+GetIthWatchedClass 36
+Quit
+AddCourse 45
+WatchClass 51 54 20
+AddCourse 15
+AddClass 9
+AddCourse 47
+GetIthWatchedClass 48
+RemoveCourse 34
+WatchClass 39 68 60
+AddClass 1
+WatchClass 2 46 1
+AddClass -3
+TimeViewed -3 70
+Quit
+WatchClass 12 50 58
+GetIthWatchedClass 62
+RemoveCourse 13
+AddClass 28
+Init
+Quit
+AddCourse 46
+Quit
+Init
+Quit
+TimeViewed 28 -1
+TimeViewed 10 44
+TimeViewed 65 12
+AddCourse 43
+RemoveCourse 18
+Quit
+RemoveCourse 30
+Init
+Quit
+AddCourse 2
+Quit
+Init
+AddCourse 9
+WatchClass 62 66 12
+Quit
+RemoveCourse 29
+TimeViewed 55 10
+RemoveCourse 38
+GetIthWatchedClass 70
+AddCourse 5
+GetIthWatchedClass 39
+AddClass 39
+WatchClass 48 12 63
+Quit
+AddClass -3
+WatchClass 63 35 68
+Init
+TimeViewed 50 47
+AddCourse 36
+RemoveCourse 69
+TimeViewed 13 17
+RemoveCourse 44
+Init
+Init
+TimeViewed 66 2
+WatchClass -3 61 3
+WatchClass 59 25 64
+GetIthWatchedClass 54
+AddClass 69
+AddCourse 64
+AddCourse 16
+TimeViewed 9 58
+RemoveCourse 66
+WatchClass 29 14 15
+Quit
+Quit
+GetIthWatchedClass 37
+GetIthWatchedClass 66
+TimeViewed 69 32
+WatchClass 39 40 36
+RemoveCourse 1
+AddClass 62
+RemoveCourse 1
+Init
+AddClass 26
+RemoveCourse 26
+TimeViewed 1 14
+GetIthWatchedClass 60
+WatchClass -2 63 20
+WatchClass 4 59 62
+TimeViewed 65 44
+AddClass 63
+WatchClass 54 30 41
+Quit
+GetIthWatchedClass 57
+AddClass 0
+Quit
+WatchClass 11 37 29
+GetIthWatchedClass 26
+WatchClass 10 39 -1
+AddClass 26
+Init
+Init
+Init
+Quit
+AddClass 2
+RemoveCourse 0
+AddClass 19
+RemoveCourse 43
+AddCourse 6
+WatchClass -1 0 22
+GetIthWatchedClass 17
+AddClass 9
+Quit
+AddCourse 28
+TimeViewed 19 70
+Init
+AddClass 16
+WatchClass 35 6 1
+GetIthWatchedClass -2
+Quit
+WatchClass 6 -2 38
+RemoveCourse 8
+AddCourse 64
+AddCourse 40
+AddCourse 15
+Init
+WatchClass 19 11 2
+Quit
+TimeViewed 3 29
+Init
+AddCourse 61
+AddClass 19
+TimeViewed 15 24
+GetIthWatchedClass 33
+WatchClass 12 17 -3
+GetIthWatchedClass 3
+TimeViewed 46 7
+GetIthWatchedClass 27
+RemoveCourse 51
+RemoveCourse 51
+TimeViewed 18 44
+Quit
+RemoveCourse 32
+Init
+GetIthWatchedClass 50
+Quit
+WatchClass 66 11 -3
+Init
+Quit
+Quit
+RemoveCourse 19
+AddCourse 45
+AddClass 17
+WatchClass 27 4 48
+AddCourse 66
+TimeViewed 61 34
+AddClass 47
+Init
+RemoveCourse 49
+AddClass 5
+WatchClass 32 57 37
+TimeViewed 48 22
+TimeViewed 54 53
+AddClass 27
+GetIthWatchedClass 29
+AddClass 7
+WatchClass 7 16 16
+RemoveCourse 20
+GetIthWatchedClass 7
+GetIthWatchedClass 32
+AddClass 49
+RemoveCourse 62
+GetIthWatchedClass 14
+AddClass 20
+TimeViewed 51 49
+WatchClass -1 22 15
+RemoveCourse 30
+AddCourse 33
+AddCourse 53
+TimeViewed 14 34
+WatchClass 41 18 8
+RemoveCourse 19
+WatchClass 10 54 19
+AddCourse 57
+GetIthWatchedClass 56
+AddCourse 21
+AddCourse 29
+AddClass 41
+TimeViewed 69 59
+AddCourse 43
+WatchClass 49 69 49
+WatchClass 35 49 70
+Init
+Quit
+Init
+AddClass 66
+RemoveCourse 22
+Init
+Init
+WatchClass 38 3 59
+GetIthWatchedClass 19
+AddClass 16
+AddCourse 65
+GetIthWatchedClass 70
+TimeViewed 16 27
+RemoveCourse 47
+TimeViewed 14 -3
+Init
+WatchClass 27 47 13
+Init
+RemoveCourse 43
+GetIthWatchedClass 23
+Quit
+WatchClass 18 -3 3
+RemoveCourse 39
+AddClass 3
+AddCourse 7
+RemoveCourse 8
+AddClass 5
+Init
+GetIthWatchedClass 43
+TimeViewed 14 6
+AddCourse 28
+Init
+AddClass 13
+TimeViewed 26 54
+GetIthWatchedClass 5
+TimeViewed 20 35
+RemoveCourse 69
+WatchClass 19 16 48
+WatchClass 29 60 16
+Quit
+RemoveCourse 60
+GetIthWatchedClass 25
+AddCourse 54
+AddCourse 29
+Quit
+RemoveCourse 4
+Quit
+GetIthWatchedClass 18
+GetIthWatchedClass 30
+TimeViewed 0 26
+AddClass 2
+Init
+AddClass 24
+Init
+Quit
+Quit
+RemoveCourse 28
+AddClass 44
+Init
+WatchClass 3 48 28
+TimeViewed 25 37
+Init
+GetIthWatchedClass 53
+AddCourse 57
+GetIthWatchedClass 13
+WatchClass 1 12 61
+TimeViewed 1 40
+Init
+RemoveCourse -1
+TimeViewed 9 52
+RemoveCourse 49
+AddClass 54
+TimeViewed 30 25
+RemoveCourse 69
+RemoveCourse 29
+Quit
+Init
+GetIthWatchedClass 46
+Init
+Quit
+TimeViewed 39 2
+Quit
+AddClass 53
+TimeViewed 38 7
+Quit
+Init
+GetIthWatchedClass 12
+Quit
+Quit
+RemoveCourse 41
+Quit
+Init
+TimeViewed 3 15
+TimeViewed 1 46
+AddCourse 9
+RemoveCourse 3
+TimeViewed 38 -1
+Init
+GetIthWatchedClass 55
+AddCourse 43
+AddClass 61
+AddClass 12
+RemoveCourse 34
+WatchClass 56 19 60
+GetIthWatchedClass 65
+WatchClass 11 31 59
+GetIthWatchedClass 6
+GetIthWatchedClass 38
+Init
+RemoveCourse 14
+TimeViewed 14 1
+WatchClass 51 28 68
+Quit
+AddCourse 17
+Quit
+RemoveCourse 37
+GetIthWatchedClass 63
+Quit
+GetIthWatchedClass 2
+AddCourse 55
+RemoveCourse 16
+TimeViewed 27 33
+Quit
+Init
+RemoveCourse 37
+Init
+AddClass 15
+Quit
+Quit
+GetIthWatchedClass -2
+AddCourse 50
+Quit
+Quit
+Quit
+Init
+WatchClass 23 63 20
+AddClass 62
+AddClass 51
+Quit
+WatchClass 51 20 20
+Init
+WatchClass 17 40 38
+Init
+AddCourse 58
+Init
+AddClass 40
+Quit
+WatchClass 66 5 4
+GetIthWatchedClass 21
+Quit
+RemoveCourse 61
+WatchClass 45 7 63
+WatchClass 16 66 66
+GetIthWatchedClass 3
+AddCourse 21
+GetIthWatchedClass 54
+AddClass 51
+AddClass 6
+GetIthWatchedClass 49
+Quit
+TimeViewed 43 47
+Quit
+RemoveCourse 55
+AddClass 43
+WatchClass 37 18 68
+WatchClass 34 32 67
+AddCourse 49
+Quit
+GetIthWatchedClass 62
+RemoveCourse 69
+Init
+WatchClass 43 3 43
+GetIthWatchedClass 48
+Init
+WatchClass 9 25 52
+AddClass 31
+Init
+Init
+Init
+TimeViewed 19 4
+Quit
+TimeViewed 52 56
+Init
+GetIthWatchedClass 67
+WatchClass 23 20 25
+WatchClass -2 65 8
+TimeViewed 70 52
+Init
+Quit
+RemoveCourse 45
+GetIthWatchedClass 3
+WatchClass 13 33 -3
+WatchClass 39 54 33
+Init
+AddCourse 42
+RemoveCourse 36
+TimeViewed 30 62
+AddCourse 23
+TimeViewed 23 44
+WatchClass 26 20 6
+AddCourse 65
+GetIthWatchedClass 5
+GetIthWatchedClass 64
+RemoveCourse 55
+TimeViewed 40 10
+AddCourse 18
+WatchClass 18 7 -3
+AddClass 66
+RemoveCourse 52
+RemoveCourse 42
+AddClass 0
+AddCourse 63
+AddClass 22
+RemoveCourse 43
+AddClass 10
+RemoveCourse 32
+AddCourse 37
+AddCourse 64
+AddClass 46
+WatchClass 11 30 47
+AddClass 45
+GetIthWatchedClass 6
+AddCourse 4
+TimeViewed 13 48
+TimeViewed 30 57
+TimeViewed 17 8
+RemoveCourse 57
+RemoveCourse 50
+AddCourse 66
+RemoveCourse 67
+RemoveCourse 15
+WatchClass 47 48 18
+RemoveCourse 51
+AddCourse 44
+AddClass 34
+WatchClass 69 13 43
+AddCourse 55
+AddClass 66
+GetIthWatchedClass 49
+AddClass 22
+RemoveCourse 45
+AddClass 48
+WatchClass 40 22 55
+AddCourse 1
+WatchClass 67 64 43
+RemoveCourse 51
+AddClass 43
+RemoveCourse 49
+AddClass 12
+AddCourse 49
+AddCourse 41
+AddClass 21
+AddClass 13
+AddClass 0
+AddCourse 59
+WatchClass 51 39 34
+WatchClass 60 9 -3
+WatchClass -3 31 28
+TimeViewed 66 33
+RemoveCourse 46
+AddCourse 59
+GetIthWatchedClass 59
+AddCourse 45
+GetIthWatchedClass 4
+AddClass 6
+AddClass 62
+GetIthWatchedClass 19
+AddCourse 45
+GetIthWatchedClass 43
+WatchClass 63 37 -1
+TimeViewed 52 0
+RemoveCourse 25
+WatchClass 10 58 29
+GetIthWatchedClass 52
+RemoveCourse 65
+RemoveCourse 31
+TimeViewed 35 55
+AddClass 64
+AddCourse 1
+WatchClass 50 51 49
+GetIthWatchedClass 28
+GetIthWatchedClass 5
+GetIthWatchedClass 22
+RemoveCourse -2
+TimeViewed 37 39
+AddCourse 62
+RemoveCourse 50
+WatchClass 54 69 54
+RemoveCourse 43
+RemoveCourse 19
+AddClass 40
+TimeViewed 45 27
+AddCourse -3
+AddCourse 1
+AddClass 36
+AddClass 20
+GetIthWatchedClass 55
+GetIthWatchedClass 68
+AddClass 20
+TimeViewed 24 36
+WatchClass 7 59 43
+AddCourse 46
+TimeViewed 10 65
+AddCourse 23
+GetIthWatchedClass 42
+RemoveCourse 65
+RemoveCourse 3
+AddCourse 63
+RemoveCourse -2
+GetIthWatchedClass 0
+GetIthWatchedClass 59
+AddClass 32
+AddCourse 21
+WatchClass 46 35 49
+TimeViewed 10 55
+AddCourse 52
+AddClass 55
+WatchClass 40 30 3
+TimeViewed 32 42
+TimeViewed 41 17
+GetIthWatchedClass 59
+GetIthWatchedClass 24
+GetIthWatchedClass 38
+AddCourse 45
+AddCourse 32
+AddClass 60
+AddCourse 16
+AddClass 68
+WatchClass 16 23 36
+AddCourse 60
+AddCourse 42
+RemoveCourse 67
+AddCourse 6
+WatchClass 10 42 60
+TimeViewed 5 31
+GetIthWatchedClass 3
+AddCourse 1
+AddCourse 43
+AddCourse 42
+GetIthWatchedClass 1
+AddCourse 47
+GetIthWatchedClass 46
+RemoveCourse 53
+WatchClass 48 65 37
+AddCourse 15
+GetIthWatchedClass 18
+AddCourse 48
+AddClass 58
+AddCourse 19
+GetIthWatchedClass -2
+WatchClass 63 64 35
+WatchClass 23 0 44
+WatchClass 47 42 22
+TimeViewed 27 31
+TimeViewed 58 11
+GetIthWatchedClass 20
+WatchClass 57 49 6
+AddCourse 6
+GetIthWatchedClass 22
+AddCourse 60
+RemoveCourse 3
+AddCourse 12
+GetIthWatchedClass 39
+WatchClass 1 63 23
+GetIthWatchedClass 17
+RemoveCourse -1
+GetIthWatchedClass 50
+GetIthWatchedClass 52
+TimeViewed 19 68
+RemoveCourse 6
+RemoveCourse 33
+RemoveCourse 53
+WatchClass 49 57 8
+GetIthWatchedClass -2
+WatchClass 42 16 5
+GetIthWatchedClass 45
+WatchClass 13 23 5
+TimeViewed -2 8
+WatchClass 27 11 21
+GetIthWatchedClass 31
+AddCourse -2
+WatchClass -1 19 33
+AddCourse 51
+WatchClass 22 13 14
+WatchClass 17 62 11
+AddCourse 35
+AddClass 66
+AddClass 21
+WatchClass -3 3 33
+TimeViewed 18 36
+AddCourse 28
+WatchClass 13 15 69
+AddCourse 38
+AddCourse 58
+GetIthWatchedClass -3
+WatchClass 70 5 16
+RemoveCourse 4
+AddCourse 53
+AddClass 68
+WatchClass 14 58 70
+TimeViewed 49 21
+TimeViewed 20 47
+AddClass 61
+RemoveCourse 4
+WatchClass 0 69 64
+AddClass 33
+AddCourse 56
+AddClass 26
+AddCourse 8
+TimeViewed 47 39
+GetIthWatchedClass 15
+AddCourse 20
+RemoveCourse 19
+GetIthWatchedClass 15
+RemoveCourse 30
+RemoveCourse 5
+AddClass 56
+RemoveCourse 57
+RemoveCourse 57
+TimeViewed 24 11
+GetIthWatchedClass 52
+TimeViewed 35 25
+TimeViewed 15 33
+GetIthWatchedClass 17
+RemoveCourse 43
+RemoveCourse 16
+TimeViewed 18 24
+TimeViewed 50 20
+TimeViewed 18 68
+WatchClass 45 14 31
+GetIthWatchedClass 44
+RemoveCourse 32
+TimeViewed 52 53
+AddCourse 27
+AddClass 23
+WatchClass 35 24 67
+GetIthWatchedClass 31
+GetIthWatchedClass 16
+WatchClass 21 46 4
+AddClass 39
+RemoveCourse 29
+TimeViewed 37 41
+AddCourse 64
+AddCourse 30
+GetIthWatchedClass 18
+TimeViewed 43 3
+RemoveCourse 12
+AddCourse 50
+GetIthWatchedClass 69
+RemoveCourse 53
+TimeViewed 59 24
+GetIthWatchedClass 61
+GetIthWatchedClass 46
+GetIthWatchedClass 10
+AddClass 55
+AddClass 53
+GetIthWatchedClass 61
+WatchClass 61 35 34
+WatchClass 32 35 53
+AddCourse 25
+AddCourse 35
+TimeViewed 14 52
+RemoveCourse 34
+RemoveCourse 17
+AddClass 18
+GetIthWatchedClass -2
+RemoveCourse 55
+RemoveCourse 2
+RemoveCourse 56
+GetIthWatchedClass 28
+AddCourse 16
+AddCourse 30
+AddClass 8
+RemoveCourse 67
+RemoveCourse 40
+AddClass 29
+RemoveCourse 24
+AddCourse 46
+AddClass 28
+WatchClass 13 70 0
+TimeViewed 58 31
+WatchClass 23 0 49
+GetIthWatchedClass 56
+AddCourse 58
+WatchClass 12 43 29
+AddCourse 63
+TimeViewed 59 69
+WatchClass 64 18 2
+WatchClass 62 66 31
+WatchClass 58 18 19
+TimeViewed 69 68
+AddClass 41
+AddCourse -2
+GetIthWatchedClass 56
+TimeViewed 14 58
+TimeViewed 28 15
+AddCourse 52
+GetIthWatchedClass 10
+TimeViewed 47 69
+AddCourse 56
+AddCourse 19
+WatchClass 1 58 28
+RemoveCourse 27
+TimeViewed 47 7
+TimeViewed 49 41
+AddCourse 15
+RemoveCourse 50
+GetIthWatchedClass 44
+AddClass 58
+AddClass 69
+RemoveCourse 51
+WatchClass 17 44 26
+TimeViewed 62 31
+RemoveCourse 19
+AddCourse 59
+GetIthWatchedClass 12
+AddClass 49
+WatchClass -2 2 47
+WatchClass 65 -1 29
+WatchClass 17 36 42
+TimeViewed 31 62
+TimeViewed 49 37
+AddCourse 4
+AddClass 38
+WatchClass 22 25 5
+RemoveCourse 52
+TimeViewed 51 39
+WatchClass 26 18 38
+AddCourse 69
+WatchClass 69 67 3
+WatchClass 37 18 20
+AddCourse 3
+GetIthWatchedClass 58
+RemoveCourse 49
+RemoveCourse 37
+AddCourse 68
+AddClass 66
+RemoveCourse 54
+AddClass 17
+AddCourse 14
+AddCourse 50
+RemoveCourse 58
+TimeViewed 51 6
+RemoveCourse 31
+GetIthWatchedClass 27
+RemoveCourse 17
+TimeViewed 0 43
+TimeViewed 20 45
+AddClass 27
+AddCourse 65
+RemoveCourse 31
+WatchClass 25 19 40
+AddClass 57
+AddCourse 63
+AddCourse 21
+TimeViewed 27 66
+RemoveCourse 42
+AddCourse 33
+AddCourse 15
+AddClass 65
+WatchClass 36 46 50
+WatchClass 55 56 2
+GetIthWatchedClass 32
+AddClass 4
+AddClass 53
+AddClass 15
+TimeViewed 17 19
+RemoveCourse 50
+AddClass 11
+AddCourse 8
+GetIthWatchedClass 15
+AddClass 38
+AddClass 44
+GetIthWatchedClass 10
+GetIthWatchedClass 57
+GetIthWatchedClass 16
+RemoveCourse 13
+AddClass 40
+GetIthWatchedClass 56
+TimeViewed 4 13
+AddCourse 5
+AddCourse 18
+RemoveCourse 58
+TimeViewed 9 7
+TimeViewed 19 50
+AddCourse 42
+AddClass 69
+AddClass 30
+RemoveCourse 4
+AddClass 13
+AddClass 43
+GetIthWatchedClass 27
+TimeViewed 58 21
+WatchClass 65 53 7
+RemoveCourse 64
+WatchClass 61 4 -1
+RemoveCourse 0
+GetIthWatchedClass 32
+TimeViewed 66 33
+WatchClass 9 4 54
+RemoveCourse 64
+GetIthWatchedClass 0
+WatchClass 14 16 67
+AddCourse -1
+GetIthWatchedClass 15
+TimeViewed 13 43
+TimeViewed 35 36
+AddClass 63
+RemoveCourse 63
+AddCourse 12
+GetIthWatchedClass 43
+TimeViewed 29 32
+RemoveCourse 10
+WatchClass 16 67 2
+TimeViewed 36 -1
+RemoveCourse 64
+TimeViewed 26 31
+AddClass 16
+RemoveCourse 38
+WatchClass 28 23 48
+AddCourse 59
+TimeViewed -1 64
+AddClass 4
+AddCourse 25
+TimeViewed 30 13
+WatchClass 23 27 62
+TimeViewed 5 27
+AddCourse 26
+RemoveCourse 66
+AddClass 10
+GetIthWatchedClass 62
+RemoveCourse 65
+AddClass 19
+WatchClass 38 3 52
+AddClass 42
+RemoveCourse 12
+GetIthWatchedClass 24
+AddClass 9
+TimeViewed 9 42
+AddCourse 46
+WatchClass 23 27 50
+AddClass 45
+AddCourse 67
+TimeViewed 48 67
+TimeViewed 12 62
+GetIthWatchedClass 65
+AddCourse 6
+GetIthWatchedClass 31
+AddCourse 11
+GetIthWatchedClass 6
+RemoveCourse -1
+AddClass 12
+GetIthWatchedClass 48
+AddCourse 61
+AddCourse 20
+GetIthWatchedClass 51
+AddCourse 31
+AddClass 67
+TimeViewed 30 3
+WatchClass 36 32 15
+GetIthWatchedClass 46
+AddCourse 24
+TimeViewed 39 28
+TimeViewed 67 0
+TimeViewed 51 65
+AddClass 8
+AddCourse 57
+WatchClass 25 59 37
+GetIthWatchedClass 48
+AddClass 6
+WatchClass 24 53 49
+GetIthWatchedClass 24
+AddCourse 38
+WatchClass 18 25 37
+GetIthWatchedClass 33
+GetIthWatchedClass 11
+GetIthWatchedClass 24
+WatchClass 12 67 59
+TimeViewed 19 68
+TimeViewed 29 31
+WatchClass 40 58 3
+GetIthWatchedClass 17
+AddClass 14
+TimeViewed 24 45
+TimeViewed 10 39
+TimeViewed 21 58
+WatchClass 50 30 65
+WatchClass 48 54 12
+WatchClass 8 4 42
+RemoveCourse 32
+GetIthWatchedClass -1
+WatchClass 29 32 31
+RemoveCourse 19
+AddClass 37
+AddCourse -1
+AddCourse 9
+WatchClass 51 20 37
+GetIthWatchedClass 30
+AddClass 49
+GetIthWatchedClass 17
+RemoveCourse 32
+WatchClass 21 47 57
+WatchClass -2 54 69
+GetIthWatchedClass 12
+TimeViewed 6 65
+RemoveCourse 52
+AddClass 62
+WatchClass -1 62 44
+AddClass 29
+AddClass 37
+GetIthWatchedClass 13
+WatchClass 18 8 43
+AddCourse 48
+WatchClass 5 65 17
+AddClass 61
+AddCourse 23
+GetIthWatchedClass 14
+WatchClass 42 66 15
+AddClass 4
+TimeViewed 0 38
+RemoveCourse 39
+AddClass 32
+RemoveCourse 55
+TimeViewed 29 63
+RemoveCourse 53
+TimeViewed 24 18
+AddClass 41
+WatchClass 69 49 48
+RemoveCourse 43
+AddCourse 29
+WatchClass 24 42 32
+RemoveCourse 41
+WatchClass 28 14 26
+WatchClass 35 50 48
+AddClass 42
+TimeViewed 10 40
+AddClass 40
+RemoveCourse 57
+RemoveCourse 6
+RemoveCourse 49
+GetIthWatchedClass 3
+AddClass 55
+TimeViewed 26 49
+RemoveCourse 14
+AddCourse 69
+GetIthWatchedClass 37
+AddClass 40
+RemoveCourse 5
+GetIthWatchedClass 45
+RemoveCourse 5
+GetIthWatchedClass 43
+WatchClass 21 63 37
+WatchClass 11 4 26
+GetIthWatchedClass 12
+RemoveCourse 0
+WatchClass 23 66 58
+TimeViewed 62 67
+RemoveCourse 59
+AddClass 47
+WatchClass 68 4 55
+GetIthWatchedClass 26
+AddClass 37
+AddClass 13
+GetIthWatchedClass 7
+AddCourse 67
+RemoveCourse -3
+AddClass 66
+AddCourse 12
+RemoveCourse 31
+AddClass 46
+RemoveCourse 63
+AddCourse 7
+TimeViewed 47 57
+TimeViewed 6 25
+WatchClass 5 37 53
+TimeViewed 39 21
+RemoveCourse 39
+AddCourse 48
+RemoveCourse 58
+AddCourse 47
+AddCourse 23
+RemoveCourse 28
+TimeViewed 13 36
+AddClass 27
+WatchClass 34 2 14
+GetIthWatchedClass 34
+AddCourse 19
+GetIthWatchedClass 47
+AddCourse 55
+RemoveCourse 37
+WatchClass 40 -2 4
+AddClass 38
+TimeViewed 15 51
+TimeViewed 62 9
+GetIthWatchedClass 10
+TimeViewed 15 19
+AddClass 2
+TimeViewed 52 24
+GetIthWatchedClass 1
+AddClass 10
+RemoveCourse 48
+AddClass 19
+AddClass 12
+GetIthWatchedClass 51
+RemoveCourse 68
+TimeViewed 40 -1
+GetIthWatchedClass 55
+TimeViewed 51 0
+WatchClass 68 35 9
+AddClass 14
+RemoveCourse 61
+RemoveCourse 14
+AddClass 2
+TimeViewed 52 52
+AddCourse 39
+TimeViewed 47 68
+AddClass 44
+WatchClass 46 62 36
+RemoveCourse 39
+GetIthWatchedClass 43
+AddCourse 24
+GetIthWatchedClass 61
+RemoveCourse 70
+RemoveCourse 30
+GetIthWatchedClass 68
+AddClass 26
+WatchClass 29 61 56
+RemoveCourse 15
+RemoveCourse 68
+RemoveCourse -3
+RemoveCourse 36
+RemoveCourse 15
+AddCourse 37
+AddClass 55
+WatchClass 28 25 9
+WatchClass 44 52 9
+AddCourse 53
+AddClass 55
+GetIthWatchedClass 49
+WatchClass 22 65 34
+RemoveCourse 22
+AddClass 52
+GetIthWatchedClass 0
+WatchClass 45 14 43
+RemoveCourse 26
+RemoveCourse 3
+WatchClass 19 30 39
+TimeViewed -1 53
+AddCourse 62
+WatchClass 38 48 35
+GetIthWatchedClass 52
+TimeViewed 66 51
+AddCourse 57
+RemoveCourse 56
+AddClass 42
+WatchClass 49 56 67
+GetIthWatchedClass 2
+AddCourse 4
+AddCourse 26
+RemoveCourse 21
+AddClass 23
+GetIthWatchedClass 69
+RemoveCourse -3
+RemoveCourse 32
+RemoveCourse 21
+WatchClass 66 24 57
+AddClass 9
+AddClass 48
+AddClass 52
+WatchClass 40 38 29
+AddClass 57
+WatchClass 23 42 67
+RemoveCourse 70
+GetIthWatchedClass 3
+AddCourse 66
+AddClass 59
+GetIthWatchedClass 59
+WatchClass 20 3 40
+RemoveCourse 3
+AddCourse 43
+GetIthWatchedClass 53
+TimeViewed 10 24
+TimeViewed 45 54
+GetIthWatchedClass 36
+GetIthWatchedClass 45
+AddCourse 61
+TimeViewed 31 29
+AddCourse 66
+WatchClass 57 42 49
+AddCourse 17
+AddClass 51
+GetIthWatchedClass 47
+AddCourse 13
+GetIthWatchedClass 19
+TimeViewed 23 34
+AddCourse 64
+WatchClass 38 63 -1
+GetIthWatchedClass 16
+AddCourse 57
+AddClass 24
+RemoveCourse 54
+RemoveCourse 46
+RemoveCourse 70
+AddCourse 58
+WatchClass 43 23 5
+TimeViewed 10 66
+AddCourse 49
+WatchClass 33 63 67
+GetIthWatchedClass 32
+RemoveCourse 8
+GetIthWatchedClass 41
+AddCourse 61
+AddCourse 39
+TimeViewed 68 51
+AddClass 26
+WatchClass 35 46 55
+RemoveCourse 66
+AddCourse 28
+TimeViewed -1 -1
+AddClass 70
+AddCourse 53
+RemoveCourse 17
+AddClass 8
+AddCourse 27
+AddClass 12
+RemoveCourse 38
+AddClass 68
+WatchClass -2 56 30
+RemoveCourse 24
+GetIthWatchedClass 51
+AddCourse 15
+AddCourse 50
+WatchClass 48 51 33
+GetIthWatchedClass 7
+AddCourse 61
+AddClass 40
+GetIthWatchedClass -3
+AddClass 22
+GetIthWatchedClass 62
+AddClass 56
+TimeViewed 42 48
+WatchClass 33 7 68
+TimeViewed 43 27
+RemoveCourse 30
+AddClass 48
+AddCourse 37
+AddCourse 10
+TimeViewed 25 2
+RemoveCourse 14
+AddCourse -1
+WatchClass 51 7 35
+TimeViewed 10 61
+TimeViewed 33 -1
+GetIthWatchedClass 40
+RemoveCourse 27
+WatchClass 13 33 48
+AddCourse 7
+RemoveCourse 31
+TimeViewed 46 66
+RemoveCourse -2
+AddCourse 49
+AddCourse 24
+AddClass 45
+TimeViewed 64 16
+WatchClass 21 49 19
+RemoveCourse 67
+WatchClass 60 42 0
+RemoveCourse 1
+TimeViewed 64 54
+GetIthWatchedClass 53
+RemoveCourse 16
+WatchClass 56 40 4
+RemoveCourse 38
+TimeViewed 3 51
+WatchClass 17 69 5
+GetIthWatchedClass 12
+GetIthWatchedClass 6
+TimeViewed 18 59
+AddClass 11
+WatchClass 70 31 26
+AddClass 43
+RemoveCourse 36
+GetIthWatchedClass 64
+AddClass 7
+RemoveCourse 0
+AddClass 43
+TimeViewed 50 24
+TimeViewed 53 34
+TimeViewed 34 9
+AddClass 6
+AddCourse 54
+RemoveCourse 50
+TimeViewed 64 17
+AddClass 25
+GetIthWatchedClass 19
+WatchClass 61 29 55
+GetIthWatchedClass -2
+WatchClass 59 18 17
+AddClass 32
+GetIthWatchedClass 23
+GetIthWatchedClass 60
+GetIthWatchedClass 56
+WatchClass 33 3 31
+AddClass 36
+TimeViewed 61 19
+WatchClass 44 54 13
+AddCourse 48
+WatchClass 60 66 39
+TimeViewed 2 49
+GetIthWatchedClass 3
+RemoveCourse 1
+AddCourse 32
+WatchClass 45 28 47
+GetIthWatchedClass 11
+RemoveCourse 53
+GetIthWatchedClass 39
+AddClass 2
+RemoveCourse 40
+AddCourse 16
+GetIthWatchedClass 44
+WatchClass 36 4 3
+WatchClass 15 36 42
+TimeViewed 10 45
+AddClass 54
+TimeViewed 65 33
+AddClass 32
+WatchClass -2 68 38
+AddCourse 1
+AddClass 25
+AddClass 30
+TimeViewed 25 -3
+WatchClass 65 65 64
+AddCourse 7
+AddCourse 27
+RemoveCourse 7
+WatchClass 60 45 17
+AddClass 9
+TimeViewed 49 -3
+RemoveCourse 20
+WatchClass 70 17 12
+WatchClass 12 -2 49
+AddClass 63
+AddCourse 29
+GetIthWatchedClass 52
+TimeViewed 64 29
+TimeViewed 58 3
+AddClass 2
+GetIthWatchedClass 52
+RemoveCourse 64
+AddClass 17
+RemoveCourse 17
+WatchClass 65 22 35
+AddClass -1
+AddClass 49
+AddCourse 22
+AddClass 42
+WatchClass 6 46 33
+RemoveCourse 15
+AddClass 51
+AddCourse 44
+AddCourse 68
+AddClass 70
+AddClass 31
+AddClass 15
+GetIthWatchedClass 8
+RemoveCourse 41
+AddClass 36
+TimeViewed 33 16
+AddClass 13
+RemoveCourse 3
+AddCourse 4
+AddClass 16
+GetIthWatchedClass 50
+GetIthWatchedClass 14
+RemoveCourse 62
+GetIthWatchedClass 54
+TimeViewed 50 17
+GetIthWatchedClass 35
+RemoveCourse 16
+AddCourse 15
+GetIthWatchedClass 30
+TimeViewed 40 50
+RemoveCourse 49
+WatchClass 58 69 -2
+AddClass 41
+RemoveCourse 21
+TimeViewed 2 55
+AddClass 16
+WatchClass 25 12 26
+GetIthWatchedClass 55
+TimeViewed 18 69
+RemoveCourse 29
+GetIthWatchedClass 13
+WatchClass 42 13 -3
+WatchClass 26 10 10
+RemoveCourse 10
+GetIthWatchedClass 67
+TimeViewed 58 25
+TimeViewed 35 31
+GetIthWatchedClass 42
+WatchClass 34 25 26
+AddCourse 12
+WatchClass 58 9 33
+RemoveCourse 14
+RemoveCourse 27
+TimeViewed 57 35
+AddClass 52
+AddClass 66
+WatchClass 68 9 -2
+RemoveCourse 38
+TimeViewed 63 14
+TimeViewed 69 7
+RemoveCourse 25
+TimeViewed 40 55
+TimeViewed 53 51
+GetIthWatchedClass 7
+AddClass 2
+AddCourse 5
+GetIthWatchedClass 53
+AddCourse 55
+RemoveCourse 17
+WatchClass -1 61 44
+TimeViewed 2 35
+WatchClass 0 10 2
+AddClass 2
+RemoveCourse 12
+AddClass 40
+TimeViewed 51 -2
+AddCourse 55
+WatchClass 58 69 57
+TimeViewed 10 2
+GetIthWatchedClass 31
+TimeViewed 48 37
+AddClass 62
+RemoveCourse 21
+AddClass 20
+WatchClass 0 10 34
+RemoveCourse 8
+AddClass 40
+RemoveCourse 66
+WatchClass 60 53 24
+RemoveCourse 46
+WatchClass 30 3 64
+GetIthWatchedClass 16
+WatchClass 35 11 56
+AddCourse 39
+WatchClass 10 24 23
+TimeViewed 10 27
+TimeViewed 45 41
+RemoveCourse 21
+GetIthWatchedClass 27
+AddClass 7
+AddCourse 64
+AddCourse 17
+AddCourse 38
+AddClass 67
+AddCourse -3
+TimeViewed 63 14
+TimeViewed 28 66
+WatchClass 35 19 23
+RemoveCourse 60
+RemoveCourse 50
+RemoveCourse -2
+GetIthWatchedClass 70
+GetIthWatchedClass 35
+TimeViewed 38 47
+WatchClass 51 43 40
+WatchClass 61 34 47
+GetIthWatchedClass 14
+RemoveCourse 31
+WatchClass 15 6 7
+AddClass 49
+RemoveCourse 28
+AddClass 57
+GetIthWatchedClass 2
+AddCourse 19
+TimeViewed 23 34
+WatchClass 26 35 20
+AddClass 35
+TimeViewed 37 59
+AddClass 54
+TimeViewed 56 25
+TimeViewed 61 49
+AddCourse -1
+GetIthWatchedClass 65
+TimeViewed 28 40
+WatchClass 49 24 37
+TimeViewed 10 49
+AddCourse 12
+AddClass 18
+AddClass 17
+AddClass 53
+AddCourse 67
+AddCourse 62
+RemoveCourse 66
+AddCourse 2
+GetIthWatchedClass 10
+TimeViewed 66 46
+TimeViewed 50 58
+AddCourse 16
+WatchClass 49 0 35
+AddCourse 39
+GetIthWatchedClass 11
+AddClass 43
+AddClass 23
+RemoveCourse 67
+GetIthWatchedClass 61
+RemoveCourse 5
+AddClass 24
+WatchClass 5 8 66
+AddClass 52
+TimeViewed 47 17
+AddClass 39
+TimeViewed 61 31
+GetIthWatchedClass 22
+GetIthWatchedClass 66
+RemoveCourse 6
+AddCourse 61
+WatchClass 48 7 69
+TimeViewed 39 62
+GetIthWatchedClass 28
+TimeViewed 8 43
+TimeViewed 63 15
+WatchClass 5 4 10
+WatchClass 28 30 59
+TimeViewed 14 25
+AddClass 7
+GetIthWatchedClass 42
+TimeViewed 14 44
+AddCourse 7
+TimeViewed 53 62
+TimeViewed 56 65
+GetIthWatchedClass 24
+AddCourse 61
+TimeViewed 68 53
+WatchClass 47 39 17
+TimeViewed 12 2
+WatchClass 23 -1 2
+RemoveCourse 54
+AddCourse 52
+AddClass 18
+GetIthWatchedClass -2
+AddClass 4
+AddClass 35
+TimeViewed 41 33
+GetIthWatchedClass 29
+WatchClass 54 39 40
+TimeViewed 46 -2
+RemoveCourse 63
+AddClass 49
+WatchClass 11 36 5
+GetIthWatchedClass 12
+RemoveCourse 16
+AddCourse -1
+WatchClass 6 50 5
+WatchClass 1 27 19
+AddClass 65
+AddClass 14
+RemoveCourse 27
+AddClass 62
+AddCourse 4
+AddCourse 70
+WatchClass 51 12 56
+TimeViewed 47 -2
+AddClass 59
+RemoveCourse 11
+TimeViewed 37 63
+TimeViewed 38 22
+RemoveCourse 56
+AddCourse -2
+TimeViewed 45 64
+WatchClass 31 1 65
+AddClass 27
+WatchClass 31 15 66
+GetIthWatchedClass 64
+WatchClass 25 33 48
+RemoveCourse 45
+RemoveCourse 25
+RemoveCourse 45
+AddCourse 26
+AddClass 47
+RemoveCourse 12
+TimeViewed 11 40
+RemoveCourse 25
+RemoveCourse 9
+WatchClass 15 51 12
+WatchClass 25 27 0
+AddClass 5
+RemoveCourse 13
+RemoveCourse 15
+TimeViewed 44 51
+AddClass 45
+AddCourse 13
+AddClass 43
+GetIthWatchedClass 29
+WatchClass 63 59 61
+GetIthWatchedClass 3
+WatchClass 48 62 26
+GetIthWatchedClass 50
+AddClass 69
+GetIthWatchedClass 40
+AddClass 3
+AddClass 24
+AddCourse 8
+WatchClass 55 5 55
+WatchClass 49 67 23
+AddCourse 67
+TimeViewed 45 65
+TimeViewed 47 5
+TimeViewed 9 30
+GetIthWatchedClass 2
+AddClass 58
+GetIthWatchedClass 37
+WatchClass 65 10 42
+WatchClass 57 42 12
+GetIthWatchedClass 21
+RemoveCourse 17
+WatchClass 69 -3 30
+TimeViewed -2 49
+AddCourse 13
+TimeViewed 66 41
+AddCourse 63
+AddCourse -1
+GetIthWatchedClass 40
+WatchClass 39 55 14
+WatchClass 26 47 46
+AddCourse 66
+WatchClass 1 -1 40
+RemoveCourse 38
+RemoveCourse 31
+GetIthWatchedClass 31
+RemoveCourse 3
+WatchClass 44 19 26
+AddClass 23
+AddCourse 45
+TimeViewed 16 2
+RemoveCourse -2
+AddClass 66
+AddCourse 69
+AddClass 49
+AddCourse 30
+AddClass 38
+AddCourse 18
+AddCourse 43
+AddCourse 31
+AddCourse 63
+GetIthWatchedClass 65
+TimeViewed 0 50
+WatchClass 46 17 8
+WatchClass 7 13 38
+WatchClass 55 50 33
+GetIthWatchedClass 0
+AddClass 25
+AddCourse 43
+RemoveCourse 33
+GetIthWatchedClass 63
+GetIthWatchedClass 51
+WatchClass 22 54 10
+AddCourse 68
+RemoveCourse 33
+GetIthWatchedClass 11
+TimeViewed 60 6
+GetIthWatchedClass 26
+AddCourse 50
+GetIthWatchedClass 46
+AddCourse 12
+AddClass 53
+GetIthWatchedClass 34
+GetIthWatchedClass 44
+GetIthWatchedClass 48
+TimeViewed 28 -3
+WatchClass 44 42 9
+GetIthWatchedClass 47
+RemoveCourse -1
+WatchClass 11 55 40
+TimeViewed 29 2
+AddCourse 32
+AddClass 14
+TimeViewed 63 17
+AddCourse 41
+TimeViewed 33 33
+RemoveCourse 35
+TimeViewed 48 63
+AddCourse -1
+GetIthWatchedClass 69
+AddCourse 2
+RemoveCourse 44
+AddClass 61
+GetIthWatchedClass 10
+WatchClass 1 -3 27
+GetIthWatchedClass 60
+WatchClass 19 9 -3
+AddClass 39
+WatchClass 24 21 62
+GetIthWatchedClass 34
+AddCourse 62
+AddClass 53
+GetIthWatchedClass 36
+RemoveCourse 64
+AddCourse 26
+AddClass 30
+AddClass 21
+TimeViewed 45 7
+GetIthWatchedClass 13
+AddCourse 49
+WatchClass 52 -3 35
+AddCourse 3
+WatchClass 53 -2 63
+TimeViewed 47 40
+TimeViewed 9 7
+WatchClass 5 25 32
+GetIthWatchedClass 58
+TimeViewed 70 35
+AddClass 1
+GetIthWatchedClass 62
+GetIthWatchedClass 18
+RemoveCourse 55
+GetIthWatchedClass 26
+AddClass 12
+WatchClass 21 13 64
+GetIthWatchedClass 20
+WatchClass 47 65 53
+AddClass 49
+AddCourse 54
+TimeViewed -3 13
+TimeViewed 46 44
+AddCourse 18
+AddClass 27
+TimeViewed 47 -1
+AddClass -2
+GetIthWatchedClass 30
+WatchClass 13 3 17
+AddCourse 62
+GetIthWatchedClass -1
+WatchClass 51 41 62
+GetIthWatchedClass 21
+WatchClass 37 31 33
+AddClass 68
+AddClass 35
+AddClass 49
+GetIthWatchedClass 39
+AddClass 7
+AddClass 68
+AddClass 15
+GetIthWatchedClass 39
+RemoveCourse -2
+RemoveCourse 59
+GetIthWatchedClass 0
+AddCourse 3
+RemoveCourse 61
+AddCourse 67
+AddCourse 45
+GetIthWatchedClass 23
+GetIthWatchedClass 38
+RemoveCourse 30
+AddClass 65
+AddClass 39
+WatchClass 32 32 42
+TimeViewed 47 53
+RemoveCourse 69
+AddClass 19
+AddClass 15
+TimeViewed 52 27
+AddClass 47
+GetIthWatchedClass 67
+TimeViewed 40 64
+AddClass 54
+TimeViewed 54 62
+GetIthWatchedClass 33
+TimeViewed 41 68
+AddClass 60
+WatchClass 61 47 -3
+WatchClass 0 63 33
+GetIthWatchedClass 10
+WatchClass 24 11 29
+AddClass 15
+AddCourse 49
+WatchClass 6 14 67
+RemoveCourse 48
+GetIthWatchedClass 6
+GetIthWatchedClass 67
+AddClass 12
+AddClass 18
+RemoveCourse 69
+RemoveCourse 15
+TimeViewed 7 5
+TimeViewed 5 55
+GetIthWatchedClass 62
+AddCourse 1
+TimeViewed 39 69
+GetIthWatchedClass 28
+GetIthWatchedClass 16
+GetIthWatchedClass 51
+WatchClass 8 29 45
+WatchClass 52 5 47
+WatchClass 52 23 68
+WatchClass 26 24 53
+WatchClass 36 44 53
+GetIthWatchedClass 63
+TimeViewed 23 68
+TimeViewed 56 21
+AddCourse 20
+AddClass 15
+WatchClass 11 28 53
+GetIthWatchedClass 8
+AddCourse 60
+RemoveCourse 42
+WatchClass 31 5 67
+AddCourse 63
+WatchClass 67 30 9
+AddClass -1
+TimeViewed 35 42
+WatchClass 38 15 36
+RemoveCourse 33
+AddCourse 24
+AddClass -1
+GetIthWatchedClass 70
+WatchClass 29 60 8
+WatchClass 16 63 35
+RemoveCourse 46
+RemoveCourse 12
+GetIthWatchedClass 26
+RemoveCourse 30
+GetIthWatchedClass 68
+AddCourse 36
+AddClass 64
+AddClass 17
+GetIthWatchedClass 35
+WatchClass 62 -2 7
+AddCourse 19
+WatchClass 39 38 21
+GetIthWatchedClass 4
+WatchClass 18 16 38
+AddCourse 29
+AddCourse 52
+AddCourse 58
+WatchClass 16 59 1
+AddClass 70
+RemoveCourse 12
+TimeViewed 69 -3
+AddClass 14
+TimeViewed 57 52
+GetIthWatchedClass 53
+GetIthWatchedClass 37
+AddCourse 45
+TimeViewed 67 -3
+AddCourse 23
+AddClass 4
+GetIthWatchedClass 25
+GetIthWatchedClass 67
+RemoveCourse 43
+AddCourse 41
+WatchClass 49 4 61
+AddClass 28
+RemoveCourse 9
+AddCourse 63
+TimeViewed 52 23
+AddClass 6
+TimeViewed 66 36
+AddCourse 41
+AddClass 3
+WatchClass 65 65 55
+RemoveCourse 15
+GetIthWatchedClass 46
+WatchClass 61 68 23
+AddCourse 13
+RemoveCourse 60
+TimeViewed 53 11
+WatchClass 53 31 -1
+AddCourse 56
+TimeViewed 66 51
+WatchClass 18 16 70
+AddClass 36
+WatchClass 65 11 47
+WatchClass 38 30 39
+GetIthWatchedClass 34
+AddCourse 56
+RemoveCourse 33
+RemoveCourse 33
+GetIthWatchedClass 49
+GetIthWatchedClass 22
+GetIthWatchedClass 30
+AddCourse 14
+AddCourse 57
+WatchClass 35 1 -1
+WatchClass 16 7 25
+TimeViewed 33 0
+AddCourse 6
+TimeViewed 56 68
+TimeViewed 69 6
+AddClass 60
+RemoveCourse 40
+TimeViewed 63 40
+RemoveCourse 28
+AddClass 9
+AddCourse 49
+AddClass 6
+TimeViewed -2 49
+AddCourse 2
+TimeViewed 59 17
+GetIthWatchedClass -1
+AddClass 12
+AddClass 19
+GetIthWatchedClass 26
+AddClass 4
+WatchClass 54 16 49
+WatchClass 4 18 36
+WatchClass 41 16 57
+AddClass 62
+GetIthWatchedClass 22
+GetIthWatchedClass 22
+AddCourse 69
+AddCourse 44
+AddCourse 70
+WatchClass 33 47 51
+RemoveCourse 56
+AddClass 32
+GetIthWatchedClass 54
+AddClass 38
+GetIthWatchedClass 19
+RemoveCourse 64
+GetIthWatchedClass 43
+RemoveCourse 9
+RemoveCourse 27
+AddCourse 61
+RemoveCourse 25
+GetIthWatchedClass 48
+GetIthWatchedClass 8
+TimeViewed 21 26
+TimeViewed 24 8
+AddCourse 33
+RemoveCourse -3
+RemoveCourse -3
+GetIthWatchedClass 10
+TimeViewed 22 47
+TimeViewed 39 4
+AddCourse 37
+RemoveCourse 50
+RemoveCourse 22
+TimeViewed 1 69
+WatchClass 27 13 67
+GetIthWatchedClass 16
+AddCourse 30
+RemoveCourse 59
+AddCourse 66
+TimeViewed 47 55
+AddCourse 35
+AddClass 44
+AddCourse 54
+RemoveCourse 60
+GetIthWatchedClass 17
+RemoveCourse 51
+TimeViewed 40 55
+AddClass 69
+RemoveCourse 33
+RemoveCourse 27
+WatchClass 53 6 11
+TimeViewed 0 21
+TimeViewed 55 49
+GetIthWatchedClass 12
+AddClass 64
+TimeViewed 28 48
+RemoveCourse 43
+RemoveCourse 61
+AddClass 28
+RemoveCourse 24
+RemoveCourse 5
+RemoveCourse 41
+AddCourse 2
+AddCourse 0
+AddClass 55
+AddCourse 60
+AddCourse 51
+TimeViewed 17 2
+AddClass 63
+TimeViewed 32 19
+WatchClass 28 12 62
+AddClass 54
+RemoveCourse 69
+RemoveCourse 59
+TimeViewed 14 64
+AddClass 38
+RemoveCourse 13
+AddClass 37
+AddCourse 37
+AddCourse 56
+GetIthWatchedClass 66
+RemoveCourse 24
+AddClass 68
+GetIthWatchedClass 51
+RemoveCourse 21
+GetIthWatchedClass -1
+TimeViewed -3 46
+WatchClass 54 40 -3
+WatchClass 4 8 49
+GetIthWatchedClass 60
+RemoveCourse 14
+WatchClass 28 2 38
+RemoveCourse 15
+TimeViewed 46 31
+AddCourse 5
+GetIthWatchedClass 12
+TimeViewed 36 3
+WatchClass 25 54 50
+RemoveCourse 56
+AddClass 49
+RemoveCourse 35
+RemoveCourse 55
+TimeViewed 41 48
+RemoveCourse 33
+TimeViewed 22 10
+GetIthWatchedClass 54
+RemoveCourse -3
+WatchClass -1 49 43
+AddCourse 15
+AddCourse 48
+TimeViewed 31 0
+WatchClass -1 50 1
+GetIthWatchedClass 47
+WatchClass 1 69 0
+GetIthWatchedClass 50
+WatchClass 26 62 61
+TimeViewed 14 58
+RemoveCourse 63
+RemoveCourse 26
+WatchClass 43 21 51
+GetIthWatchedClass -1
+TimeViewed 60 -3
+AddCourse 23
+WatchClass 57 1 -1
+RemoveCourse 24
+AddCourse 25
+TimeViewed 4 63
+RemoveCourse 35
+WatchClass -2 47 59
+RemoveCourse 60
+AddCourse 53
+RemoveCourse 42
+AddClass 11
+RemoveCourse 19
+AddCourse 65
+WatchClass 8 2 35
+RemoveCourse 62
+GetIthWatchedClass 20
+GetIthWatchedClass 37
+RemoveCourse -2
+RemoveCourse 11
+RemoveCourse 57
+GetIthWatchedClass 1
+GetIthWatchedClass 53
+AddCourse 23
+GetIthWatchedClass 65
+GetIthWatchedClass 28
+RemoveCourse 48
+WatchClass 20 14 54
+WatchClass 15 64 39
+AddCourse -2
+AddCourse 50
+GetIthWatchedClass 21
+TimeViewed 3 20
+AddClass 15
+GetIthWatchedClass 55
+AddClass 49
+WatchClass 33 66 37
+GetIthWatchedClass 27
+WatchClass 15 31 24
+TimeViewed 31 70
+WatchClass 59 37 -1
+WatchClass 67 66 19
+GetIthWatchedClass 17
+AddClass 68
+TimeViewed 57 45
+AddClass 52
+WatchClass 62 4 56
+AddClass 14
+AddClass 22
+WatchClass 7 36 20
+GetIthWatchedClass 46
+AddCourse 37
+RemoveCourse 32
+TimeViewed 50 68
+RemoveCourse -1
+RemoveCourse -3
+TimeViewed 44 11
+TimeViewed 60 10
+RemoveCourse 13
+TimeViewed 8 6
+WatchClass 10 62 22
+RemoveCourse 23
+TimeViewed 52 9
+AddClass 56
+TimeViewed 66 69
+AddClass 5
+WatchClass 5 39 13
+RemoveCourse 69
+RemoveCourse 54
+GetIthWatchedClass 29
+WatchClass 17 2 58
+AddClass 43
+AddClass 61
+RemoveCourse -2
+RemoveCourse 11
+AddClass 23
+WatchClass 68 48 35
+RemoveCourse 26
+WatchClass 31 45 10
+GetIthWatchedClass 44
+AddCourse 48
+GetIthWatchedClass 43
+AddCourse 31
+TimeViewed 34 53
+WatchClass 15 41 18
+AddCourse 25
+AddClass 55
+AddCourse 13
+RemoveCourse 10
+GetIthWatchedClass 55
+RemoveCourse 47
+AddClass 38
+TimeViewed 17 56
+RemoveCourse 42
+AddCourse 33
+AddCourse 52
+AddCourse 23
+WatchClass 13 49 28
+TimeViewed 29 11
+TimeViewed 67 64
+AddClass 9
+TimeViewed 60 21
+WatchClass 56 27 66
+AddCourse 12
+TimeViewed 54 21
+GetIthWatchedClass 53
+RemoveCourse 49
+AddClass 32
+AddClass -1
+WatchClass 60 23 70
+TimeViewed 14 41
+WatchClass 64 63 24
+RemoveCourse 57
+RemoveCourse 55
+RemoveCourse 25
+RemoveCourse 57
+GetIthWatchedClass 1
+AddCourse 57
+RemoveCourse 63
+WatchClass 36 8 39
+AddCourse 50
+GetIthWatchedClass 65
+RemoveCourse 52
+WatchClass -1 33 27
+TimeViewed 41 14
+WatchClass 67 26 0
+AddClass 4
+TimeViewed 59 53
+GetIthWatchedClass 44
+TimeViewed 50 19
+WatchClass 33 29 44
+AddClass 16
+RemoveCourse 69
+RemoveCourse 19
+RemoveCourse 59
+GetIthWatchedClass 4
+WatchClass 54 17 52
+AddCourse 3
+TimeViewed 39 31
+RemoveCourse 66
+GetIthWatchedClass -3
+AddClass 48
+RemoveCourse 56
+RemoveCourse 3
+AddClass 39
+AddClass 5
+TimeViewed 59 8
+GetIthWatchedClass 57
+RemoveCourse 2
+GetIthWatchedClass 62
+RemoveCourse 25
+WatchClass 25 42 25
+TimeViewed 22 31
+RemoveCourse 26
+WatchClass 60 21 44
+GetIthWatchedClass 48
+WatchClass 53 3 27
+AddClass 57
+WatchClass 12 60 34
+WatchClass 0 55 57
+RemoveCourse 68
+GetIthWatchedClass 7
+GetIthWatchedClass 32
+WatchClass 8 35 65
+RemoveCourse 31
+AddClass 44
+AddCourse 25
+RemoveCourse 60
+AddClass 15
+AddCourse 70
+TimeViewed 28 0
+AddClass 0
+AddCourse 33
+AddCourse 55
+TimeViewed 16 68
+AddCourse 30
+TimeViewed 0 38
+RemoveCourse 32
+TimeViewed 50 0
+RemoveCourse 32
+GetIthWatchedClass 67
+RemoveCourse 1
+RemoveCourse 40
+AddCourse 52
+TimeViewed 44 7
+AddClass 48
+GetIthWatchedClass 64
+TimeViewed 9 30
+TimeViewed 19 24
+TimeViewed 4 12
+AddClass 18
+WatchClass -3 30 31
+AddCourse 22
+GetIthWatchedClass 31
+AddClass 70
+GetIthWatchedClass 27
+GetIthWatchedClass -1
+GetIthWatchedClass 8
+RemoveCourse 65
+GetIthWatchedClass 69
+AddClass 33
+WatchClass 37 29 47
+AddClass -1
+AddCourse 14
+AddClass 57
+GetIthWatchedClass 27
+WatchClass 45 62 66
+WatchClass 22 21 46
+AddCourse 44
+RemoveCourse 15
+GetIthWatchedClass 21
+TimeViewed 44 2
+GetIthWatchedClass 18
+WatchClass 53 38 54
+AddCourse 17
+AddClass 28
+GetIthWatchedClass -3
+WatchClass 26 10 62
+TimeViewed 56 32
+GetIthWatchedClass 13
+AddClass 4
+AddCourse 66
+GetIthWatchedClass 26
+AddCourse 8
+AddCourse 10
+RemoveCourse 42
+WatchClass 32 44 38
+TimeViewed 22 36
+RemoveCourse 37
+AddClass 42
+GetIthWatchedClass 67
+GetIthWatchedClass 8
+WatchClass 24 25 17
+WatchClass 51 19 31
+TimeViewed 25 24
+TimeViewed 13 57
+TimeViewed 70 17
+TimeViewed 33 20
+GetIthWatchedClass 45
+GetIthWatchedClass 24
+AddClass 9
+AddClass 20
+WatchClass 1 68 15
+AddCourse 19
+TimeViewed 34 2
+AddClass 3
+AddClass 40
+TimeViewed 21 59
+TimeViewed 50 29
+RemoveCourse 4
+TimeViewed 18 51
+AddClass 67
+WatchClass 63 29 -3
+AddCourse 67
+TimeViewed 65 20
+AddClass 31
+RemoveCourse 8
+RemoveCourse 45
+GetIthWatchedClass 43
+AddClass 26
+TimeViewed 18 15
+RemoveCourse 0
+GetIthWatchedClass 54
+AddCourse 43
+AddCourse 56
+GetIthWatchedClass 33
+AddCourse 21
+WatchClass 33 44 54
+RemoveCourse 34
+WatchClass 48 70 25
+AddClass 58
+AddCourse 17
+AddCourse 6
+RemoveCourse -1
+RemoveCourse 44
+TimeViewed 1 69
+AddClass 8
+AddClass -3
+RemoveCourse 68
+TimeViewed 66 43
+TimeViewed 21 2
+GetIthWatchedClass 20
+AddClass 48
+AddCourse -3
+WatchClass 21 61 47
+WatchClass 26 61 53
+GetIthWatchedClass 33
+RemoveCourse 25
+RemoveCourse 52
+WatchClass 16 21 34
+AddClass 61
+AddCourse 59
+WatchClass 33 41 66
+WatchClass 15 5 12
+RemoveCourse 8
+AddCourse 41
+TimeViewed 37 -1
+AddCourse 0
+AddCourse 25
+AddClass 36
+AddClass 20
+GetIthWatchedClass 38
+TimeViewed 61 64
+GetIthWatchedClass 58
+GetIthWatchedClass 42
+TimeViewed 41 39
+WatchClass 9 12 -2
+AddClass 14
+AddCourse 60
+GetIthWatchedClass 43
+GetIthWatchedClass 8
+AddCourse 37
+AddCourse 8
+RemoveCourse 57
+TimeViewed 7 60
+RemoveCourse 54
+WatchClass 27 46 57
+WatchClass 38 2 20
+WatchClass 51 65 19
+AddClass 40
+AddClass 41
+WatchClass 32 62 17
+TimeViewed 20 58
+AddClass 51
+TimeViewed 54 69
+RemoveCourse 60
+AddCourse 35
+GetIthWatchedClass 15
+TimeViewed -3 66
+GetIthWatchedClass 4
+AddCourse 47
+TimeViewed 49 25
+AddClass 30
+AddCourse 25
+GetIthWatchedClass 52
+AddCourse 53
+WatchClass 63 61 -2
+RemoveCourse 34
+TimeViewed 43 15
+RemoveCourse 12
+AddClass 63
+WatchClass 69 51 46
+AddClass 66
+AddCourse 51
+AddCourse 51
+GetIthWatchedClass 66
+RemoveCourse 50
+AddClass 46
+WatchClass 6 40 33
+AddCourse 4
+WatchClass 17 21 59
+RemoveCourse 1
+WatchClass 9 21 -1
+TimeViewed 67 46
+TimeViewed -2 66
+RemoveCourse 62
+AddCourse 31
+TimeViewed 44 22
+GetIthWatchedClass 15
+GetIthWatchedClass 25
+GetIthWatchedClass 54
+AddClass 58
+AddCourse 2
+TimeViewed -1 3
+TimeViewed 28 34
+AddCourse 65
+RemoveCourse 56
+RemoveCourse 17
+RemoveCourse 43
+AddClass 57
+WatchClass 0 11 24
+AddCourse 17
+AddCourse 55
+TimeViewed 15 48
+GetIthWatchedClass 67
+RemoveCourse 4
+RemoveCourse 32
+AddCourse 38
+TimeViewed 35 19
+WatchClass 60 6 3
+AddCourse 69
+AddCourse 38
+RemoveCourse 50
+AddClass 52
+RemoveCourse 21
+RemoveCourse 28
+RemoveCourse 9
+GetIthWatchedClass 4
+TimeViewed 11 64
+AddCourse 16
+TimeViewed 41 36
+TimeViewed 51 52
+TimeViewed 20 26
+AddCourse 22
+WatchClass 46 42 57
+RemoveCourse 39
+WatchClass 0 57 59
+GetIthWatchedClass 24
+GetIthWatchedClass 29
+GetIthWatchedClass 67
+AddCourse 22
+AddCourse 1
+AddClass 16
+AddCourse 57
+AddClass 25
+GetIthWatchedClass 2
+RemoveCourse 45
+GetIthWatchedClass 35
+AddClass 15
+TimeViewed 22 -2
+RemoveCourse 22
+TimeViewed 63 66
+AddCourse 32
+RemoveCourse 13
+AddCourse 26
+WatchClass 50 46 58
+AddClass 64
+AddClass 36
+AddCourse 26
+GetIthWatchedClass 38
+RemoveCourse 67
+AddCourse 58
+GetIthWatchedClass 64
+AddClass 23
+TimeViewed 43 11
+AddClass 1
+AddCourse 55
+RemoveCourse -2
+AddCourse 12
+RemoveCourse 28
+TimeViewed -1 57
+WatchClass 25 10 31
+RemoveCourse 4
+RemoveCourse 42
+AddClass 27
+RemoveCourse -2
+AddCourse -1
+RemoveCourse 35
+RemoveCourse 63
+AddClass 14
+RemoveCourse 29
+TimeViewed 3 7
+RemoveCourse 0
+GetIthWatchedClass 53
+TimeViewed 5 -1
+TimeViewed 36 17
+AddClass 13
+AddCourse 43
+WatchClass 69 9 28
+WatchClass 40 33 -2
+RemoveCourse 60
+AddClass 25
+GetIthWatchedClass 43
+TimeViewed 27 6
+TimeViewed 33 56
+GetIthWatchedClass 45
+RemoveCourse 25
+GetIthWatchedClass 54
+AddClass 68
+GetIthWatchedClass 0
+GetIthWatchedClass 8
+WatchClass 1 62 4
+WatchClass 20 63 20
+RemoveCourse 38
+AddClass 29
+AddCourse -3
+RemoveCourse 59
+TimeViewed 15 49
+RemoveCourse 2
+WatchClass 32 12 13
+RemoveCourse 27
+TimeViewed 28 40
+TimeViewed 2 70
+RemoveCourse 69
+RemoveCourse 31
+GetIthWatchedClass 61
+WatchClass 28 69 67
+TimeViewed 53 19
+RemoveCourse 4
+GetIthWatchedClass 17
+WatchClass 49 28 50
+TimeViewed 38 48
+GetIthWatchedClass 60
+WatchClass 47 30 65
+WatchClass 19 -2 23
+WatchClass 68 36 40
+TimeViewed 13 37
+RemoveCourse 40
+AddClass 69
+GetIthWatchedClass 16
+GetIthWatchedClass 15
+WatchClass 38 24 68
+GetIthWatchedClass 62
+AddCourse 19
+GetIthWatchedClass 35
+RemoveCourse 67
+AddCourse 28
+RemoveCourse 29
+GetIthWatchedClass -3
+WatchClass 5 58 9
+TimeViewed 48 31
+WatchClass 8 29 -2
+WatchClass -2 58 6
+GetIthWatchedClass 34
+WatchClass 18 39 41
+AddClass 61
+AddClass 55
+RemoveCourse 12
+AddClass 59
+TimeViewed 9 27
+RemoveCourse 15
+WatchClass 36 48 64
+AddClass 5
+TimeViewed 24 70
+RemoveCourse 41
+RemoveCourse 53
+RemoveCourse 13
+AddCourse 22
+WatchClass 10 -2 19
+AddCourse 47
+TimeViewed 26 10
+WatchClass 57 24 48
+GetIthWatchedClass 69
+TimeViewed 22 29
+GetIthWatchedClass 63
+GetIthWatchedClass 49
+GetIthWatchedClass 47
+TimeViewed 64 37
+WatchClass 21 -2 36
+AddClass 7
+GetIthWatchedClass -1
+AddClass 3
+AddCourse 12
+RemoveCourse 21
+AddCourse 3
+AddClass 6
+WatchClass -2 67 43
+WatchClass 3 37 58
+RemoveCourse 24
+AddClass 11
+WatchClass 40 4 21
+AddCourse 67
+AddClass 51
+TimeViewed 26 38
+RemoveCourse 38
+GetIthWatchedClass 53
+AddClass -2
+TimeViewed 43 32
+GetIthWatchedClass 42
+TimeViewed 54 42
+AddCourse 57
+GetIthWatchedClass 42
+TimeViewed 18 23
+GetIthWatchedClass 47
+WatchClass 0 20 69
+TimeViewed 37 29
+RemoveCourse 38
+GetIthWatchedClass 50
+WatchClass 27 15 34
+AddClass 53
+WatchClass 53 68 19
+AddCourse 37
+TimeViewed 66 21
+WatchClass 13 45 8
+TimeViewed 19 37
+AddCourse 41
+WatchClass 18 37 57
+WatchClass 25 56 45
+TimeViewed 5 23
+TimeViewed 1 0
+AddClass 25
+GetIthWatchedClass 4
+GetIthWatchedClass 27
+RemoveCourse 23
+TimeViewed 15 59
+WatchClass 23 49 32
+GetIthWatchedClass 67
+GetIthWatchedClass 14
+TimeViewed 61 39
+TimeViewed 13 33
+AddClass -2
+WatchClass -1 4 52
+AddCourse 16
+AddClass 2
+AddCourse 52
+RemoveCourse 29
+AddClass 25
+WatchClass 65 41 45
+TimeViewed 30 54
+AddClass 58
+WatchClass 31 23 7
+AddCourse -1
+RemoveCourse 57
+AddClass 60
+WatchClass 55 12 -1
+TimeViewed 56 46
+AddCourse 31
+GetIthWatchedClass 64
+WatchClass 40 27 50
+TimeViewed 44 23
+AddClass 47
+AddClass 21
+AddClass 1
+AddClass 38
+TimeViewed 15 14
+AddClass 11
+AddClass 61
+TimeViewed 19 22
+GetIthWatchedClass 25
+AddClass 12
+TimeViewed 18 6
+AddCourse 56
+TimeViewed 34 39
+RemoveCourse 53
+AddClass 53
+WatchClass 19 51 7
+RemoveCourse 51
+AddClass 43
+TimeViewed 1 63
+RemoveCourse 46
+TimeViewed 40 24
+WatchClass 18 45 24
+GetIthWatchedClass 7
+RemoveCourse 28
+TimeViewed 9 56
+AddCourse 69
+RemoveCourse 32
+RemoveCourse 38
+WatchClass 40 46 14
+RemoveCourse 52
+TimeViewed 45 70
+GetIthWatchedClass 18
+GetIthWatchedClass 23
+AddCourse 17
+RemoveCourse 37
+WatchClass 13 14 1
+AddClass 15
+GetIthWatchedClass 67
+RemoveCourse 19
+AddCourse 10
+AddClass -3
+WatchClass 10 66 -3
+WatchClass 15 46 57
+WatchClass 19 70 66
+GetIthWatchedClass 24
+TimeViewed 62 63
+WatchClass 26 15 55
+WatchClass 1 37 52
+AddClass 20
+AddCourse 20
+AddCourse 0
+GetIthWatchedClass 32
+GetIthWatchedClass 15
+RemoveCourse 24
+WatchClass 13 4 19
+TimeViewed 8 12
+WatchClass 57 63 20
+RemoveCourse 30
+GetIthWatchedClass 7
+GetIthWatchedClass 14
+WatchClass 68 17 46
+GetIthWatchedClass 0
+AddCourse 1
+WatchClass 51 32 4
+WatchClass 11 -1 49
+GetIthWatchedClass 63
+RemoveCourse 1
+AddClass 35
+WatchClass 69 45 32
+WatchClass 60 42 9
+RemoveCourse 37
+WatchClass 47 34 28
+RemoveCourse 3
+GetIthWatchedClass 17
+GetIthWatchedClass 0
+AddCourse 17
+WatchClass 38 -2 25
+TimeViewed 2 39
+RemoveCourse 30
+WatchClass 6 59 9
+AddCourse 23
+AddCourse 61
+WatchClass 7 11 65
+AddCourse 58
+WatchClass 37 36 44
+RemoveCourse 47
+AddCourse 38
+RemoveCourse 44
+WatchClass 28 52 68
+RemoveCourse 68
+TimeViewed 60 38
+WatchClass 36 6 36
+TimeViewed 45 50
+TimeViewed 19 17
+AddCourse 30
+GetIthWatchedClass 24
+AddCourse 34
+AddClass 53
+AddCourse 20
+AddClass 46
+AddClass 35
+WatchClass 0 14 15
+TimeViewed 59 18
+AddClass 57
+AddClass 37
+WatchClass 54 54 19
+TimeViewed 63 69
+AddCourse 43
+TimeViewed 45 4
+RemoveCourse 30
+WatchClass 69 55 25
+TimeViewed 8 42
+WatchClass 31 46 28
+GetIthWatchedClass 60
+TimeViewed 32 63
+AddClass 19
+WatchClass 66 9 18
+AddClass 12
+AddCourse 68
+RemoveCourse 67
+RemoveCourse 6
+AddCourse 33
+WatchClass 4 38 38
+AddClass 17
+AddClass 28
+TimeViewed 56 1
+GetIthWatchedClass 26
+AddClass 35
+AddClass 19
+GetIthWatchedClass 47
+AddCourse 45
+GetIthWatchedClass 23
+TimeViewed 50 53
+TimeViewed 14 41
+TimeViewed -1 19
+TimeViewed 52 1
+RemoveCourse 4
+RemoveCourse 37
+AddCourse 36
+TimeViewed 50 50
+AddCourse 42
+AddCourse 46
+RemoveCourse 9
+GetIthWatchedClass 21
+RemoveCourse 33
+RemoveCourse 43
+WatchClass 12 18 13
+AddClass 11
+AddCourse 32
+WatchClass 70 58 59
+AddClass -1
+GetIthWatchedClass 6
+AddCourse 66
+WatchClass 12 46 44
+RemoveCourse 46
+TimeViewed 7 26
+GetIthWatchedClass 65
+AddClass 63
+AddCourse 21
+AddClass 27
+AddCourse 5
+RemoveCourse 7
+AddCourse 49
+TimeViewed 26 14
+AddClass 0
+AddClass 31
+AddClass 24
+TimeViewed 49 8
+RemoveCourse 5
+AddClass 32
+TimeViewed 6 35
+WatchClass 43 43 52
+RemoveCourse 68
+TimeViewed 49 8
+AddCourse -1
+WatchClass 27 66 4
+GetIthWatchedClass 64
+WatchClass 27 33 67
+WatchClass 45 36 50
+AddCourse 44
+RemoveCourse 45
+RemoveCourse 55
+AddClass 8
+TimeViewed 5 -1
+AddClass 12
+RemoveCourse 58
+AddClass 47
+RemoveCourse 36
+TimeViewed 7 0
+AddCourse 47
+AddCourse 1
+TimeViewed 65 49
+AddCourse 54
+GetIthWatchedClass 38
+TimeViewed 67 68
+RemoveCourse 59
+AddClass 9
+TimeViewed 5 26
+TimeViewed 45 20
+GetIthWatchedClass 67
+AddCourse 33
+TimeViewed -2 47
+AddCourse 37
+AddCourse 36
+WatchClass 28 26 63
+GetIthWatchedClass 21
+RemoveCourse 11
+GetIthWatchedClass 34
+GetIthWatchedClass 55
+TimeViewed 19 0
+RemoveCourse 6
+RemoveCourse 12
+TimeViewed -2 10
+AddClass 35
+WatchClass 69 12 50
+GetIthWatchedClass 25
+AddCourse 28
+AddClass 58
+AddCourse 21
+AddClass 18
+AddCourse 55
+WatchClass -1 60 69
+AddClass 31
+GetIthWatchedClass 44
+AddClass 43
+GetIthWatchedClass 48
+AddCourse 26
+RemoveCourse 4
+AddCourse 28
+TimeViewed 5 55
+GetIthWatchedClass 68
+AddCourse 61
+AddClass 10
+TimeViewed 15 41
+TimeViewed 67 61
+AddCourse 31
+RemoveCourse 28
+AddCourse 6
+AddCourse 11
+TimeViewed 8 33
+AddCourse 13
+WatchClass 32 67 55
+WatchClass -3 54 22
+RemoveCourse 18
+AddCourse 56
+GetIthWatchedClass 1
+GetIthWatchedClass 27
+GetIthWatchedClass 35
+GetIthWatchedClass 42
+TimeViewed 15 51
+AddCourse 55
+AddCourse 25
+RemoveCourse 6
+GetIthWatchedClass 26
+AddCourse 56
+TimeViewed 62 54
+AddClass 20
+AddCourse 6
+TimeViewed 27 11
+AddClass 21
+GetIthWatchedClass 8
+AddCourse 21
+TimeViewed 32 19
+AddClass 25
+AddCourse 5
+WatchClass 62 61 64
+TimeViewed 6 34
+GetIthWatchedClass -1
+AddClass 55
+GetIthWatchedClass 52
+RemoveCourse 22
+AddClass 66
+RemoveCourse 1
+GetIthWatchedClass 9
+AddClass 68
+TimeViewed 7 67
+WatchClass 28 44 5
+WatchClass 43 61 8
+RemoveCourse 2
+RemoveCourse -1
+TimeViewed 21 47
+WatchClass 27 46 35
+TimeViewed 14 52
+TimeViewed 4 45
+AddCourse 55
+AddCourse 31
+WatchClass 14 28 21
+RemoveCourse 29
+RemoveCourse 6
+RemoveCourse 61
+TimeViewed 30 30
+GetIthWatchedClass 29
+AddClass 57
+AddCourse 69
+GetIthWatchedClass 31
+GetIthWatchedClass 69
+GetIthWatchedClass 2
+AddCourse 53
+AddCourse 4
+GetIthWatchedClass 26
+AddCourse 38
+AddCourse 6
+AddCourse 38
+AddCourse 19
+AddCourse 64
+WatchClass 7 31 30
+WatchClass 66 69 67
+WatchClass 5 63 24
+GetIthWatchedClass 62
+AddClass 49
+GetIthWatchedClass 69
+TimeViewed 24 21
+RemoveCourse 12
+TimeViewed 18 33
+AddClass -1
+GetIthWatchedClass 48
+GetIthWatchedClass 35
+TimeViewed 27 60
+TimeViewed 70 22
+GetIthWatchedClass 7
+AddClass 50
+GetIthWatchedClass 22
+AddCourse 68
+GetIthWatchedClass 23
+AddClass 21
+RemoveCourse 52
+RemoveCourse 38
+GetIthWatchedClass 20
+AddCourse 14
+RemoveCourse 18
+TimeViewed 34 19
+TimeViewed 36 1
+RemoveCourse 33
+AddCourse 21
+RemoveCourse 11
+WatchClass 8 28 44
+WatchClass -2 69 19
+GetIthWatchedClass 6
+AddCourse 24
+AddCourse 21
+RemoveCourse 20
+AddClass 58
+WatchClass 59 44 58
+AddCourse 21
+WatchClass 10 57 39
+RemoveCourse 31
+RemoveCourse 4
+WatchClass 23 39 21
+TimeViewed 51 59
+GetIthWatchedClass 63
+AddClass 59
+AddCourse 51
+RemoveCourse 59
+WatchClass 38 5 22
+AddCourse 49
+TimeViewed 32 12
+GetIthWatchedClass 47
+WatchClass 60 58 42
+AddCourse 60
+WatchClass 11 61 56
+AddClass 22
+AddClass 60
+TimeViewed 26 1
+TimeViewed 27 21
+TimeViewed 25 2
+AddCourse 21
+GetIthWatchedClass 19
+AddCourse 70
+WatchClass 61 16 17
+WatchClass 55 46 59
+GetIthWatchedClass 11
+AddCourse 51
+GetIthWatchedClass 15
+TimeViewed 14 57
+TimeViewed 30 47
+GetIthWatchedClass 10
+AddClass 26
+TimeViewed 19 4
+AddCourse 2
+TimeViewed -2 -1
+WatchClass 15 64 16
+GetIthWatchedClass 69
+TimeViewed 4 -2
+AddCourse 8
+WatchClass 67 17 58
+GetIthWatchedClass 66
+AddCourse 40
+AddCourse 38
+AddCourse 1
+AddClass 18
+GetIthWatchedClass 52
+RemoveCourse 12
+TimeViewed 0 15
+GetIthWatchedClass 46
+AddClass 8
+GetIthWatchedClass 22
+AddCourse 38
+AddCourse 61
+TimeViewed 25 46
+AddCourse 43
+AddClass 51
+AddCourse 59
+TimeViewed 4 66
+AddClass 65
+AddCourse 55
+WatchClass 39 1 44
+AddCourse 34
+GetIthWatchedClass 10
+RemoveCourse 20
+AddClass -1
+TimeViewed 68 53
+RemoveCourse 4
+WatchClass 21 52 27
+AddClass 54
+AddClass 42
+AddClass 4
+WatchClass 57 57 32
+AddCourse 47
+TimeViewed 52 13
+GetIthWatchedClass 42
+AddClass 15
+AddCourse 4
+AddClass 7
+AddClass 24
+AddClass -2
+WatchClass 63 61 36
+WatchClass 26 7 52
+TimeViewed 29 35
+AddClass 29
+AddCourse 62
+TimeViewed 14 29
+AddCourse 29
+GetIthWatchedClass 64
+AddCourse 56
+WatchClass 29 3 26
+RemoveCourse 48
+RemoveCourse 31
+TimeViewed -1 48
+WatchClass 16 4 9
+RemoveCourse 58
+RemoveCourse 8
+TimeViewed 22 19
+RemoveCourse 16
+AddClass 30
+AddCourse 0
+GetIthWatchedClass 28
+AddCourse 5
+AddClass 51
+RemoveCourse 1
+RemoveCourse 48
+GetIthWatchedClass 32
+GetIthWatchedClass 43
+AddClass 30
+WatchClass 68 30 -3
+RemoveCourse 28
+AddCourse 41
+TimeViewed 57 14
+RemoveCourse 5
+AddClass 70
+TimeViewed 30 70
+GetIthWatchedClass 17
+RemoveCourse 9
+TimeViewed 35 47
+RemoveCourse 52
+AddCourse 4
+GetIthWatchedClass 58
+AddCourse 5
+AddClass -2
+GetIthWatchedClass 45
+AddClass -2
+AddClass 49
+AddCourse 3
+TimeViewed 66 18
+TimeViewed 10 -1
+WatchClass 14 70 28
+WatchClass 32 27 49
+WatchClass 3 55 0
+AddCourse 66
+TimeViewed 4 1
+RemoveCourse 14
+GetIthWatchedClass 57
+WatchClass 57 14 52
+AddClass 7
+GetIthWatchedClass 19
+AddClass 32
+RemoveCourse 36
+RemoveCourse 41
+AddClass 18
+RemoveCourse 45
+AddClass 70
+RemoveCourse 12
+AddCourse 12
+GetIthWatchedClass 38
+AddClass 67
+AddClass 24
+RemoveCourse 41
+RemoveCourse 20
+RemoveCourse 35
+WatchClass 29 13 -1
+GetIthWatchedClass 42
+TimeViewed 51 67
+WatchClass 37 -1 15
+GetIthWatchedClass 2
+AddCourse 18
+WatchClass 48 37 49
+RemoveCourse 27
+TimeViewed 59 -1
+WatchClass 47 44 1
+AddCourse 17
+AddClass 57
+GetIthWatchedClass 13
+RemoveCourse 33
+TimeViewed 66 32
+WatchClass 24 63 25
+GetIthWatchedClass 5
+GetIthWatchedClass 19
+AddCourse 39
+RemoveCourse 57
+AddClass 13
+AddCourse 39
+AddClass 11
+RemoveCourse 1
+GetIthWatchedClass 38
+GetIthWatchedClass 2
+AddClass 20
+WatchClass 17 5 55
+AddCourse 30
+RemoveCourse 0
+TimeViewed 47 49
+AddClass 58
+AddClass 56
+TimeViewed 53 27
+TimeViewed 37 61
+AddClass 59
+AddCourse 25
+RemoveCourse 26
+GetIthWatchedClass 28
+RemoveCourse 40
+GetIthWatchedClass -1
+AddCourse 61
+AddCourse 25
+AddCourse 15
+RemoveCourse 30
+RemoveCourse 31
+WatchClass 7 10 -1
+TimeViewed 43 54
+TimeViewed 45 -2
+AddClass 63
+GetIthWatchedClass 17
+WatchClass 14 54 17
+TimeViewed 2 69
+GetIthWatchedClass 13
+WatchClass 68 10 8
+RemoveCourse 57
+TimeViewed 20 4
+GetIthWatchedClass -1
+AddCourse 39
+AddClass 28
+TimeViewed 39 33
+WatchClass 63 31 29
+AddClass 32
+RemoveCourse 62
+GetIthWatchedClass 62
+AddCourse 44
+WatchClass 6 31 24
+AddClass 3
+WatchClass 49 26 68
+WatchClass 64 18 11
+RemoveCourse 17
+TimeViewed 51 56
+RemoveCourse 13
+AddClass 8
+AddClass 7
+RemoveCourse 48
+AddClass 4
+RemoveCourse 11
+RemoveCourse 11
+AddClass 21
+RemoveCourse 35
+AddCourse 43
+AddClass 67
+AddCourse 5
+GetIthWatchedClass 39
+AddClass 20
+TimeViewed 56 32
+RemoveCourse 38
+RemoveCourse 34
+AddClass 55
+RemoveCourse 21
+GetIthWatchedClass 46
+AddClass 21
+WatchClass 10 41 8
+WatchClass 4 10 65
+AddCourse 5
+RemoveCourse 37
+AddCourse 65
+AddClass 34
+WatchClass 18 40 49
+TimeViewed 47 62
+AddClass 50
+RemoveCourse 70
+AddCourse 49
+GetIthWatchedClass 39
+AddCourse 38
+AddCourse 43
+GetIthWatchedClass 70
+GetIthWatchedClass 57
+GetIthWatchedClass 40
+AddClass 44
+TimeViewed 30 53
+WatchClass 50 24 21
+AddClass 16
+GetIthWatchedClass 0
+TimeViewed 2 21
+GetIthWatchedClass -2
+RemoveCourse 24
+WatchClass 15 27 45
+WatchClass 22 43 1
+GetIthWatchedClass 15
+GetIthWatchedClass 46
+AddClass 61
+WatchClass 68 67 29
+RemoveCourse -1
+RemoveCourse 19
+WatchClass 40 57 61
+AddClass 0
+AddCourse 30
+TimeViewed 27 38
+WatchClass 56 13 -1
+GetIthWatchedClass 29
+AddClass 29
+WatchClass 7 27 5
+AddCourse 31
+WatchClass -2 21 54
+AddCourse 43
+GetIthWatchedClass 1
+WatchClass 36 9 8
+GetIthWatchedClass 10
+GetIthWatchedClass 62
+RemoveCourse 51
+AddClass 31
+TimeViewed 41 21
+RemoveCourse 36
+AddCourse 12
+TimeViewed 60 27
+TimeViewed 69 57
+WatchClass 66 7 32
+RemoveCourse 12
+AddCourse 49
+WatchClass 54 64 0
+AddClass 3
+WatchClass 4 43 54
+AddClass 31
+AddCourse 9
+GetIthWatchedClass 67
+AddClass 44
+RemoveCourse 46
+TimeViewed 35 38
+WatchClass -1 70 45
+AddClass 23
+AddCourse 12
+RemoveCourse 16
+AddClass 67
+AddCourse 43
+GetIthWatchedClass 60
+AddCourse 54
+TimeViewed 41 -3
+WatchClass 8 57 44
+TimeViewed 67 2
+TimeViewed 55 8
+AddClass 65
+AddCourse 7
+GetIthWatchedClass 19
+TimeViewed 28 51
+GetIthWatchedClass 7
+AddClass 46
+RemoveCourse 67
+RemoveCourse 9
+RemoveCourse 5
+TimeViewed 18 36
+RemoveCourse 63
+AddClass 21
+RemoveCourse 24
+AddClass 9
+TimeViewed 18 64
+RemoveCourse 40
+TimeViewed 69 62
+WatchClass 42 42 30
+RemoveCourse 68
+AddCourse 8
+RemoveCourse 17
+AddClass 38
+TimeViewed 30 66
+TimeViewed 69 62
+RemoveCourse 70
+GetIthWatchedClass 0
+GetIthWatchedClass 39
+WatchClass -3 33 64
+WatchClass 8 14 4
+AddClass 12
+AddClass 24
+TimeViewed 67 59
+AddClass 45
+AddClass 20
+GetIthWatchedClass 48
+AddCourse 17
+TimeViewed 35 8
+TimeViewed 44 66
+WatchClass 28 39 59
+AddClass 1
+TimeViewed 21 30
+AddClass 56
+AddClass 39
+TimeViewed 45 35
+GetIthWatchedClass 7
+RemoveCourse 60
+AddClass 14
+RemoveCourse 10
+WatchClass 13 55 -2
+TimeViewed 23 39
+RemoveCourse 55
+GetIthWatchedClass 56
+AddClass 42
+WatchClass 66 52 6
+WatchClass 1 40 1
+AddCourse 46
+AddCourse 6
+AddCourse 64
+WatchClass -2 6 65
+RemoveCourse 20
+AddClass -3
+AddCourse 22
+GetIthWatchedClass 31
+RemoveCourse 57
+GetIthWatchedClass 28
+AddCourse 16
+AddCourse 14
+GetIthWatchedClass 31
+TimeViewed 15 69
+RemoveCourse 2
+AddClass 58
+WatchClass 9 45 21
+AddCourse 49
+GetIthWatchedClass 25
+GetIthWatchedClass 49
+AddCourse 1
+TimeViewed 2 51
+AddCourse 11
+RemoveCourse 70
+RemoveCourse 8
+GetIthWatchedClass -1
+AddClass 64
+WatchClass 42 28 54
+TimeViewed 18 56
+GetIthWatchedClass 69
+AddClass -3
+GetIthWatchedClass 10
+AddClass 29
+WatchClass 32 23 33
+TimeViewed 11 29
+WatchClass 13 70 63
+GetIthWatchedClass 14
+TimeViewed 37 30
+WatchClass 41 35 12
+RemoveCourse 49
+WatchClass 50 -2 62
+AddClass 43
+RemoveCourse 58
+TimeViewed 8 8
+AddClass 7
+RemoveCourse 55
+TimeViewed 66 45
+RemoveCourse 25
+AddCourse 63
+RemoveCourse 61
+RemoveCourse 44
+TimeViewed 3 45
+TimeViewed 4 45
+WatchClass 9 58 -3
+WatchClass 43 40 36
+GetIthWatchedClass 68
+AddClass 47
+WatchClass 39 22 38
+WatchClass 50 61 51
+AddClass 25
+WatchClass 65 20 57
+GetIthWatchedClass 43
+WatchClass 20 3 35
+TimeViewed 54 48
+TimeViewed 12 47
+WatchClass 14 49 12
+AddCourse 2
+AddCourse 17
+AddCourse 56
+AddCourse 57
+GetIthWatchedClass -3
+TimeViewed 1 16
+RemoveCourse 47
+AddClass 2
+RemoveCourse 69
+AddCourse 48
+AddClass 27
+WatchClass -2 26 66
+AddClass 11
+RemoveCourse 2
+RemoveCourse 61
+GetIthWatchedClass 19
+AddClass 52
+GetIthWatchedClass 21
+GetIthWatchedClass 32
+AddCourse 37
+WatchClass 62 36 55
+GetIthWatchedClass 27
+WatchClass 64 16 62
+GetIthWatchedClass 58
+AddCourse 3
+WatchClass 44 54 65
+RemoveCourse 13
+RemoveCourse 56
+TimeViewed 16 52
+GetIthWatchedClass 60
+AddCourse 63
+TimeViewed 6 0
+WatchClass 33 13 11
+TimeViewed 6 38
+WatchClass 17 13 12
+AddCourse 33
+RemoveCourse 44
+GetIthWatchedClass 43
+AddClass 66
+GetIthWatchedClass 16
+GetIthWatchedClass 47
+RemoveCourse 5
+GetIthWatchedClass 66
+WatchClass 44 65 41
+AddCourse 43
+WatchClass 12 39 19
+AddClass 56
+WatchClass 59 24 43
+AddClass 20
+AddCourse 48
+GetIthWatchedClass 68
+AddCourse 20
+TimeViewed 60 45
+GetIthWatchedClass 63
+RemoveCourse 60
+WatchClass 52 6 34
+AddCourse 45
+AddClass 44
+WatchClass 70 54 40
+AddClass 16
+WatchClass 33 1 39
+AddCourse 43
+WatchClass 52 63 45
+RemoveCourse 49
+AddCourse 46
+WatchClass 54 42 3
+TimeViewed 14 44
+TimeViewed 51 7
+AddClass 56
+RemoveCourse 44
+AddCourse -1
+RemoveCourse 8
+AddCourse 11
+WatchClass 6 18 15
+AddClass 4
+GetIthWatchedClass 69
+AddCourse 38
+AddCourse 27
+GetIthWatchedClass 40
+RemoveCourse 40
+AddCourse 10
+AddClass 21
+WatchClass 51 58 5
+TimeViewed 63 26
+RemoveCourse 61
+GetIthWatchedClass 18
+WatchClass 20 5 13
+AddCourse -1
+WatchClass 64 17 47
+TimeViewed 64 43
+TimeViewed 2 -2
+TimeViewed 60 15
+GetIthWatchedClass 54
+WatchClass 25 58 16
+WatchClass -3 68 5
+RemoveCourse 52
+WatchClass 9 24 19
+AddClass 21
+TimeViewed 44 33
+TimeViewed 40 39
+WatchClass 46 68 36
+GetIthWatchedClass 48
+TimeViewed 26 48
+AddClass 5
+RemoveCourse 28
+RemoveCourse 41
+WatchClass 41 64 35
+RemoveCourse 14
+GetIthWatchedClass 34
+GetIthWatchedClass 59
+WatchClass 11 1 54
+AddClass 54
+AddCourse 35
+AddCourse 15
+RemoveCourse 68
+AddCourse 24
+AddCourse 19
+AddClass 59
+GetIthWatchedClass 34
+WatchClass 7 46 21
+GetIthWatchedClass -1
+WatchClass -3 43 48
+WatchClass 53 20 11
+WatchClass -2 32 42
+GetIthWatchedClass 50
+AddClass -2
+AddCourse 45
+AddClass 55
+GetIthWatchedClass 44
+AddCourse 16
+RemoveCourse 25
+AddClass 21
+AddClass 8
+WatchClass 38 27 2
+TimeViewed -2 61
+AddClass 50
+WatchClass 26 63 26
+GetIthWatchedClass 53
+WatchClass 44 65 2
+GetIthWatchedClass 32
+GetIthWatchedClass 8
+GetIthWatchedClass 50
+TimeViewed 22 17
+AddClass 28
+WatchClass 45 44 63
+TimeViewed 45 -1
+GetIthWatchedClass 8
+TimeViewed 28 59
+AddClass 30
+GetIthWatchedClass 51
+WatchClass 5 67 25
+AddCourse 35
+RemoveCourse 45
+AddClass 11
+AddClass 24
+GetIthWatchedClass 33
+AddCourse 25
+AddCourse 50
+GetIthWatchedClass 32
+GetIthWatchedClass 21
+AddClass 34
+AddClass 21
+TimeViewed 49 70
+WatchClass 65 69 66
+GetIthWatchedClass 4
+WatchClass 43 57 18
+RemoveCourse 65
+TimeViewed 68 70
+AddClass -1
+GetIthWatchedClass 47
+AddCourse 27
+GetIthWatchedClass 38
+TimeViewed 15 59
+AddCourse 63
+WatchClass 8 66 31
+GetIthWatchedClass 16
+AddClass 54
+WatchClass 15 9 39
+RemoveCourse 69
+WatchClass 9 43 0
+WatchClass 1 29 7
+AddCourse 2
+AddClass 13
+GetIthWatchedClass 64
+RemoveCourse 0
+WatchClass 38 21 57
+TimeViewed -3 68
+RemoveCourse 57
+AddCourse 53
+RemoveCourse -2
+GetIthWatchedClass 53
+RemoveCourse 36
+AddCourse 6
+RemoveCourse 70
+WatchClass 30 22 33
+TimeViewed 43 29
+GetIthWatchedClass 51
+AddCourse -3
+AddClass 2
+AddClass 18
+RemoveCourse 29
+RemoveCourse 15
+WatchClass 2 40 18
+RemoveCourse 61
+TimeViewed 70 44
+AddCourse 40
+TimeViewed 41 -3
+TimeViewed 23 13
+WatchClass 53 41 62
+AddClass 52
+RemoveCourse 0
+RemoveCourse 3
+GetIthWatchedClass 19
+AddCourse 60
+AddClass 30
+GetIthWatchedClass 61
+AddClass 3
+TimeViewed 54 32
+AddClass 59
+AddClass 18
+RemoveCourse 20
+RemoveCourse 20
+GetIthWatchedClass 33
+AddClass 69
+AddCourse 53
+AddClass 69
+AddCourse 68
+AddClass 18
+AddClass 55
+TimeViewed 45 41
+GetIthWatchedClass 15
+RemoveCourse 56
+RemoveCourse 54
+GetIthWatchedClass 26
+WatchClass 57 70 25
+WatchClass 24 55 41
+AddClass 57
+GetIthWatchedClass 20
+RemoveCourse 34
+WatchClass 49 13 14
+RemoveCourse 65
+AddClass 47
+AddClass 28
+AddCourse 55
+GetIthWatchedClass -1
+AddClass 69
+WatchClass 31 50 60
+TimeViewed 17 37
+GetIthWatchedClass 62
+GetIthWatchedClass 62
+AddClass -1
+AddCourse 26
+AddCourse 15
+TimeViewed 29 58
+GetIthWatchedClass 49
+AddClass 18
+TimeViewed 43 18
+WatchClass 12 9 60
+RemoveCourse 70
+AddCourse 45
+RemoveCourse 27
+RemoveCourse 42
+AddCourse 16
+TimeViewed 12 67
+WatchClass 69 60 63
+AddCourse 50
+RemoveCourse 30
+GetIthWatchedClass 5
+TimeViewed 4 13
+TimeViewed 14 46
+AddClass 39
+AddClass 60
+AddCourse 61
+GetIthWatchedClass 58
+TimeViewed 60 37
+RemoveCourse 48
+WatchClass 47 17 67
+TimeViewed 33 70
+AddClass 70
+AddCourse 19
+AddCourse 6
+AddClass -3
+AddCourse 63
+TimeViewed 3 -3
+TimeViewed 16 20
+WatchClass 64 18 59
+RemoveCourse 11
+GetIthWatchedClass 32
+TimeViewed 16 32
+GetIthWatchedClass 8
+AddClass 22
+TimeViewed 55 68
+AddClass 67
+GetIthWatchedClass 2
+AddCourse 23
+TimeViewed 67 14
+GetIthWatchedClass -3
+GetIthWatchedClass 4
+TimeViewed 34 -2
+RemoveCourse 49
+AddCourse 54
+AddCourse 31
+WatchClass 24 15 38
+WatchClass 35 23 24
+GetIthWatchedClass 12
+AddCourse 1
+TimeViewed 38 23
+AddClass 14
+GetIthWatchedClass 32
+TimeViewed 38 67
+AddCourse 50
+WatchClass 12 61 5
+GetIthWatchedClass 53
+AddCourse 54
+GetIthWatchedClass 41
+AddCourse 29
+AddCourse 43
+AddCourse 32
+RemoveCourse 47
+GetIthWatchedClass 18
+RemoveCourse 55
+TimeViewed 10 20
+TimeViewed 33 12
+AddCourse 48
+TimeViewed 11 7
+AddClass 37
+WatchClass 26 32 34
+WatchClass 28 14 38
+TimeViewed 22 56
+TimeViewed 14 4
+RemoveCourse 51
+AddCourse 22
+WatchClass 67 24 34
+RemoveCourse 23
+RemoveCourse 3
+RemoveCourse 56
+WatchClass 11 44 44
+WatchClass 13 56 29
+TimeViewed 52 6
+TimeViewed 6 29
+WatchClass 59 48 9
+AddCourse 26
+WatchClass 9 33 -3
+RemoveCourse 44
+WatchClass 26 28 6
+TimeViewed 64 34
+RemoveCourse 19
+AddClass 31
+GetIthWatchedClass 20
+AddCourse 31
+GetIthWatchedClass 0
+WatchClass 32 30 38
+AddCourse 50
+GetIthWatchedClass -1
+TimeViewed 57 39
+WatchClass 24 68 4
+GetIthWatchedClass 62
+AddCourse 66
+GetIthWatchedClass 3
+WatchClass 55 49 3
+AddCourse 53
+AddClass 11
+AddCourse 63
+GetIthWatchedClass 40
+AddClass 35
+WatchClass 7 11 70
+WatchClass 56 66 41
+TimeViewed 0 47
+TimeViewed -2 63
+WatchClass -2 60 4
+TimeViewed 28 43
+WatchClass 54 25 56
+AddCourse 17
+GetIthWatchedClass 50
+AddClass 28
+WatchClass 6 61 65
+GetIthWatchedClass 5
+TimeViewed 5 28
+WatchClass 47 45 34
+AddClass 50
+WatchClass 57 48 8
+GetIthWatchedClass 56
+GetIthWatchedClass 21
+AddClass 20
+TimeViewed 62 54
+WatchClass 47 66 65
+WatchClass 23 28 40
+AddCourse 23
+GetIthWatchedClass 50
+GetIthWatchedClass 53
+TimeViewed 5 52
+WatchClass 15 59 50
+AddClass 55
+AddCourse 65
+AddClass 28
+AddClass 30
+AddClass 20
+AddClass 57
+AddClass 10
+AddClass 65
+AddCourse 70
+AddClass 11
+TimeViewed 25 20
+RemoveCourse 30
+AddClass 69
+WatchClass 45 40 9
+WatchClass 52 5 66
+GetIthWatchedClass 8
+AddClass 48
+GetIthWatchedClass -2
+GetIthWatchedClass 1
+GetIthWatchedClass 68
+AddCourse 66
+TimeViewed 16 45
+RemoveCourse 38
+WatchClass 42 21 17
+GetIthWatchedClass 59
+WatchClass 23 19 1
+RemoveCourse 51
+WatchClass 53 9 43
+TimeViewed 45 63
+GetIthWatchedClass 33
+WatchClass 31 34 69
+RemoveCourse 44
+AddClass 3
+AddCourse 35
+GetIthWatchedClass 48
+AddCourse 32
+GetIthWatchedClass 56
+RemoveCourse 61
+AddCourse 25
+WatchClass 58 52 33
+AddClass 60
+RemoveCourse 40
+AddClass 37
+AddClass 69
+WatchClass 70 47 -1
+AddCourse 16
+GetIthWatchedClass 11
+AddCourse 38
+AddClass 49
+TimeViewed 25 67
+AddCourse 31
+WatchClass 9 55 57
+TimeViewed 60 6
+RemoveCourse 68
+TimeViewed 3 34
+AddClass 60
+TimeViewed 62 22
+AddClass 55
+WatchClass 69 42 40
+RemoveCourse 39
+AddClass 67
+AddCourse 41
+RemoveCourse 5
+WatchClass 9 57 56
+AddCourse 59
+AddClass 55
+WatchClass 56 -1 21
+GetIthWatchedClass 42
+AddClass 70
+GetIthWatchedClass 66
+WatchClass 16 56 47
+TimeViewed -1 66
+TimeViewed 66 33
+RemoveCourse 51
+GetIthWatchedClass 60
+GetIthWatchedClass 37
+TimeViewed 52 35
+AddClass 35
+AddCourse 44
+GetIthWatchedClass 38
+TimeViewed 5 49
+GetIthWatchedClass 47
+GetIthWatchedClass 1
+TimeViewed 18 17
+AddCourse -1
+WatchClass 48 15 12
+GetIthWatchedClass 41
+AddClass 6
+RemoveCourse 51
+AddClass 39
+AddClass 26
+WatchClass 36 19 70
+AddCourse 69
+WatchClass 2 6 62
+RemoveCourse -1
+GetIthWatchedClass 53
+TimeViewed 67 49
+AddClass 42
+RemoveCourse 45
+RemoveCourse 58
+AddCourse 16
+AddClass 38
+WatchClass 24 -1 52
+AddCourse 3
+WatchClass 31 34 40
+WatchClass 55 28 41
+WatchClass 37 18 41
+AddCourse 17
+TimeViewed 21 70
+AddClass 27
+AddCourse 21
+AddClass 43
+GetIthWatchedClass -2
+GetIthWatchedClass 11
+AddClass 62
+TimeViewed 6 70
+AddCourse 56
+WatchClass 7 11 -3
+TimeViewed 30 70
+AddCourse 53
+TimeViewed 2 52
+AddClass 53
+AddCourse 26
+RemoveCourse 9
+TimeViewed 68 4
+GetIthWatchedClass 51
+WatchClass -3 49 24
+WatchClass 28 59 35
+AddCourse -2
+AddCourse 37
+GetIthWatchedClass 19
+AddClass 44
+WatchClass 3 16 36
+TimeViewed 53 32
+RemoveCourse 20
+WatchClass 0 54 4
+AddCourse 33
+TimeViewed 4 43
+AddClass 17
+AddClass 1
+AddCourse 65
+AddCourse 45
+GetIthWatchedClass 28
+RemoveCourse 69
+AddClass 31
+TimeViewed 51 13
+AddClass 43
+WatchClass 22 -3 51
+WatchClass 56 12 55
+TimeViewed 33 10
+TimeViewed 60 53
+RemoveCourse 48
+WatchClass 12 19 25
+GetIthWatchedClass -1
+TimeViewed 57 -1
+AddCourse 64
+WatchClass 40 60 68
+AddClass 31
+GetIthWatchedClass 13
+AddCourse -2
+AddClass 11
+WatchClass 61 9 36
+GetIthWatchedClass 63
+GetIthWatchedClass 8
+RemoveCourse 16
+WatchClass 56 42 1
+AddClass 68
+AddClass 51
+TimeViewed 47 33
+AddClass 4
+WatchClass 46 53 32
+RemoveCourse 1
+RemoveCourse 13
+GetIthWatchedClass 56
+TimeViewed 23 38
+AddCourse 32
+AddClass 15
+AddClass 69
+AddCourse 8
+WatchClass 12 59 54
+AddClass 36
+RemoveCourse 67
+WatchClass -2 60 23
+AddClass 46
+AddCourse 47
+WatchClass 7 29 22
+WatchClass 11 55 3
+GetIthWatchedClass 45
+WatchClass 43 34 59
+RemoveCourse 26
+RemoveCourse 9
+RemoveCourse 60
+AddClass 37
+RemoveCourse 42
+RemoveCourse 47
+WatchClass 46 64 69
+AddCourse 36
+AddCourse 49
+WatchClass 30 25 52
+TimeViewed 22 59
+GetIthWatchedClass 62
+GetIthWatchedClass 46
+TimeViewed 12 38
+AddCourse 9
+AddClass 58
+GetIthWatchedClass 57
+AddClass 59
+RemoveCourse 18
+AddClass 46
+WatchClass 54 10 25
+GetIthWatchedClass -2
+RemoveCourse 67
+WatchClass -3 -1 25
+RemoveCourse 9
+TimeViewed 49 60
+GetIthWatchedClass 32
+AddClass 6
+AddClass 45
+TimeViewed 5 0
+RemoveCourse 11
+AddClass 50
+RemoveCourse 22
+AddCourse 32
+AddClass 26
+RemoveCourse 45
+WatchClass 5 57 50
+GetIthWatchedClass 4
+AddCourse 59
+GetIthWatchedClass 67
+AddClass 38
+RemoveCourse 47
+RemoveCourse 36
+WatchClass 9 -2 40
+GetIthWatchedClass 29
+WatchClass 30 58 46
+AddClass 54
+AddClass 69
+GetIthWatchedClass 36
+RemoveCourse 46
+WatchClass 3 65 50
+WatchClass 6 21 33
+RemoveCourse 36
+RemoveCourse 37
+RemoveCourse 34
+AddClass 14
+RemoveCourse 59
+WatchClass 47 47 15
+GetIthWatchedClass 5
+GetIthWatchedClass 68
+TimeViewed 24 4
+WatchClass 7 5 60
+AddClass 11
+GetIthWatchedClass 45
+GetIthWatchedClass 8
+WatchClass 51 42 61
+AddClass 62
+GetIthWatchedClass -1
+AddCourse 4
+WatchClass 2 26 17
+GetIthWatchedClass 7
+WatchClass 15 2 60
+RemoveCourse 69
+GetIthWatchedClass 65
+AddClass 1
+RemoveCourse 32
+TimeViewed 59 -2
+TimeViewed 62 30
+GetIthWatchedClass 57
+WatchClass 33 0 -3
+TimeViewed 20 53
+WatchClass 14 69 40
+AddClass 38
+GetIthWatchedClass 6
+TimeViewed 56 25
+WatchClass 17 63 45
+GetIthWatchedClass 46
+GetIthWatchedClass 5
+GetIthWatchedClass 3
+WatchClass 9 19 44
+GetIthWatchedClass 25
+TimeViewed 12 70
+RemoveCourse 70
+AddCourse 40
+GetIthWatchedClass 19
+AddCourse 24
+AddClass 43
+WatchClass 62 31 4
+AddClass 67
+WatchClass 25 22 62
+AddClass 41
+RemoveCourse 27
+RemoveCourse 18
+RemoveCourse 40
+TimeViewed 16 26
+RemoveCourse 18
+AddClass 60
+TimeViewed -2 12
+AddClass 35
+WatchClass 48 1 47
+WatchClass 12 17 22
+TimeViewed 41 49
+AddCourse 28
+RemoveCourse 2
+WatchClass 27 58 21
+AddClass 37
+AddClass 5
+GetIthWatchedClass 5
+AddClass 27
+RemoveCourse 31
+WatchClass 50 -1 10
+TimeViewed 9 14
+GetIthWatchedClass 27
+GetIthWatchedClass 14
+WatchClass 54 21 28
+RemoveCourse 40
+WatchClass 53 70 70
+AddCourse 67
+TimeViewed 60 60
+AddCourse 61
+RemoveCourse 23
+WatchClass 5 18 37
+WatchClass 24 -2 15
+GetIthWatchedClass 59
+GetIthWatchedClass 48
+TimeViewed 50 20
+GetIthWatchedClass -3
+AddClass 28
+TimeViewed 5 22
+AddCourse 69
+RemoveCourse 67
+AddCourse 37
+GetIthWatchedClass 12
+TimeViewed 20 26
+TimeViewed 35 1
+AddClass 57
+RemoveCourse 1
+TimeViewed 41 53
+AddCourse 54
+TimeViewed 42 58
+RemoveCourse 0
+WatchClass 18 -2 52
+AddCourse 65
+TimeViewed 40 5
+AddCourse 28
+TimeViewed 68 66
+GetIthWatchedClass 69
+AddClass 49
+AddCourse 44
+TimeViewed 32 44
+AddClass 28
+TimeViewed 40 -1
+GetIthWatchedClass 2
+WatchClass 43 20 46
+AddClass 34
+GetIthWatchedClass 55
+AddClass 28
+AddClass 25
+AddClass 13
+AddClass 56
+AddCourse 9
+WatchClass 57 10 -3
+GetIthWatchedClass 69
+TimeViewed 55 47
+AddClass 44
+AddCourse 16
+GetIthWatchedClass 31
+GetIthWatchedClass -3
+RemoveCourse 38
+GetIthWatchedClass 33
+TimeViewed 17 17
+AddClass 7
+TimeViewed 36 -2
+AddClass 69
+GetIthWatchedClass 26
+GetIthWatchedClass 9
+WatchClass 8 6 68
+TimeViewed 63 1
+GetIthWatchedClass 19
+WatchClass 58 46 21
+RemoveCourse 6
+WatchClass 14 52 63
+RemoveCourse 67
+TimeViewed 24 64
+RemoveCourse 23
+TimeViewed 41 36
+WatchClass 17 59 65
+GetIthWatchedClass 46
+WatchClass 48 9 9
+AddClass 60
+AddCourse 45
+AddCourse 24
+WatchClass 59 9 27
+RemoveCourse 20
+WatchClass 29 24 47
+AddCourse 60
+TimeViewed 6 37
+AddClass 11
+RemoveCourse 51
+RemoveCourse 16
+TimeViewed 8 59
+RemoveCourse 4
+GetIthWatchedClass 69
+RemoveCourse 5
+AddClass 29
+AddClass 60
+GetIthWatchedClass 68
+AddCourse 24
+TimeViewed -2 28
+WatchClass 45 53 48
+RemoveCourse 3
+TimeViewed 28 -3
+TimeViewed 15 47
+TimeViewed 20 20
+RemoveCourse 54
+RemoveCourse 40
+AddClass 70
+AddClass 17
+WatchClass 26 16 28
+WatchClass 32 48 20
+GetIthWatchedClass 32
+GetIthWatchedClass 62
+GetIthWatchedClass 45
+AddCourse 64
+GetIthWatchedClass 54
+AddClass 52
+TimeViewed 40 37
+TimeViewed 49 31
+TimeViewed 29 61
+AddClass -3
+RemoveCourse 62
+GetIthWatchedClass 66
+AddClass 22
+RemoveCourse 30
+GetIthWatchedClass 55
+RemoveCourse 47
+WatchClass 50 18 60
+WatchClass 55 5 47
+GetIthWatchedClass 14
+WatchClass 39 30 9
+TimeViewed 59 55
+WatchClass 69 22 48
+AddClass -1
+AddCourse 41
+GetIthWatchedClass 36
+TimeViewed 11 2
+TimeViewed 22 28
+AddCourse 28
+RemoveCourse 10
+TimeViewed 12 2
+RemoveCourse 1
+RemoveCourse 70
+WatchClass 7 26 27
+RemoveCourse 43
+WatchClass 47 24 21
+AddCourse 24
+AddCourse 24
+GetIthWatchedClass 23
+GetIthWatchedClass 50
+GetIthWatchedClass 26
+WatchClass 65 45 29
+AddCourse 1
+RemoveCourse 21
+AddClass 20
+TimeViewed 62 7
+WatchClass 16 11 33
+GetIthWatchedClass 53
+TimeViewed 55 9
+GetIthWatchedClass 45
+AddClass 58
+AddCourse 3
+TimeViewed 3 20
+AddClass 10
+AddCourse 46
+TimeViewed 50 13
+AddCourse 32
+RemoveCourse 38
+AddClass 10
+RemoveCourse 45
+WatchClass 49 35 14
+AddCourse 17
+GetIthWatchedClass 59
+AddCourse 61
+RemoveCourse 41
+AddCourse 39
+GetIthWatchedClass 68
+TimeViewed 70 68
+TimeViewed 45 8
+RemoveCourse 49
+GetIthWatchedClass 40
+AddClass 8
+AddCourse 10
+AddClass 16
+GetIthWatchedClass 38
+TimeViewed 52 29
+TimeViewed 34 63
+AddCourse 43
+WatchClass 6 66 45
+AddClass 54
+TimeViewed 43 49
+WatchClass 7 34 23
+TimeViewed 70 15
+AddClass 31
+RemoveCourse 44
+GetIthWatchedClass 59
+AddClass 0
+TimeViewed 36 7
+AddCourse 42
+GetIthWatchedClass 62
+AddCourse 27
+AddClass 27
+AddClass 65
+RemoveCourse 5
+AddCourse 40
+TimeViewed 24 4
+RemoveCourse 27
+RemoveCourse 63
+WatchClass 14 6 25
+WatchClass 42 49 49
+AddClass 43
+RemoveCourse 62
+RemoveCourse 18
+AddCourse 25
+AddCourse 49
+TimeViewed 39 58
+TimeViewed 66 0
+RemoveCourse 15
+GetIthWatchedClass 67
+TimeViewed 35 12
+RemoveCourse 13
+AddClass 42
+GetIthWatchedClass 42
+GetIthWatchedClass 5
+AddClass 37
+AddCourse 54
+TimeViewed 56 -2
+AddClass 54
+AddCourse 47
+RemoveCourse 17
+AddClass 30
+WatchClass 3 60 21
+AddCourse 58
+AddCourse 2
+AddClass 41
+AddClass 6
+AddClass 58
+AddCourse 66
+AddClass 20
+AddClass 57
+WatchClass 16 37 61
+AddCourse 30
+GetIthWatchedClass 27
+AddClass 1
+GetIthWatchedClass 56
+GetIthWatchedClass 14
+AddCourse 10
+TimeViewed 57 21
+RemoveCourse 47
+GetIthWatchedClass 61
+RemoveCourse 43
+RemoveCourse -1
+AddClass 11
+AddClass 65
+AddClass 65
+GetIthWatchedClass 11
+GetIthWatchedClass 40
+RemoveCourse 16
+GetIthWatchedClass 34
+TimeViewed 51 53
+AddClass 19
+GetIthWatchedClass 13
+GetIthWatchedClass 24
+WatchClass 47 2 8
+RemoveCourse 26
+AddClass 28
+GetIthWatchedClass -3
+WatchClass 52 6 51
+GetIthWatchedClass 32
+AddCourse 26
+GetIthWatchedClass 15
+AddClass 45
+AddCourse 44
+RemoveCourse 49
+GetIthWatchedClass 7
+TimeViewed 50 41
+TimeViewed 47 54
+AddClass 30
+RemoveCourse 26
+WatchClass 69 24 46
+GetIthWatchedClass 38
+WatchClass 31 46 58
+TimeViewed 67 44
+AddCourse 48
+RemoveCourse 7
+AddCourse 18
+AddCourse 13
+GetIthWatchedClass 26
+AddCourse 35
+RemoveCourse 66
+WatchClass 65 12 0
+WatchClass 29 47 1
+AddClass 54
+AddClass 30
+WatchClass 22 51 69
+GetIthWatchedClass 15
+RemoveCourse 42
+TimeViewed 53 65
+AddClass 16
+RemoveCourse 25
+RemoveCourse 34
+AddCourse 16
+GetIthWatchedClass 36
+RemoveCourse 61
+RemoveCourse 48
+TimeViewed 7 63
+WatchClass 59 47 69
+TimeViewed 66 59
+GetIthWatchedClass -3
+RemoveCourse 42
+WatchClass 9 -2 28
+WatchClass 12 1 67
+WatchClass 54 51 22
+WatchClass 3 68 51
+RemoveCourse 9
+GetIthWatchedClass 49
+AddCourse 11
+WatchClass 50 53 69
+AddClass 0
+WatchClass 10 53 60
+TimeViewed 17 40
+GetIthWatchedClass 66
+GetIthWatchedClass 18
+RemoveCourse 43
+WatchClass 16 38 32
+AddCourse 12
+RemoveCourse 5
+TimeViewed 1 25
+WatchClass 42 2 2
+TimeViewed 47 7
+TimeViewed 18 5
+TimeViewed 61 46
+AddClass 3
+AddCourse -1
+TimeViewed 34 70
+TimeViewed 36 49
+GetIthWatchedClass 61
+GetIthWatchedClass 56
+TimeViewed 48 13
+GetIthWatchedClass 27
+TimeViewed 18 11
+TimeViewed 28 45
+AddClass 64
+WatchClass 36 52 54
+WatchClass 10 42 12
+TimeViewed 55 43
+AddClass 32
+AddCourse 65
+WatchClass 13 38 62
+RemoveCourse 39
+AddCourse 53
+AddCourse 2
+TimeViewed 1 5
+TimeViewed 70 2
+WatchClass 12 48 39
+WatchClass 27 46 25
+AddClass 62
+TimeViewed 68 36
+TimeViewed 42 47
+TimeViewed 31 67
+RemoveCourse 47
+AddClass 35
+AddClass 43
+RemoveCourse 16
+RemoveCourse 48
+GetIthWatchedClass 14
+RemoveCourse 65
+GetIthWatchedClass 27
+GetIthWatchedClass 5
+RemoveCourse 46
+AddClass 36
+TimeViewed 13 68
+WatchClass 19 36 60
+GetIthWatchedClass 18
+TimeViewed 20 20
+WatchClass 23 45 49
+AddCourse 13
+AddCourse 66
+RemoveCourse 20
+Init
+Quit
+Quit
+AddClass 0
+Init
+Quit
+AddClass 28
+TimeViewed 49 41
+WatchClass 22 66 18
+Init
+Quit
+Quit
+RemoveCourse 66
+Init
+GetIthWatchedClass 52
+GetIthWatchedClass 1
+AddCourse 16
+Init
+AddClass 10
+AddClass 5
+RemoveCourse 33
+RemoveCourse 54
+GetIthWatchedClass 68
+RemoveCourse 64
+WatchClass 26 63 53
+Init
+Quit
+WatchClass -2 56 2
+WatchClass 14 29 21
+WatchClass 1 6 48
+WatchClass 31 10 56
+Quit
+AddCourse 16
+WatchClass 63 33 40
+Init
+RemoveCourse 26
+Init
+GetIthWatchedClass 67
+GetIthWatchedClass 8
+AddClass 48
+TimeViewed 61 52
+Init
+WatchClass 5 11 40
+Quit
+RemoveCourse 54
+TimeViewed 7 63
+RemoveCourse 49
+GetIthWatchedClass 28
+RemoveCourse 2
+Quit
+WatchClass 55 32 64
+GetIthWatchedClass 47
+WatchClass 23 2 70
+Quit
+Init
+WatchClass 8 64 20
+TimeViewed 58 6
+TimeViewed -1 60
+AddClass 45
+AddClass 30
+WatchClass 55 23 25
+RemoveCourse 45
+Init
+TimeViewed 39 13
+Init
+AddCourse 15
+RemoveCourse 53
+GetIthWatchedClass 9
+TimeViewed 59 68
+Init
+RemoveCourse 55
+AddClass 17
+GetIthWatchedClass 65
+Quit
+Quit
+Init
+TimeViewed 47 9
+AddClass -1
+Quit
+Quit
+AddCourse 30
+TimeViewed 66 2
+AddCourse 55
+GetIthWatchedClass 49
+GetIthWatchedClass 49
+Quit
+RemoveCourse 68
+RemoveCourse 45
+GetIthWatchedClass 9
+Quit
+TimeViewed 9 42
+TimeViewed 21 12
+AddCourse 56
+Init
+TimeViewed 7 43
+AddCourse 42
+WatchClass 69 49 40
+RemoveCourse 17
+Init
+Init
+Quit
+Init
+RemoveCourse 4
+RemoveCourse 21
+Quit
+AddClass 24
+AddClass 55
+AddCourse 19
+RemoveCourse 19
+AddCourse 30
+AddCourse 12
+AddClass 7
+Quit
+TimeViewed 41 47
+AddClass 7
+AddClass 55
+AddCourse 12
+WatchClass 31 25 4
+RemoveCourse 53
+WatchClass 43 30 56
+AddCourse 14
+AddCourse 21
+RemoveCourse 45
+Init
+TimeViewed 67 36
+Init
+AddClass 14
+AddClass 28
+AddCourse 69
+AddCourse 13
+AddCourse 33
+AddCourse 36
+TimeViewed 55 -3
+WatchClass 30 68 58
+GetIthWatchedClass 5
+GetIthWatchedClass 56
+Quit
+AddCourse 30
+TimeViewed 56 22
+RemoveCourse 43
+TimeViewed 54 35
+AddCourse 16
+AddCourse 28
+AddCourse 21
+GetIthWatchedClass 18
+Init
+Init
+RemoveCourse -3
+Init
+WatchClass 62 59 49
+RemoveCourse 23
+RemoveCourse 46
+RemoveCourse -1
+TimeViewed 24 22
+WatchClass 21 15 42
+AddCourse 3
+TimeViewed 50 49
+Init
+GetIthWatchedClass 69
+AddCourse 38
+Quit
+Init
+RemoveCourse 20
+TimeViewed 11 63
+GetIthWatchedClass 33
+RemoveCourse 49
+AddClass 67
+RemoveCourse 30
+AddClass 57
+AddCourse 11
+RemoveCourse 30
+AddClass 4
+WatchClass 10 8 64
+RemoveCourse -3
+AddClass 63
+Init
+RemoveCourse -1
+AddClass 57
+Quit
+GetIthWatchedClass 21
+Init
+Init
+Init
+RemoveCourse 65
+AddClass -3
+WatchClass 61 47 4
+WatchClass 34 64 44
+Init
+Quit
+AddCourse 67
+AddClass 5
+GetIthWatchedClass 4
+Quit
+AddClass 41
+TimeViewed 8 60
+Quit
+Init
+AddCourse 28
+RemoveCourse 13
+TimeViewed 2 8
+Quit
+Quit
+GetIthWatchedClass 24
+WatchClass 19 64 42
+AddCourse 51
+Quit
+RemoveCourse 24
+AddClass 68
+GetIthWatchedClass 40
+Quit
+GetIthWatchedClass 41
+AddClass -3
+TimeViewed 65 9
+AddCourse 37
+Quit
+AddClass 47
+AddCourse 9
+TimeViewed 10 35
+AddCourse 7
+AddClass 28
+Init
+WatchClass 46 9 61
+TimeViewed 57 31
+AddCourse 14
+Init
+WatchClass 42 58 8
+AddCourse 14
+Init
+Init
+RemoveCourse 54
+Init
+AddCourse 38
+Quit
+GetIthWatchedClass 65
+Quit
+AddCourse 62
+Quit
+Quit
+TimeViewed 2 54
+GetIthWatchedClass 3
+Init
+Quit
+AddCourse 63
+TimeViewed 62 17
+AddClass 25
+Quit
+TimeViewed 0 35
+AddClass 7
+WatchClass 66 54 29
+GetIthWatchedClass 17
+Init
+Init
+TimeViewed 63 -3
+Init
+AddClass 59
+GetIthWatchedClass 43
+WatchClass 65 54 34
+Quit
+GetIthWatchedClass 47
+TimeViewed 60 40
+AddCourse 38
+TimeViewed 48 32
+Quit
+AddClass 7
+Quit
+TimeViewed 11 21
+WatchClass 56 53 55
+TimeViewed 63 14
+AddCourse 10
+WatchClass 32 37 66
+AddClass 54
+WatchClass 62 62 -3
+RemoveCourse 47
+AddCourse 18
+WatchClass 51 8 47
+GetIthWatchedClass 60
+Init
+Init
+GetIthWatchedClass 2
+Quit
+Quit
+RemoveCourse 56
+WatchClass 65 37 56
+AddClass 54
+RemoveCourse 8
+Init
+Init
+RemoveCourse 68
+Quit
+Quit
+Init
+AddClass 19
+WatchClass 41 53 24
+AddClass 6
+GetIthWatchedClass 70
+GetIthWatchedClass 54
+Quit
+Init
+WatchClass 60 3 18
+Init
+WatchClass 26 3 18
+Quit
+RemoveCourse 40
+Quit
+Init
+RemoveCourse 24
+Quit
+RemoveCourse 2
+GetIthWatchedClass 57
+AddCourse 59
+GetIthWatchedClass 52
+AddClass 27
+Init
+RemoveCourse 24
+AddClass 19
+AddCourse 2
+Init
+AddCourse 20
+Init
+GetIthWatchedClass 11
+WatchClass 44 68 54
+Quit
+AddCourse 25
+Quit
+WatchClass 8 29 14
+Quit
+WatchClass 23 43 61
+RemoveCourse 17
+TimeViewed 52 16
+GetIthWatchedClass 13
+GetIthWatchedClass 15
+WatchClass 28 54 40
+WatchClass 46 23 70
+Quit
+Quit
+RemoveCourse 58
+Init
+GetIthWatchedClass 45
+AddClass 55
+AddCourse 26
+AddClass 18
+Init
+Init
+RemoveCourse 46
+Quit
+AddCourse 14
+AddClass 54
+RemoveCourse 31
+TimeViewed 5 7
+AddClass 9
+AddCourse 69
+AddClass 6
+Quit
+WatchClass 4 13 42
+Init
+AddClass 58
+WatchClass 29 66 28
+TimeViewed 14 67
+AddClass 66
+TimeViewed 27 5
+WatchClass 63 0 5
+TimeViewed 15 24
+Quit
+AddClass 55
+Init
+TimeViewed 57 7
+TimeViewed 13 27
+WatchClass 30 6 58
+Quit
+GetIthWatchedClass 59
+AddCourse 70
+RemoveCourse 45
+Quit
+Quit
+Quit
+TimeViewed 52 66
+TimeViewed 7 5
+AddClass 27
+WatchClass 33 21 54
+TimeViewed 48 25
+AddCourse 24
+AddCourse 20
+TimeViewed 64 48
+GetIthWatchedClass 53
+AddCourse 5
+GetIthWatchedClass 14
+TimeViewed 38 29
+GetIthWatchedClass 6
+AddClass 38
+RemoveCourse 65
+Init
+WatchClass 41 59 5
+GetIthWatchedClass 29
+AddClass 65
+WatchClass -1 56 -2
+Quit
+Init
+AddCourse 31
+TimeViewed 13 -1
+RemoveCourse 44
+Init
+Init
+GetIthWatchedClass 65
+AddCourse 69
+RemoveCourse 39
+RemoveCourse 6
+GetIthWatchedClass 15
+RemoveCourse 68
+TimeViewed 4 0
+WatchClass 18 1 15
+WatchClass 29 64 5
+Init
+AddClass 0
+AddCourse -2
+AddCourse -3
+GetIthWatchedClass 63
+TimeViewed 62 35
+AddClass 42
+AddClass 63
+Quit
+AddClass 66
+GetIthWatchedClass 1
+RemoveCourse -1
+AddCourse 69
+Quit
+GetIthWatchedClass 64
+AddCourse 7
+WatchClass 34 59 42
+GetIthWatchedClass 0
+WatchClass 52 0 15
+AddCourse 35
+WatchClass 6 18 36
+AddClass 21
+GetIthWatchedClass 8
+RemoveCourse 23
+Init
+GetIthWatchedClass 56
+AddClass 66
+RemoveCourse 69
+GetIthWatchedClass 13
+RemoveCourse 14
+Init
+AddCourse 46
+RemoveCourse -2
+Quit
+TimeViewed -2 50
+Quit
+RemoveCourse 14
+Init
+AddCourse 36
+Init
+TimeViewed 69 50
+TimeViewed 15 -3
+TimeViewed 2 60
+GetIthWatchedClass 37
+TimeViewed 9 38
+AddClass 49
+Quit
+Init
+AddClass 0
+AddClass 44
+TimeViewed 24 53
+GetIthWatchedClass 47
+AddClass 65
+GetIthWatchedClass 68
+TimeViewed 38 44
+Quit
+GetIthWatchedClass 24
+GetIthWatchedClass 29
+RemoveCourse 15
+Quit
+Quit
+Init
+AddCourse 69
+AddCourse 22
+GetIthWatchedClass 52
+GetIthWatchedClass 57
+GetIthWatchedClass 31
+GetIthWatchedClass 10
+TimeViewed 63 24
+GetIthWatchedClass 48
+Quit
+Quit
+GetIthWatchedClass 61
+AddClass 27
+GetIthWatchedClass 23
+TimeViewed 8 -2
+GetIthWatchedClass 36
+AddClass 54
+Quit
+RemoveCourse 58
+RemoveCourse 19
+AddClass 12
+GetIthWatchedClass 64
+Init
+Init
+AddClass 5
+Quit

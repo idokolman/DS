@@ -1,0 +1,168 @@
+init done.
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+TimeViewed: 390
+WatchClass: SUCCESS
+TimeViewed: 1219
+WatchClass: SUCCESS
+TimeViewed: 1438
+WatchClass: SUCCESS
+TimeViewed: 921
+WatchClass: SUCCESS
+TimeViewed: 1704
+WatchClass: SUCCESS
+TimeViewed: 2644
+WatchClass: SUCCESS
+TimeViewed: 3081
+WatchClass: SUCCESS
+TimeViewed: 682
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: INVALID_INPUT
+TimeViewed: 0
+WatchClass: SUCCESS
+TimeViewed: 52
+WatchClass: SUCCESS
+TimeViewed: 150
+WatchClass: SUCCESS
+TimeViewed: 191
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+WatchClass: SUCCESS
+TimeViewed: 129
+WatchClass: SUCCESS
+TimeViewed: 492
+WatchClass: INVALID_INPUT
+TimeViewed: 492
+WatchClass: SUCCESS
+TimeViewed: 433
+WatchClass: SUCCESS
+TimeViewed: 533
+WatchClass: SUCCESS
+TimeViewed: 780
+WatchClass: SUCCESS
+TimeViewed: 1731
+WatchClass: SUCCESS
+TimeViewed: 2597
+WatchClass: SUCCESS
+TimeViewed: 814
+WatchClass: SUCCESS
+TimeViewed: 902
+WatchClass: SUCCESS
+TimeViewed: 1338
+WatchClass: SUCCESS
+TimeViewed: 1584
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+WatchClass: SUCCESS
+TimeViewed: 12
+WatchClass: SUCCESS
+TimeViewed: 825
+WatchClass: SUCCESS
+TimeViewed: 915
+WatchClass: SUCCESS
+TimeViewed: 910
+WatchClass: SUCCESS
+TimeViewed: 1463
+WatchClass: SUCCESS
+TimeViewed: 590
+WatchClass: SUCCESS
+TimeViewed: 728
+WatchClass: SUCCESS
+TimeViewed: 1285
+WatchClass: SUCCESS
+TimeViewed: 835
+WatchClass: INVALID_INPUT
+TimeViewed: 835
+WatchClass: SUCCESS
+TimeViewed: 139
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 923
+WatchClass: SUCCESS
+TimeViewed: 1160
+WatchClass: SUCCESS
+TimeViewed: 1879
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 933
+WatchClass: SUCCESS
+TimeViewed: 1297
+WatchClass: SUCCESS
+TimeViewed: 1679
+WatchClass: SUCCESS
+TimeViewed: 2110
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 616
+WatchClass: SUCCESS
+TimeViewed: 1238
+WatchClass: SUCCESS
+TimeViewed: 1931
+WatchClass: SUCCESS
+TimeViewed: 2315
+WatchClass: SUCCESS
+TimeViewed: 938
+WatchClass: SUCCESS
+TimeViewed: 1185
+WatchClass: SUCCESS
+TimeViewed: 1650
+WatchClass: SUCCESS
+TimeViewed: 2073
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+TimeViewed: 615
+WatchClass: SUCCESS
+TimeViewed: 1369
+WatchClass: SUCCESS
+TimeViewed: 1720
+WatchClass: SUCCESS
+TimeViewed: 167
+WatchClass: SUCCESS
+TimeViewed: 547
+WatchClass: SUCCESS
+TimeViewed: 883
+WatchClass: SUCCESS
+TimeViewed: 1042
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20008 0
+GetIthWatchedClass: 20000 3
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20005 0
+GetIthWatchedClass: 20004 2
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20006 3
+GetIthWatchedClass: 20008 2
+GetIthWatchedClass: 20006 1
+GetIthWatchedClass: 20004 1
+GetIthWatchedClass: 20006 4
+GetIthWatchedClass: 20006 2
+GetIthWatchedClass: 20000 4
+GetIthWatchedClass: 20008 1
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 2
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20004 0
+GetIthWatchedClass: 20006 0
+quit done.

@@ -1,0 +1,81 @@
+init done.
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 644
+WatchClass: SUCCESS
+TimeViewed: 1240
+WatchClass: SUCCESS
+TimeViewed: 1877
+WatchClass: SUCCESS
+TimeViewed: 2663
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+TimeViewed: 814
+WatchClass: SUCCESS
+TimeViewed: 965
+WatchClass: SUCCESS
+TimeViewed: 1027
+WatchClass: SUCCESS
+TimeViewed: 546
+WatchClass: SUCCESS
+TimeViewed: 591
+WatchClass: SUCCESS
+TimeViewed: 883
+WatchClass: SUCCESS
+TimeViewed: 413
+WatchClass: SUCCESS
+TimeViewed: 1287
+WatchClass: SUCCESS
+TimeViewed: 2136
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+TimeViewed: 190
+WatchClass: SUCCESS
+TimeViewed: 76
+WatchClass: SUCCESS
+TimeViewed: 370
+WatchClass: SUCCESS
+TimeViewed: 549
+WatchClass: SUCCESS
+TimeViewed: 314
+WatchClass: SUCCESS
+TimeViewed: 315
+WatchClass: SUCCESS
+TimeViewed: 861
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 219
+WatchClass: SUCCESS
+TimeViewed: 1120
+WatchClass: SUCCESS
+TimeViewed: 77
+WatchClass: SUCCESS
+TimeViewed: 537
+WatchClass: SUCCESS
+TimeViewed: 1246
+WatchClass: SUCCESS
+TimeViewed: 1646
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20004 0
+GetIthWatchedClass: 20001 2
+GetIthWatchedClass: 20005 0
+GetIthWatchedClass: 20005 1
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20001 1
+GetIthWatchedClass: 20006 0
+GetIthWatchedClass: 20006 2
+GetIthWatchedClass: 20006 1
+quit done.

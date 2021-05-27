@@ -1,0 +1,11 @@
+Init
+AddCourse 234218 5
+AddCourse 324694 3
+AddCourse 234218 3
+AddCourse -1 10
+RemoveCourse 324694
+RemoveCourse 789111
+WatchClass 234218 2 10
+TimeViewed 234218 2
+GetMostViewedClasses 3
+Quit

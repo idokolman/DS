@@ -1,0 +1,269 @@
+Init
+AddCourse 14 16
+AddCourse 15 -12
+AddCourse -31 0
+AddCourse 17 0
+RemoveCourse 16
+AddCourse 104095 40
+AddCourse 15 13
+AddCourse 13 -12
+AddCourse 44252 13
+RemoveCourse 234218
+AddCourse 15 26
+AddCourse 14 16
+AddCourse -31 -12
+AddCourse 236319 40
+RemoveCourse 236319
+AddCourse 12 13
+AddCourse 104022 16
+AddCourse 15 26
+AddCourse 14 40
+RemoveCourse 236319
+AddCourse 104293 26
+AddCourse 234218 40
+AddCourse 104022 0
+AddCourse 104022 0
+RemoveCourse 15
+AddCourse 104293 -12
+AddCourse 234218 -12
+AddCourse 15 52
+AddCourse 15 40
+RemoveCourse 104022
+AddCourse 0 16
+AddCourse 104293 40
+AddCourse 13 16
+AddCourse 16 0
+RemoveCourse 15
+AddCourse 0 0
+AddCourse 13 13
+AddCourse 236319 40
+AddCourse 44252 0
+RemoveCourse 14
+GetMostViewedClasses -1
+GetMostViewedClasses 6
+WatchClass 104293 14 2
+WatchClass 44252 14 9
+WatchClass 12 11 5
+GetMostViewedClasses 16
+WatchClass 236319 14 7
+WatchClass 12 12 2
+WatchClass 17 3 -3
+WatchClass 44252 -2 23
+WatchClass 17 -3 0
+WatchClass 12 28 23
+WatchClass 44252 26 -3
+WatchClass 0 30 5
+WatchClass 104293 28 17
+TimeViewed 44252 26
+GetMostViewedClasses 22
+WatchClass 0 1 0
+WatchClass 234218 31 22
+WatchClass 17 -3 14
+TimeViewed 14 9
+WatchClass 0 -2 24
+WatchClass 104293 7 20
+WatchClass 17 2 18
+TimeViewed 236319 31
+WatchClass 12 8 28
+WatchClass 104095 -2 18
+WatchClass 16 15 27
+TimeViewed 14 23
+GetMostViewedClasses 29
+WatchClass 17 24 25
+WatchClass 44252 7 -2
+WatchClass 104022 17 8
+TimeViewed 44252 9
+AddCourse 17 40
+RemoveCourse 15
+WatchClass 104095 15 28
+GetMostViewedClasses 12
+TimeViewed -31 9
+GetMostViewedClasses 27
+WatchClass 0 32 21
+TimeViewed 44252 3
+TimeViewed 0 -1
+TimeViewed 13 1
+GetMostViewedClasses 4
+TimeViewed 104022 5
+WatchClass -31 19 5
+TimeViewed 0 4
+TimeViewed 104095 13
+GetMostViewedClasses 19
+TimeViewed 14 9
+TimeViewed 13 23
+WatchClass 17 5 27
+TimeViewed 14 17
+GetMostViewedClasses 8
+TimeViewed 104022 12
+TimeViewed 15 12
+WatchClass 17 5 21
+WatchClass 0 13 15
+WatchClass 16 8 2
+TimeViewed 234218 -1
+GetMostViewedClasses 5
+RemoveCourse -31
+AddCourse 44252 -12
+WatchClass 0 -2 21
+WatchClass 234218 10 2
+WatchClass 15 27 11
+WatchClass 13 14 7
+WatchClass 13 12 26
+WatchClass 12 14 -3
+WatchClass 236319 3 12
+WatchClass 12 0 -1
+WatchClass 0 26 5
+WatchClass 104293 22 13
+WatchClass 17 16 7
+WatchClass 16 -3 21
+TimeViewed 14 10
+WatchClass 14 12 24
+WatchClass 14 -3 28
+WatchClass 236319 12 3
+WatchClass 16 30 19
+WatchClass 236319 4 26
+WatchClass 104022 -3 30
+WatchClass 44252 15 32
+WatchClass 12 23 16
+WatchClass -31 5 28
+WatchClass 236319 14 24
+WatchClass 16 2 9
+WatchClass 104293 7 5
+TimeViewed 234218 -2
+RemoveCourse 104095
+AddCourse 44252 -12
+WatchClass 12 31 5
+WatchClass 17 2 12
+WatchClass 17 29 11
+WatchClass -31 2 23
+WatchClass 44252 3 24
+WatchClass 13 30 22
+WatchClass 44252 7 6
+WatchClass 15 20 15
+WatchClass -31 19 26
+WatchClass 234218 6 6
+WatchClass 234218 5 26
+WatchClass 104293 17 -1
+TimeViewed 0 16
+WatchClass -31 29 -3
+WatchClass 44252 23 0
+WatchClass 13 -3 31
+WatchClass 14 10 10
+WatchClass 104095 26 19
+WatchClass 12 27 23
+WatchClass 17 19 31
+WatchClass 104022 4 26
+WatchClass 16 27 17
+WatchClass 104022 -1 6
+WatchClass 16 10 19
+WatchClass 12 27 24
+TimeViewed 13 3
+RemoveCourse -31
+AddCourse 16 13
+WatchClass 234218 15 3
+WatchClass 234218 11 21
+WatchClass 16 4 15
+WatchClass 234218 13 15
+WatchClass 44252 14 22
+WatchClass -31 29 28
+WatchClass 0 32 3
+WatchClass 44252 23 14
+WatchClass 104022 12 12
+WatchClass 104293 7 23
+WatchClass -31 12 -2
+WatchClass 234218 -3 5
+TimeViewed 104095 6
+WatchClass 104293 20 4
+WatchClass 16 30 -2
+WatchClass 44252 28 15
+WatchClass 14 15 0
+WatchClass 104293 26 16
+WatchClass 104022 11 11
+WatchClass 44252 31 28
+WatchClass 13 8 26
+WatchClass 44252 29 19
+WatchClass 17 25 5
+WatchClass -31 7 30
+WatchClass 234218 25 26
+TimeViewed 12 -3
+GetMostViewedClasses 27
+RemoveCourse 16
+AddCourse 12 52
+WatchClass 236319 24 27
+WatchClass 104022 23 18
+WatchClass 14 25 14
+WatchClass 236319 32 8
+WatchClass 104095 28 4
+WatchClass 104022 5 14
+WatchClass 13 -2 29
+WatchClass 15 1 30
+WatchClass -31 8 3
+WatchClass -31 8 1
+WatchClass 14 26 4
+WatchClass 13 9 4
+TimeViewed 104095 1
+WatchClass 236319 32 29
+WatchClass 236319 16 30
+WatchClass 12 4 8
+WatchClass 16 15 24
+WatchClass 12 31 6
+WatchClass 104022 20 6
+WatchClass -31 30 20
+WatchClass 13 8 0
+WatchClass 234218 4 5
+WatchClass 104095 6 21
+WatchClass 104022 5 21
+WatchClass 12 27 28
+TimeViewed 44252 9
+RemoveCourse 16
+AddCourse 236319 16
+WatchClass 234218 13 20
+WatchClass 104293 0 12
+WatchClass 236319 24 11
+WatchClass 236319 31 29
+WatchClass -31 19 15
+WatchClass 104095 8 14
+WatchClass 16 30 4
+WatchClass 0 20 22
+WatchClass 234218 0 7
+WatchClass 104022 28 16
+WatchClass 104095 31 6
+WatchClass 0 32 10
+TimeViewed 13 29
+WatchClass 14 1 8
+WatchClass 236319 3 20
+WatchClass 12 26 27
+WatchClass 234218 21 9
+WatchClass 17 2 30
+WatchClass 236319 1 14
+WatchClass 15 21 6
+WatchClass 44252 15 -3
+WatchClass 104095 20 10
+WatchClass -31 30 22
+WatchClass 104293 15 29
+WatchClass 0 30 4
+TimeViewed 104022 15
+RemoveCourse 0
+AddCourse 12 52
+WatchClass 234218 25 13
+WatchClass 16 18 14
+WatchClass 104095 12 13
+WatchClass 13 31 7
+WatchClass 236319 24 28
+WatchClass 15 22 23
+WatchClass 104095 17 23
+WatchClass 17 3 24
+WatchClass 16 20 13
+WatchClass 13 22 18
+WatchClass 12 28 19
+WatchClass -31 0 -1
+TimeViewed 234218 -2
+WatchClass -31 14 14
+WatchClass 104095 30 23
+WatchClass 236319 32 18
+WatchClass 17 32 22
+WatchClass 17 10 10
+WatchClass -31 24 19
+WatchClass 16 23 7
+WatchClass 104293 9 -1
+WatchClass 44252 18 14
+Quit

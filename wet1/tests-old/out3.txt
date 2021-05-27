@@ -1,0 +1,249 @@
+init done.
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+RemoveCourse: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+RemoveCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: FAILURE
+AddCourse: INVALID_INPUT
+RemoveCourse: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: FAILURE
+RemoveCourse: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: FAILURE
+AddCourse: SUCCESS
+RemoveCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: FAILURE
+RemoveCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: FAILURE
+RemoveCourse: FAILURE
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+RemoveCourse: SUCCESS
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+12	|	0
+12	|	1
+12	|	2
+12	|	3
+12	|	4
+12	|	5
+12	|	6
+12	|	7
+12	|	8
+12	|	9
+12	|	10
+12	|	11
+12	|	12
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+12	|	0
+12	|	1
+12	|	2
+12	|	3
+12	|	4
+12	|	5
+12	|	6
+12	|	7
+12	|	8
+--End of most viewed classes--
+WatchClass: FAILURE
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+15	|	13
+12	|	0
+12	|	1
+12	|	2
+12	|	3
+12	|	4
+12	|	5
+12	|	6
+12	|	7
+12	|	8
+12	|	9
+12	|	10
+12	|	11
+12	|	12
+--End of most viewed classes--
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+TimeViewed: FAILURE
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: FAILURE
+TimeViewed: FAILURE
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+TimeViewed: FAILURE
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+104022	|	19
+17	|	24
+104293	|	10
+--End of most viewed classes--
+WatchClass: SUCCESS
+WatchClass: FAILURE
+WatchClass: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+AddCourse: INVALID_INPUT
+RemoveCourse: INVALID_INPUT
+WatchClass: SUCCESS
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+104022	|	19
+17	|	24
+104293	|	10
+104095	|	10
+13	|	8
+15	|	13
+16	|	12
+12	|	0
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+104022	|	19
+17	|	24
+104293	|	10
+104095	|	10
+13	|	8
+15	|	13
+16	|	12
+12	|	0
+12	|	1
+12	|	2
+12	|	3
+12	|	4
+12	|	5
+12	|	6
+12	|	7
+12	|	8
+12	|	9
+12	|	10
+12	|	11
+12	|	12
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: FAILURE
+TimeViewed: 0
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+104022	|	19
+17	|	24
+104293	|	10
+104095	|	10
+13	|	8
+15	|	13
+16	|	12
+12	|	0
+12	|	1
+12	|	2
+12	|	3
+12	|	4
+12	|	5
+12	|	6
+12	|	7
+12	|	8
+12	|	9
+12	|	10
+12	|	11
+12	|	12
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+13	|	6
+13	|	7
+13	|	9
+--End of most viewed classes--
+TimeViewed: 0
+WatchClass: SUCCESS
+TimeViewed: INVALID_INPUT
+TimeViewed: 0
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+104293	|	10
+104022	|	19
+17	|	24
+104095	|	10
+13	|	8
+15	|	13
+16	|	12
+12	|	0
+12	|	1
+12	|	2
+12	|	3
+12	|	4
+12	|	5
+12	|	6
+12	|	7
+12	|	8
+12	|	9
+12	|	10
+12	|	11
+12	|	12
+13	|	0
+13	|	1
+13	|	2
+13	|	3
+13	|	4
+13	|	5
+13	|	6
+13	|	7
+13	|	9
+13	|	10
+13	|	11
+13	|	12
+--End of most viewed classes--
+TimeViewed: 0
+TimeViewed: INVALID_INPUT
+WatchClass: FAILURE
+TimeViewed: 0
+GetMostViewedClasses: ALLOCATION_ERROR
+TimeViewed: INVALID_INPUT
+TimeViewed: FAILURE
+quit done.

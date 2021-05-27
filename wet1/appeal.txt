@@ -1,0 +1,5 @@
+Our only change was adding the following line:
+library.cpp:118: if(AvlFind(manager->courses, courseID).found) return FAILURE;
+
+When adding a new course, we needed to test if it is already inside the two AVL trees
+we used for sorting courses, and we didn't test for it in the second one.

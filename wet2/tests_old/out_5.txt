@@ -1,0 +1,35 @@
+init done.
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+TimeViewed: 50
+TimeViewed: 10
+TimeViewed: 10
+TimeViewed: 60
+TimeViewed: 10
+TimeViewed: 10
+GetIthWatchedClass: 2 0
+GetIthWatchedClass: 1 0
+GetIthWatchedClass: 1 1
+GetIthWatchedClass: 1 2
+GetIthWatchedClass: 2 1
+GetIthWatchedClass: 2 2
+RemoveCourse: SUCCESS
+GetIthWatchedClass: 2 0
+GetIthWatchedClass: 2 1
+GetIthWatchedClass: 2 2
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+GetIthWatchedClass: FAILURE
+quit done.

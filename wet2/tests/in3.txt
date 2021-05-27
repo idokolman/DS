@@ -1,0 +1,117 @@
+Init
+AddCourse 2842123
+AddCourse 5344817
+AddCourse 1840674
+AddCourse 1769839
+AddCourse 7497564
+AddClass 1840674
+AddClass 1141267
+AddClass 7497564
+AddClass 5344817
+AddClass 5344817
+AddClass 5582383
+AddClass 9545226
+AddClass 1840674
+AddClass 5344817
+AddClass 5344817
+AddClass 1769839
+AddClass 5344817
+AddCourse 2775602
+AddCourse 4179036
+AddCourse 9168377
+TimeViewed 1769839 0
+AddClass 2775602
+WatchClass 5344817 2 10
+TimeViewed 7497564 0
+RemoveCourse 5344817
+WatchClass 1769839 0 12
+WatchClass 2775602 0 12
+RemoveCourse 4179036
+AddCourse 3673654
+AddCourse 9380861
+GetIthWatchedClass 1
+AddClass 1769839
+AddCourse 7484366
+GetIthWatchedClass 2
+RemoveCourse 9380861
+AddClass 3673654
+TimeViewed 7497564 0
+TimeViewed 3673654 0
+AddCourse 3464651
+AddClass 1769839
+GetIthWatchedClass 2
+AddClass 1840674
+GetIthWatchedClass 2
+AddCourse 322184
+WatchClass 7497564 0 18
+AddClass 322184
+AddClass 3673654
+AddCourse 738053
+AddClass 738053
+AddCourse 8064248
+AddClass 2775602
+TimeViewed 1769839 2
+WatchClass 6100255 -1 1
+WatchClass 1769839 1 14
+RemoveCourse 1840674
+AddClass 738053
+WatchClass 4350936 -3 10
+AddClass 7497564
+WatchClass 3673654 1 1
+TimeViewed 7497564 0
+AddClass 4045410
+RemoveCourse 1769839
+AddClass 4123693
+WatchClass 738053 1 6
+AddClass 7497564
+AddClass 7497564
+AddCourse 1771152
+WatchClass 3673654 0 2
+GetIthWatchedClass 5
+WatchClass 2775602 0 12
+AddCourse 2618547
+AddCourse 239123
+GetIthWatchedClass 1
+AddCourse 0
+RemoveCourse 1859958
+RemoveCourse 2775602
+WatchClass 322184 0 1
+AddCourse 7789755
+WatchClass 322184 0 15
+AddCourse 7600101
+AddClass 738053
+AddClass 3673654
+RemoveCourse 3673654
+GetIthWatchedClass 2
+AddClass 7789755
+WatchClass 322184 0 5
+RemoveCourse 7600101
+AddClass 738053
+AddCourse 314367
+RemoveCourse 7484366
+WatchClass 322184 0 17
+WatchClass 322184 0 12
+TimeViewed 738053 3
+AddCourse 3300081
+AddCourse 4235828
+RemoveCourse 3300081
+GetIthWatchedClass 3
+AddClass 314367
+AddClass 7497564
+TimeViewed 7789755 5
+AddClass 2618547
+RemoveCourse 239123
+AddCourse 6071614
+GetIthWatchedClass 1
+AddClass 7497564
+AddClass 4295428
+AddCourse 9635744
+GetIthWatchedClass 1
+AddClass 738053
+AddCourse 8940586
+RemoveCourse 314367
+AddCourse 8064248
+WatchClass 7789755 0 20
+WatchClass 738053 3 2
+AddCourse 2772862
+Quit

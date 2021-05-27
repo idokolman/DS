@@ -1,0 +1,51 @@
+init done.
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 72
+WatchClass: SUCCESS
+TimeViewed: 495
+WatchClass: SUCCESS
+TimeViewed: 400
+WatchClass: SUCCESS
+TimeViewed: 525
+WatchClass: SUCCESS
+TimeViewed: 898
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+WatchClass: SUCCESS
+TimeViewed: 416
+WatchClass: SUCCESS
+TimeViewed: 903
+WatchClass: SUCCESS
+TimeViewed: 1803
+WatchClass: SUCCESS
+TimeViewed: 304
+WatchClass: SUCCESS
+TimeViewed: 882
+WatchClass: SUCCESS
+TimeViewed: 128
+WatchClass: SUCCESS
+TimeViewed: 984
+WatchClass: SUCCESS
+TimeViewed: 453
+WatchClass: SUCCESS
+TimeViewed: 3
+WatchClass: SUCCESS
+TimeViewed: 499
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 2
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20000 4
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20000 3
+quit done.

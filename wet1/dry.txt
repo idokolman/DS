@@ -1,0 +1,30 @@
+Course: array of classes
+
+Time: Avl Tree --> Classes
+
+Course Manager:
+	Avl Tree --> Courses
+	Linked List --> Courses (when time = 0)
+	Linked List --> Times
+
+
+Init:
+	O(1): new Course Manage
+
+AddCourse:
+	Find place for the course in Manager.courses
+	Allocate array of m classes
+	Add all classes to Times[0] <-- problem ? another list of classes/courses maybe
+	
+RemoveCourse:
+	Find course in Manager.courses
+	Remove class from Times (AVL removal)
+	Remove course (AVL removal)
+
+WatchClass:
+	Find course/class in Manager.courses
+	move class from Times[class.t] to Times[class.t + t]
+
+GetMostViewedClasses:
+	Go over Times, for each time:
+		go over AVL and print in order

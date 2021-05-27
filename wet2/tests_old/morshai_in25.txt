@@ -1,0 +1,19 @@
+Init
+AddCourse 20001
+AddClass 20001
+AddClass 20001
+WatchClass 20001 0 773
+TimeViewed 20001 0
+WatchClass 20001 0 937
+TimeViewed 20001 0
+WatchClass 20001 0 865
+TimeViewed 20001 0
+WatchClass 20001 0 870
+TimeViewed 20001 0
+WatchClass 20001 1 877
+TimeViewed 20001 1
+AddCourse 20000
+GetIthWatchedClass 0
+GetIthWatchedClass 1
+GetIthWatchedClass 2
+Quit

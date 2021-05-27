@@ -1,0 +1,35 @@
+Init
+AddCourse 1
+AddCourse 2
+AddClass 1
+AddClass 1
+AddClass 1
+AddClass 2
+AddClass 2
+AddClass 2
+WatchClass 1 0 50
+WatchClass 1 1 10
+WatchClass 1 2 10
+WatchClass 2 0 60
+WatchClass 2 1 10
+WatchClass 2 2 10
+TimeViewed 1 0
+TimeViewed 1 1
+TimeViewed 1 2
+TimeViewed 2 0
+TimeViewed 2 1
+TimeViewed 2 2
+GetIthWatchedClass 1
+GetIthWatchedClass 2
+GetIthWatchedClass 3
+GetIthWatchedClass 4
+GetIthWatchedClass 5
+GetIthWatchedClass 6
+RemoveCourse 1
+GetIthWatchedClass 1
+GetIthWatchedClass 2
+GetIthWatchedClass 3
+GetIthWatchedClass 4
+GetIthWatchedClass 5
+GetIthWatchedClass 6
+Quit

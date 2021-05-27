@@ -1,0 +1,3 @@
+init done.
+GetIthWatchedClass: INVALID_INPUT
+quit done.

@@ -1,0 +1,20 @@
+Init
+AddCourse 20000
+AddClass 20000
+AddClass 20000
+WatchClass 20000 1 115
+TimeViewed 20000 1
+WatchClass 20000 1 1
+TimeViewed 20000 1
+WatchClass 20000 0 219
+TimeViewed 20000 0
+WatchClass 20000 0 250
+TimeViewed 20000 0
+WatchClass 20000 0 634
+TimeViewed 20000 0
+WatchClass 20000 0 634
+TimeViewed 20000 0
+GetIthWatchedClass 0
+GetIthWatchedClass 1
+GetIthWatchedClass 2
+Quit

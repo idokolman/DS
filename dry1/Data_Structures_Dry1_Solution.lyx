@@ -1,0 +1,1759 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass heb-article
+\begin_preamble
+%fonts
+\usepackage{unicode-math}
+\setmainfont{Rubik}
+\setmathfont{texgyredejavu-math.otf}
+\setmathfont[range={cal,bfcal},StylisticSet=1]{latinmodern-math.otf}
+\setmathrm{texgyredejavu-math.otf}
+\setmonofont{DejaVu Sans Mono}
+\newfontfamily\hebrewfont[Script=Hebrew]{Rubik}
+\newfontfamily\hebrewfonttt[Script=Hebrew]{DejaVu Sans Mono}
+
+%format
+\let\Oldtitle\title
+\renewcommand{\title}[1]{\Oldtitle{\vspace{-2em}#1}}
+\date{} %ignore date
+\pagenumbering{gobble}
+
+%enumerations
+\renewcommand{\labelenumi}{\arabic{enumi})}
+\renewcommand{\labelenumii}{\alph{enumii}.}
+
+%colors
+\usepackage{xcolor}
+\definecolor{green}{RGB}{ 40, 150,  70}
+\definecolor{blue} {RGB}{ 20,  45, 140}
+\definecolor{teal} {RGB}{  80, 130, 180}
+
+\definecolor{codeback}{RGB}{234,244,250}
+\definecolor{codekeyword}{RGB}{27,144,147}
+\definecolor{codeident}{RGB}{99,52,9}
+\definecolor{codecomment}{RGB}{96,129,96}
+\definecolor{codestring}{RGB}{106,49,49}
+
+\usepackage{listings}
+\usepackage{fontenc}
+\usepackage{inputenc}
+\lstset{
+  backgroundcolor=\color{codeback},
+  basicstyle=\small\ttfamily,
+  breakatwhitespace=true,         % sets if automatic breaks should only happen at whitespace
+  breaklines=true,                 % sets automatic line breaking
+  captionpos=b,                    % sets the caption-position to bottom
+  commentstyle=\color{codecomment},    % comment style
+  deletekeywords={...},            % if you want to delete keywords from the given language
+  extendedchars=true,              % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
+  firstnumber=1,                % start line enumeration with line 1000
+  keepspaces=true,                 % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
+  keywordstyle=\color{codeident},
+  frame=single,
+  framerule=0pt,
+%  identifierstyle=\color{codeident},
+  language=C++,                 % the language of the code
+  morekeywords={*,...},            % if you want to add more keywords to the set
+  numbers=left,                    % where to put the line-numbers; possible values are (none, left, right)
+  numbersep=5pt,                   % how far the line-numbers are from the code
+  numberstyle=\small\ttfamily\color{lightgray}, % the style that is used for the line-numbers
+  showtabs=false,                  % show tabs within strings adding particular underscores
+  showstringspaces=false,          % underline spaces within strings only
+  stepnumber=1,                    % the step between two line-numbers. If it's 1, each line will be numbered
+  stringstyle=\color{codestring},     % string literal style
+  tabsize=2,	                   % sets default tabsize to 2 spaces
+  escapeinside={\$}{\$},
+}
+
+\let\Oldlstinline\lstinline
+\renewcommand{\lstinline}[1]{\textenglish{\Oldlstinline{#1}}}
+
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usetikzlibrary{trees}
+\end_preamble
+\use_default_options true
+\begin_modules
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\bullet 0 4 20 -1
+\bullet 1 4 26 -1
+\bullet 2 4 32 -1
+\bullet 3 4 12 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+מבני נתונים - גליון בית יבש
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\end_layout
+
+\begin_layout Author
+נועם יעקבי -
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+000000000
+\numeric off
+
+\begin_inset Newline newline
+\end_inset
+
+עידו קולמן -
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+000000000
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+הערה: בשאלות 
+\begin_inset Formula $1-3$
+\end_inset
+
+ סימנו לעיתים קרובות 
+\begin_inset Formula $f\coloneqq f_{1}(x),\:g\coloneqq g_{1}(x)$
+\end_inset
+
+ על מנת לחסוך ברעש ולהגביר את הקריאות.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\end_layout
+
+\begin_layout Enumerate
+הטענה לא נכונה, דוגמא נגדית:
+\begin_inset Formula 
+\begin{gather*}
+f_{1}\left(n\right)=\frac{1}{n}\;\;;\;\;\exists c=1,n_{0}=1;\;\forall n\geq n_{0}:f_{1}\leq c\implies f_{1}=O\left(1\right)\\
+\lim_{n\rightarrow\infty}f_{1}\left(n\right)=0\implies\forall c>0,\exists n:\;f_{1}\left(n\right)<c\implies f\left(n\right)\neq\Omega\left(1\right)\;{}_{\blacksquare}
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+הטענה נכונה:
+\begin_inset Formula 
+\begin{gather*}
+\Omega\left(f\right)=\sqrt{f}\implies\exists c>0,n_{0};\;\forall n\geq n_{0}:\;\sqrt{f}\geq c\cdot f\xRightarrow{\left(\ \right)^{2}}f\geq c^{2}f\xRightarrow{\cdot\nicefrac{1}{f}}\frac{1}{c^{2}}\geq f\\
+\implies\exists c'=\frac{1}{c^{2}},n'_{0}=n_{0};\;\forall n\geq n'_{0}:\;f\leq c'\implies f=O\left(1\right)\\
+\\
+f_{1}=O\left(1\right)\implies\exists c>0,n_{0};\;\forall n\geq n_{0}:\;f\leq c\xRightarrow{\cdot f}f^{2}\leq cf\xRightarrow{\sqrt{\left(\ \right)}}f\leq\sqrt{cf}\\
+\implies\exists c'=\sqrt{c},n'_{0}=n_{0};\;\forall n\geq n'_{0}:\;f\leq\sqrt{f}c'\implies\Omega\left(f\right)=\sqrt{f}\;{}_{\blacksquare}
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+הטענה לא נכונה, דוגמא נגדית:
+\begin_inset Formula 
+\begin{gather*}
+\begin{array}{ccc}
+f_{1}\left(n\right)=n & , & g_{1}\left(n\right)=n\\
+f_{2}\left(n\right)=1 & , & g_{2}\left(n\right)=n
+\end{array}\quad;\quad\begin{array}{c}
+f_{1}=O\left(g_{1}\right)\\
+f_{2}=O\left(g_{2}\right)
+\end{array}\quad;\quad\frac{f_{1}}{f_{2}}=n\neq O\left(\frac{g_{1}}{g_{2}}\right)=1
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+הטענה לא נכונה, דוגמא נגדית:
+\begin_inset Formula 
+\begin{gather*}
+\begin{array}{c}
+f\left(n\right)=n^{2}\\
+g\left(n\right)=n
+\end{array}\quad;\quad\left|\log\frac{f}{g}\right|\leq c\log g\implies\left|\log n\right|\leq c\log n\\
+\left|\log\frac{f}{g}\right|=O\left(\log g\right),\quad f\neq O\left(g\right)\;{}_{\blacksquare}
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+הטענה נכונה:
+\begin_inset Formula 
+\begin{gather*}
+\begin{array}{c}
+f_{1}=\Theta\left(g_{1}\right)\\
+f_{2}=\Theta\left(g_{2}\right)
+\end{array}\implies\begin{array}{c}
+\exists c_{1}>0,n_{1};\;\forall n\geq n_{1}:\;f_{1}\leq cg_{1}\\
+\exists c_{2}>0,n_{2};\;\forall n\geq n_{2}:\;f_{2}\leq cg_{2}
+\end{array}\;\land\;\begin{array}{c}
+\exists c'_{1}>0,n'_{1};\;\forall n\geq n'_{1}:\;f_{1}\geq c_{1}'g_{1}\\
+\exists c'_{2}>0,n'_{2};\;\forall n\geq n'_{2}:\;f_{2}\geq c_{2}'g_{2}
+\end{array}\\
+\frac{f_{1}}{f_{2}}\leq\frac{c_{1}g_{1}}{c_{2}'g_{2}}\implies\exists c=\frac{c_{1}}{c_{2}'},n_{0}=\max\left\{ n_{1},n'_{2}\right\} :\quad\frac{f_{1}}{f_{2}}\leq c\frac{g_{1}}{g_{2}}\implies\frac{f_{1}}{f_{2}}=O\left(\frac{g_{1}}{g_{2}}\right)\\
+\frac{f_{1}}{f_{2}}\geq\frac{c_{1}'g_{1}}{c_{2}g_{2}}\implies\exists c=\frac{c'_{1}}{c_{2}},n_{0}=\max\left\{ n'_{1},n_{2}\right\} :\quad\frac{f_{1}}{f_{2}}\geq c\frac{g_{1}}{g_{2}}\implies\frac{f_{1}}{f_{2}}=\Omega\left(\frac{g_{1}}{g_{2}}\right)\\
+\Downarrow\\
+\frac{f_{1}}{f_{2}}=\Theta\left(\frac{g_{1}}{g_{2}}\right)\;_{\blacksquare}
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+הטענה נכונה:
+\begin_inset Formula 
+\begin{gather*}
+\left|\log\frac{f_{1}}{g_{1}}\right|=O\left(f_{2}\right)\implies\exists c_{1}>0,n_{1};\;\forall n\geq n_{1}:\;\left|\log\frac{f_{1}}{g_{1}}\right|\leq c_{1}f_{2}\\
+\left|\log\frac{g_{1}}{g_{2}}\right|=O\left(f_{2}\right)\implies\exists c_{1}>0,n_{1};\;\forall n\geq n_{1}:\;\left|\log\frac{g_{1}}{g_{2}}\right|\leq c_{1}f_{2}\\
+\left|\log\frac{f_{1}}{g_{2}}\right|=\left|\log f_{1}-\log g_{2}\right|=\left|\log f_{1}-\log g_{1}+\log g_{1}-\log g_{2}\right|\overset{\begin{subarray}{c}
+\text{אי שוויון}\\
+\text{המשלוש}
+\end{subarray}}{\leq}\\
+\leq\left|\log f_{1}-\log g_{1}\right|+\left|\log g_{1}-\log g_{2}\right|=\left|\log\frac{f_{1}}{g_{1}}\right|+\left|\log\frac{g_{1}}{g_{2}}\right|\leq\left(c_{1}+c_{2}\right)f_{2}\\
+\implies\exists c=2\max\left\{ c_{1},c_{2}\right\} ,n_{0}=\max\left\{ n_{1},n_{2}\right\} \quad\left|\log\frac{f_{1}}{g_{2}}\right|\leq cf_{2}\implies\left|\log\frac{f_{1}}{g_{2}}\right|=O\left(f_{2}\right)\;{}_{\blacksquare}
+\end{gather*}
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\end_layout
+
+\begin_layout Enumerate
+לכל אחד מהמקרים, ציינו את 
+\begin_inset Formula $c$
+\end_inset
+
+ ואת 
+\begin_inset Formula $n_{0}$
+\end_inset
+
+ המקיימים את ההגדרה.
+\begin_inset Formula 
+\begin{gather*}
+\begin{array}{c|cccccc}
+_{f}\diagdown{}^{g} &  & n &  & n\log n &  & n^{2}\\
+\hline n\log^{2}n &  & \Omega &  & \Omega &  & O\\
+ &  & \left(c=1,n_{0}=16\right) &  & \left(c=1,n_{0}=16\right) &  & \left(c=1,n_{0}=32\right)\\
+\hline 2^{\log^{2}n} &  & \Omega &  & \Omega &  & \Omega\\
+ &  & \left(c=1,n_{0}=16\right) &  & \left(c=1,n_{0}=16\right) &  & \left(c=1,n_{0}=32\right)\\
+\hline \log\left(n!\right) &  & \Omega &  & \Theta &  & O\\
+ &  & \left(c=1,n_{0}=16\right) &  & \begin{subarray}{c}
+\Omega:\left(c=\nicefrac{1}{2},n_{0}=16\right)\\
+O:\left(c=1,\;n_{0}=16\right)
+\end{subarray} &  & \left(c=1,n_{0}=32\right)\\
+\hline n^{\log3} &  & \Omega &  & \Omega &  & O\\
+ &  & \left(c=1,n_{0}=16\right) &  & \left(c=1,n_{0}=16\right) &  & \left(c=1,n_{0}=32\right)
+\end{array}
+\end{gather*}
+
+\end_inset
+
+בתרגיל שלעיל בחרנו לכתוב רק את הקבועים המתאימים, ההוכחה המלאה נובעת מקיומם
+ ובחרנו לחסוך בטקסט לטובתינו ולטובת הבודק הנחמד שלנו.
+ אם תרצה לבדוק שאנחנו יודעים להוכיח פורמלית, תוכל לעיין בהוכחות היותר מלאות
+ של שאלה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+.
+\end_layout
+
+\begin_layout Enumerate
+ניעזר בכלל לופיטל:
+\begin_inset Formula 
+\begin{gather*}
+\left(\log\left(\log n\right)\right)'=\frac{1}{\ln2\cdot n}\cdot\frac{1}{\ln2\cdot\log n}\quad;\quad\left(\log^{\varepsilon}n\right)'=\frac{1}{\ln2\cdot n}\cdot\varepsilon\cdot\left(\log n\right)^{\varepsilon-1}\\
+\frac{\log\left(\log n\right)}{\log^{\varepsilon}n}\xrightarrow[\text{לופיטל}]{n\rightarrow\infty}\frac{\cancel{\frac{1}{\ln2\cdot n}\cdot}\frac{1}{\ln2\cdot\log n}}{\cancel{\frac{1}{\ln2\cdot n}}\cdot\varepsilon\cdot\left(\log n\right)^{\varepsilon-1}}=\frac{1}{\varepsilon\ln2\cdot\log n\cdot\left(\log n\right)^{\varepsilon-1}}=\frac{1}{\varepsilon\ln2\cdot\left(\log n\right)^{\varepsilon}}\xrightarrow{n\rightarrow\infty}0
+\end{gather*}
+
+\end_inset
+
+הראינו שלכל 
+\begin_inset Formula $\varepsilon>0$
+\end_inset
+
+ מתקיים 
+\begin_inset Formula $\frac{\log\left(\log n\right)}{\log^{\varepsilon}n}\xrightarrow{n\rightarrow\infty}0$
+\end_inset
+
+ ולכן 
+\begin_inset Formula $\log\left(\log n\right)=o\left(\log^{\varepsilon}n\right)$
+\end_inset
+
+ 
+\begin_inset Formula $_{\blacksquare}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+מהנתון מתקיים עבור 
+\begin_inset Formula $c_{0}=1$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{gather*}
+\circledast\qquad\exists n_{0};\;\forall n>n_{0}:\quad\log n\leq c_{0}\cdot f\left(n\right)=f\left(n\right)
+\end{gather*}
+
+\end_inset
+
+נחשב את הגבול:
+\begin_inset Formula 
+\begin{gather*}
+\lim_{n\rightarrow\infty}\frac{2^{\log n}}{2^{f\left(n\right)}}=\lim_{n\rightarrow\infty}2^{\log n-f(n)}\overset{\text{2^{x} רציפה}}{=}2^{\lim_{n\rightarrow\infty}\log n-f(n)}\\
+\lim_{n\rightarrow\infty}\log n-f(n)=\lim_{n\rightarrow\infty}f(n)\left(\frac{\log n}{f(n)}-1\right)\overset{\text{מאריתמטיקה}}{=}\lim_{n\rightarrow\infty}-f(n)
+\end{gather*}
+
+\end_inset
+
+מ-
+\begin_inset Formula $\circledast$
+\end_inset
+
+ וממשפט פיצה אנחנו יודעים ש-
+\begin_inset Formula $\lim_{n\rightarrow\infty}f(n)=\infty$
+\end_inset
+
+, ולכן הגבול המבוקש הוא:
+\begin_inset Formula 
+\begin{gather*}
+\lim_{n\rightarrow\infty}\frac{2^{\log n}}{2^{f\left(n\right)}}=2^{\lim_{n\rightarrow\infty}\log n-f(n)}=\mathrm{``}2^{-\infty}\mathrm{''}=0\;{}_{\blacksquare}
+\end{gather*}
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\end_layout
+
+\begin_layout Enumerate
+תשובה: 
+\begin_inset Formula $a\geq\frac{9}{10}$
+\end_inset
+
+.
+ ניעזר בעץ רקורסיה:
+\begin_inset Formula 
+\begin{gather*}
+\begin{array}{cccc}
+ & n &  & :n\\
+\begin{array}{ccc}
+ & an\\
+a^{2}n &  & \frac{an}{10}
+\end{array} &  & \begin{array}{ccc}
+ & \frac{n}{10}\\
+\frac{an}{10} &  & \frac{n}{10^{2}}
+\end{array} & \begin{array}{c}
+:\left(a+\frac{1}{10}\right)n\\
+:\left(a+\frac{1}{10}\right)^{2}n
+\end{array}
+\end{array}
+\end{gather*}
+
+\end_inset
+
+צ
+\begin_inset Quotes erd
+\end_inset
+
+ל 
+\begin_inset Formula $\frac{n}{T(n)}\xrightarrow{n\rightarrow\infty}0$
+\end_inset
+
+.
+ מעץ הרקורסיה קיבלנו )כאשר 
+\begin_inset Formula $a>\frac{1}{10}$
+\end_inset
+
+(:
+\begin_inset Formula 
+\begin{gather*}
+n\sum_{k=0}^{\log_{\nicefrac{1}{a}}n}\left(a+\frac{1}{10}\right)^{k}\geq T\left(n\right)\geq n\sum_{k=0}^{\log_{10}n}\left(a+\frac{1}{10}\right)^{k}\\
+\frac{1}{\sum_{k=0}^{\log_{10}n}\left(a+\frac{1}{10}\right)^{k}}\leq\frac{n}{T(n)}\leq\frac{1}{\sum_{k=0}^{\log_{\nicefrac{1}{a}}n}\left(a+\frac{1}{10}\right)^{k}}
+\end{gather*}
+
+\end_inset
+
+אם 
+\begin_inset Formula $a\geq\frac{9}{10}$
+\end_inset
+
+, מתקיים: 
+\begin_inset Formula $\sum_{k=0}^{\log_{\nicefrac{1}{a}}n}\left(a+\frac{1}{10}\right)^{k}\xrightarrow{n\rightarrow\infty}\infty$
+\end_inset
+
+, כלומר 
+\begin_inset Formula $\frac{n}{T(n)}\xrightarrow{n\rightarrow\infty}0$
+\end_inset
+
+.
+ אחרת, אם 
+\begin_inset Formula $a<\frac{9}{10}$
+\end_inset
+
+ נקבל טור הנדסי בעל סכום סופי, ולכן 
+\begin_inset Formula $\frac{n}{T(n)}\cancel{\xrightarrow{n\rightarrow\infty}}0$
+\end_inset
+
+.
+ באופן דומה, עבור 
+\begin_inset Formula $a<\frac{1}{10}$
+\end_inset
+
+ התכונה לא תתקיים )למרות שסימני השוויון שלעיל יתהפכו(.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ניעזר בשיטת המאסטר כאשר 
+\begin_inset Formula $a=4,\;b=2,\;f(n)=n^{3}+n\log^{2}n,\;\varepsilon=0.1$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{gather*}
+T\left(n\right)=4T\left(\frac{n}{2}\right)+n^{3}+n\log^{2}n\\
+f(n)=n^{3}+n\log^{2}n=\Omega\left(n^{\log_{2}4+\varepsilon}=n^{2.1}\right)\\
+4f\left(\frac{n}{2}\right)=4\left(\frac{n}{2}\right)^{3}+4\frac{n}{2}\log^{2}\frac{n}{2}=\frac{n^{3}}{2}+2n\log^{2}\frac{n}{2}\leq\frac{3}{4}n^{3}+\frac{3}{4}n\log^{2}n=\frac{3}{4}f(n)
+\end{gather*}
+
+\end_inset
+
+החל מ-
+\begin_inset Formula $n$
+\end_inset
+
+ מסוים מתקיים 
+\begin_inset Formula $\frac{n^{3}}{2}+2n\log^{2}\frac{n}{2}\ll\frac{3}{4}n^{3}+\frac{3}{4}n\log^{2}n$
+\end_inset
+
+ ולכן אנחנו במקום בו ניתן להפעיל את מקרה 
+\begin_inset Formula $3$
+\end_inset
+
+ של שיטת המאסטר, נקבל:
+\begin_inset Formula 
+\begin{gather*}
+T\left(n\right)=\Theta\left(f(n)\right)=\Theta\left(n^{3}+n\log^{2}n\right)=\Theta\left(n^{3}\right)
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+נסמן 
+\begin_inset Formula $m\coloneqq n^{2}$
+\end_inset
+
+ ואז:
+\begin_inset Formula 
+\begin{gather*}
+T\left(n\right)=T\left(\sqrt{m}\right)=S\left(m\right)=\Theta\left(\log\left(m!\right)\right)=\Theta\left(m\log m\right)=\Theta\left(n^{2}\log n^{2}\right)=\Theta\left(n^{2}\log n\right)
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+נבצע החלפת משתנים כאשר 
+\begin_inset Formula $m\coloneqq\log n$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{gather*}
+T(n)=T\left(2^{m}\right)=S\left(m\right)\\
+S\left(m\right)=S\left(\frac{m}{2}\right)+2^{2m}
+\end{gather*}
+
+\end_inset
+
+ניעזר בשיטת המאסטר על 
+\begin_inset Formula $S$
+\end_inset
+
+ כאשר 
+\begin_inset Formula $a=1,\;b=2,\;f(m)=2^{2m}\;\varepsilon=0.1$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{gather*}
+f(m)=2^{2m}>m=\Omega\left(m^{\log_{2}1+\varepsilon}=m^{0.1}\right)\\
+f\left(\frac{m}{2}\right)=2^{2\frac{m}{2}}=2^{m}\leq\frac{1}{2}2^{2m}=c\cdot f(m)
+\end{gather*}
+
+\end_inset
+
+שוב ניתן להפעיל את מקרה 
+\begin_inset Formula $3$
+\end_inset
+
+ של שיטת המאסטר, נקבל:
+\begin_inset Formula 
+\begin{gather*}
+T(n)=T\left(2^{m}\right)=S\left(m\right)=\Theta\left(2^{2m}\right)=\Theta\left(2^{2\log n}\right)=\Theta\left(n^{2}\right)
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+נבצע פישוט מקדמים:
+\begin_inset Formula 
+\begin{gather*}
+T\left(n\right)=16n^{4}T\left(\sqrt{n}\right)+2n^{8}\log^{4}n\\
+\frac{T\left(n\right)}{n^{8}}=\frac{16}{n^{4}}T\left(\sqrt{n}\right)+2\log^{4}n
+\end{gather*}
+
+\end_inset
+
+נגדיר 
+\begin_inset Formula $U\left(n\right)=\frac{T\left(n\right)}{n^{8}}$
+\end_inset
+
+, ונקבל 
+\begin_inset Formula $U\left(\sqrt{n}\right)=\frac{T\left(\sqrt{n}\right)}{n^{4}}$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+נבצע החלפת משתנים כאשר 
+\begin_inset Formula $m\coloneqq\log n$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{gather*}
+U(n)=16U\left(\sqrt{n}\right)+2\log^{4}n\\
+U(n)=U\left(2^{m}\right)=S\left(m\right)\\
+S\left(m\right)=16S\left(\frac{m}{2}\right)+2m^{4}
+\end{gather*}
+
+\end_inset
+
+ניעזר בשיטת המאסטר על 
+\begin_inset Formula $S$
+\end_inset
+
+ כאשר 
+\begin_inset Formula $a=16,\;b=2,\;f(m)=2m^{4}$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{gather*}
+f(m)=2m^{4}=\Theta\left(m^{\log_{2}16}=m^{4}\right)
+\end{gather*}
+
+\end_inset
+
+נפעיל את מקרה 
+\begin_inset Formula $2$
+\end_inset
+
+ של שיטת המאסטר, נקבל:
+\begin_inset Formula 
+\begin{gather*}
+U(n)=U\left(2^{m}\right)=S\left(m\right)=\Theta\left(m^{4}\log m\right)=\Theta\left(\log^{4}n\log\log n\right)\\
+T\left(n\right)=n^{8}U(n)=\Theta\left(n^{8}\log^{4}n\log\log n\right)
+\end{gather*}
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\end_layout
+
+\begin_layout Subsection*
+מבנה הנתונים
+\end_layout
+
+\begin_layout Enumerate
+מערך 
+\begin_inset Formula $\mathrm{schedule}$
+\end_inset
+
+ בגודל 
+\begin_inset Formula $D$
+\end_inset
+
+: איבר במערך הוא רשימות מקושרות דו כיווניות של מדינות.
+\end_layout
+
+\begin_layout Enumerate
+מערך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ בגודל 
+\begin_inset Formula $N$
+\end_inset
+
+: איבר במערך כולל מספר שלם 
+\begin_inset Formula $D_{i}$
+\end_inset
+
+ ומצביע לצומת המתאים ב-
+\begin_inset Formula $\mathrm{schedule}$
+\end_inset
+
+ במידה והמדינה נמצאת שם.
+\end_layout
+
+\begin_layout Enumerate
+מספר שלם 
+\begin_inset Formula $\mathrm{now}$
+\end_inset
+
+: מונה המחזיק ביום בו אנחנו נמצאים.
+\end_layout
+
+\begin_layout Standard
+בסך הכל סיבוכיות המקום שלנו כוללת במקרה הגרוע 
+\begin_inset Formula $N$
+\end_inset
+
+ צמתים ברשימות מקושרות, מערך בגודל 
+\begin_inset Formula $N$
+\end_inset
+
+ ומערך בגודל 
+\begin_inset Formula $D$
+\end_inset
+
+, כלומר סיבוכיות המקום שלנו היא 
+\begin_inset Formula $O(N+D)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+מימוש
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Init}(N,D)$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+יצירת שני מערכים ריקים בגדלים 
+\begin_inset Formula $N$
+\end_inset
+
+ ו-
+\begin_inset Formula $D$
+\end_inset
+
+.
+ למדנו כיצד ליצור אותם בהרצאה מבלי צורך באתחול, ולכן סיבוכיות הזמן של פעולה
+ זו היא 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Insert}(i,D_{i},\mathit{days})$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נוסיף ל-
+\begin_inset Formula $\mathrm{schedule}$
+\end_inset
+
+ במקום המחושב על ידי 
+\begin_inset Formula $\mathrm{now}+\mathit{days}\;_{\mathrm{(mod}\,D)}$
+\end_inset
+
+ את המדינה ה-
+\begin_inset Formula $i$
+\end_inset
+
+, ונשנה את המצביע ב-
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ במקום ה-
+\begin_inset Formula $i$
+\end_inset
+
+ לצומת החדש.
+ בסך הכל יש לנו פעולות של מציאת מקום ידוע בשני מערכים והוספה של איבר לקצה
+ רשימה מקושרת דו כיוונית, כלומר 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Precede\_lockdown}(i,\mathit{days})$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נמצא את המדינה ב-
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+, מה שיאפשר לנו גישה מיידית למקום שלה ב-
+\begin_inset Formula $\mathrm{schedule}$
+\end_inset
+
+, ולאחר מכן נסיר אותה מהרשימה המקושרת במקום זה ונוסיף אותה מחדש 
+\begin_inset Formula $\mathit{days}$
+\end_inset
+
+ ימים מוקדם יותר.
+ בסך הכל יש לנו פעולה של הסרה ופעולה של הוספה מרשימה מקושרת דו כיוונית,
+ כלומר 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{lock\_down\_now}()$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נקדם את 
+\begin_inset Formula $\mathrm{now}$
+\end_inset
+
+ ב-
+\begin_inset Formula $1$
+\end_inset
+
+ )מודולו 
+\begin_inset Formula $D$
+\end_inset
+
+(, נעבור על כל המדינות ברשימה שנמצאת בתא ה-
+\begin_inset Formula $\mathrm{now}$
+\end_inset
+
+ במערך 
+\begin_inset Formula $\mathrm{schedule}$
+\end_inset
+
+, נדפיס אותן, נמחק אותן מהרשימה ונוסיף אותן מחדש לתא במקום 
+\begin_inset Formula $\mathrm{now}+D_{i}\;_{\mathrm{(mod}\,D)}$
+\end_inset
+
+.
+ בסך הכל יש לנו מעבר על רשימה מקושרת באורך 
+\begin_inset Formula $k$
+\end_inset
+
+, הסרה והוספה של 
+\begin_inset Formula $k$
+\end_inset
+
+ איברים מרשימות מקושרות במקום ידוע מראש, כלומר עבור 
+\begin_inset Formula $k$
+\end_inset
+
+ מדינות שנכנסות לסגר הסיבוכיות שלנו היא 
+\begin_inset Formula $O(k)$
+\end_inset
+
+.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\end_layout
+
+\begin_layout Subsection*
+מבנה הנתונים
+\end_layout
+
+\begin_layout Enumerate
+מערך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ בגודל 
+\begin_inset Formula $N$
+\end_inset
+
+: איבר במערך מחזיק במספר הטיסות הנכנסות, מספר הטיסות היוצאות ומצביע לצומת
+ המתאים ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ או למדינה נוספת במערך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+רשימה מקושרת דו-כיוונית 
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+: איבר ברשימה מחזיק מצביע למדינה מתאימה ב-
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ וכן רשימה מקושרת של אחיות 
+\begin_inset Formula $(\mathrm{siblings})$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+איבר ברשימה 
+\begin_inset Formula $\mathrm{siblings}$
+\end_inset
+
+ יכיל מצביע לצומת ה
+\begin_inset Quotes erd
+\end_inset
+
+ראשית
+\begin_inset Quotes erd
+\end_inset
+
+ ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ בנוסף למצביע לצומת הבא ברשימה.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+מצביע 
+\begin_inset Formula $\mathrm{avoided}$
+\end_inset
+
+ למדינה הראשונה ב-
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ ללא טיסות נכנסות.
+\end_layout
+
+\begin_layout Standard
+בסך הכל סיבוכיות המקום שלנו כוללת במקרה הגרוע 
+\begin_inset Formula $N$
+\end_inset
+
+ צמתים ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ ומערך בגודל 
+\begin_inset Formula $N$
+\end_inset
+
+, כלומר סיבוכיות המקום שלנו היא 
+\begin_inset Formula $O(N)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+בכל רגע נתון קיים לכל היותר תא יחיד לכל מספר של טיסות נכנסות ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+, ובמידה ויש יותר ממדינה אחת בעלת אותו מספר היא תאוחסן כאחות של המדינה הראשונה
+ שהגיעה למספר הטיסות הזה.
+ כמו כן לכל אחות יש מצביע לתא של המדינה ה
+\begin_inset Quotes erd
+\end_inset
+
+ראשית
+\begin_inset Quotes erd
+\end_inset
+
+ המייצגת את מספר הטיסות הנכנסות המתאים ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ בנוסף למצביע למדינה שאחריה.
+\end_layout
+
+\begin_layout Subsection*
+מימוש
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Init}(N)$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+יצירת מערך ורשימה מקושרת ריקה - סך הכל 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+ ערכי ברירת המחדל במערך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ הם
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\begin_inset Formula $0$
+\end_inset
+
+ טיסות נכנסות, 
+\begin_inset Formula $0$
+\end_inset
+
+ טיסות יוצאות וכן מצביע לתא הסמוך )כלומר זו הכלאה בין מערך לרשימה מקושרת(.
+ לאחר מכן נאתחל את המצביע 
+\begin_inset Formula $\mathrm{avoided}$
+\end_inset
+
+ ל
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+מדינה הראשונה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+.
+ אעיר כי בגישה לתא מסוים שכתובתו ידועה ניתן למצוא את התא הסמוך לו ב-
+\begin_inset Formula $O(1)$
+\end_inset
+
+, ולכן זהו ערך ברירת מחדל תקין במידה ואכן מתרחשת גישה לתא לא מאותחל.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Fly}(j,i)$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נוסיף למדינה ה-
+\begin_inset Formula $j$
+\end_inset
+
+ במערך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ טיסה יוצאת ולמדינה ה-
+\begin_inset Formula $i$
+\end_inset
+
+ טיסה נכנסת.
+ נפריד לשני מקרים:
+\end_layout
+
+\begin_layout Itemize
+עדיין אין למדינה ה-
+\begin_inset Formula $i$
+\end_inset
+
+ טיסות נכנסות: נשנה את המצביע של המדינה שלפניה כך שידלג עליה ונוסיף אותה
+ לסוף הרשימה המקושרת 
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ ונעביר את המצביע שלה מתוך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+ להצביע למקום המתאים ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+.
+ במידה ומדינה זו היא המדינה אליה מצביע 
+\begin_inset Formula $\mathrm{avoided}$
+\end_inset
+
+ נעביר אותו למדינה הבאה )
+\begin_inset Formula $\mathrm{avoided}=\mathrm{avoided}\negthickspace\rightarrow\negthickspace\mathrm{next}$
+\end_inset
+
+(.
+ במקרה זה יש לנו שינוי של שניים עד שלושה מצביעים והוספה לסוף של רשימה מקושרת,
+ סך הכל 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+כבר יש למדינה ה-
+\begin_inset Formula $i$
+\end_inset
+
+ טיסות נכנסות: נמצא את התא המתאים של המדינה המייצגת את מספר הטיסות הנכנסות
+ הנוכחי המסומן ב-
+\begin_inset Formula $n$
+\end_inset
+
+ ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ )אם אנחנו אחים שלו אנחנו מחזיקים במצביע אליו, אחרת אנחנו זה הוא(, אם המדינה
+ הבאה ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ היא בעלת 
+\begin_inset Formula $n+1$
+\end_inset
+
+ טיסות נכנסות נעביר את המדינה ה-
+\begin_inset Formula $i$
+\end_inset
+
+ להיות אחות שלה, אחרת נכניס אותה בין המדינה הראשית אם יש כזו למדינה הבאה.
+ במקרה זה אנחנו עורכים מחיקה והוספה מרשימה מקושרת וכן עדכון מצביעים, בסך
+ הכל 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Arrivals}(i)$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+גישה פשוטה למדינה ה-
+\begin_inset Formula $i$
+\end_inset
+
+ במערך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+, סך הכל 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Departures}(j)$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+גישה פשוטה למדינה ה-
+\begin_inset Formula $j$
+\end_inset
+
+ במערך 
+\begin_inset Formula $\mathrm{states}$
+\end_inset
+
+, סך הכל 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Favored}(k)$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נרוץ בלולאה מ-
+\begin_inset Formula $1$
+\end_inset
+
+ עד 
+\begin_inset Formula $k$
+\end_inset
+
+ ב-
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+, כאשר אם נגיע לצומת עם אחים נרוץ על כל האחים שלה לפני שנעבור לצומת הבאה.
+ אם הגענו לסוף הרשימה 
+\begin_inset Formula $\mathrm{favored}$
+\end_inset
+
+ נוכל להמשיך ולרוץ על המצביע 
+\begin_inset Formula $\mathrm{avoided}$
+\end_inset
+
+.
+ בסך הכל נעבור 
+\begin_inset Formula $k$
+\end_inset
+
+ תאים ברשימות מקושרות, סך הכל 
+\begin_inset Formula $O(k)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\size large
+\lang english
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\mathrm{Avoided}()$
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\phantom{.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+לאורך היישום שלנו תחזקנו את המצביע 
+\begin_inset Formula $\mathrm{avoided}$
+\end_inset
+
+ כרשימה מקושרת של מדינות שמספר הטיסות הנכנסות שלהן הוא 
+\begin_inset Formula $0$
+\end_inset
+
+, לכן מספיק להדפיס אותו כרשימה מקושרת.
+ בסך הכל 
+\begin_inset Formula $O(r)$
+\end_inset
+
+ במידה וקיימות 
+\begin_inset Formula $r$
+\end_inset
+
+ מדינות ללא טיסות נכנסות.
+\end_layout
+
+\end_body
+\end_document

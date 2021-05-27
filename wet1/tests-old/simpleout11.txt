@@ -1,0 +1,14 @@
+init done.
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+234	|	10
+324	|	10
+234	|	0
+234	|	1
+234	|	2
+--End of most viewed classes--
+quit done.

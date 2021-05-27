@@ -1,0 +1,7 @@
+Init
+AddCourse 234 12
+AddCourse 324 11
+WatchClass 234 10 3
+WatchClass 324 10 3
+GetMostViewedClasses 5
+Quit

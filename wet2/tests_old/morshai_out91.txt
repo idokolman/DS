@@ -1,0 +1,18 @@
+init done.
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 492
+WatchClass: SUCCESS
+TimeViewed: 1229
+WatchClass: SUCCESS
+TimeViewed: 1280
+WatchClass: SUCCESS
+TimeViewed: 1957
+WatchClass: SUCCESS
+TimeViewed: 366
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20000 0
+quit done.

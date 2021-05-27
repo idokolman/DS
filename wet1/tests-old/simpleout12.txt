@@ -1,0 +1,43 @@
+init done.
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: FAILURE
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+WatchClass: SUCCESS
+WatchClass: SUCCESS
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+234	|	5
+234	|	7
+234	|	0
+234	|	1
+234	|	2
+234	|	3
+234	|	4
+--End of most viewed classes--
+AddCourse: SUCCESS
+WatchClass: SUCCESS
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+123	|	7
+234	|	5
+234	|	7
+123	|	0
+123	|	1
+123	|	2
+123	|	3
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+123	|	7
+123	|	0
+123	|	1
+123	|	2
+123	|	3
+123	|	4
+123	|	5
+--End of most viewed classes--
+quit done.

@@ -1,0 +1,132 @@
+init done.
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 784
+WatchClass: SUCCESS
+TimeViewed: 1510
+WatchClass: SUCCESS
+TimeViewed: 1638
+WatchClass: SUCCESS
+TimeViewed: 1874
+WatchClass: SUCCESS
+TimeViewed: 381
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 988
+WatchClass: SUCCESS
+TimeViewed: 931
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+WatchClass: SUCCESS
+TimeViewed: 202
+WatchClass: SUCCESS
+TimeViewed: 255
+WatchClass: SUCCESS
+TimeViewed: 644
+WatchClass: SUCCESS
+TimeViewed: 614
+WatchClass: SUCCESS
+TimeViewed: 1577
+WatchClass: SUCCESS
+TimeViewed: 2404
+WatchClass: SUCCESS
+TimeViewed: 2865
+WatchClass: SUCCESS
+TimeViewed: 581
+WatchClass: SUCCESS
+TimeViewed: 79
+WatchClass: SUCCESS
+TimeViewed: 284
+WatchClass: SUCCESS
+TimeViewed: 748
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+AddClass: 5
+WatchClass: SUCCESS
+TimeViewed: 33
+WatchClass: SUCCESS
+TimeViewed: 505
+WatchClass: SUCCESS
+TimeViewed: 580
+WatchClass: SUCCESS
+TimeViewed: 515
+WatchClass: SUCCESS
+TimeViewed: 316
+WatchClass: SUCCESS
+TimeViewed: 993
+WatchClass: SUCCESS
+TimeViewed: 1149
+WatchClass: SUCCESS
+TimeViewed: 1721
+WatchClass: SUCCESS
+TimeViewed: 785
+WatchClass: SUCCESS
+TimeViewed: 1232
+WatchClass: SUCCESS
+TimeViewed: 1731
+WatchClass: SUCCESS
+TimeViewed: 837
+WatchClass: SUCCESS
+TimeViewed: 1106
+WatchClass: SUCCESS
+TimeViewed: 2015
+WatchClass: SUCCESS
+TimeViewed: 2412
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+WatchClass: SUCCESS
+TimeViewed: 580
+WatchClass: SUCCESS
+TimeViewed: 1539
+WatchClass: SUCCESS
+TimeViewed: 2239
+WatchClass: SUCCESS
+TimeViewed: 2821
+WatchClass: SUCCESS
+TimeViewed: 581
+WatchClass: SUCCESS
+TimeViewed: 812
+WatchClass: SUCCESS
+TimeViewed: 901
+WatchClass: SUCCESS
+TimeViewed: 1183
+WatchClass: SUCCESS
+TimeViewed: 1766
+WatchClass: SUCCESS
+TimeViewed: 487
+AddCourse: SUCCESS
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20003 3
+GetIthWatchedClass: 20002 3
+GetIthWatchedClass: 20005 3
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20002 2
+GetIthWatchedClass: 20005 1
+GetIthWatchedClass: 20005 0
+GetIthWatchedClass: 20004 1
+GetIthWatchedClass: 20004 0
+GetIthWatchedClass: 20003 2
+GetIthWatchedClass: 20003 1
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: 20005 4
+GetIthWatchedClass: 20005 2
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20001 1
+GetIthWatchedClass: 20005 5
+quit done.

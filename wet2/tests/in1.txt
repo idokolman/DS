@@ -1,0 +1,117 @@
+Init
+AddCourse 2382123
+AddCourse 0
+AddCourse 5509485
+AddCourse 6436173
+AddCourse 6553592
+AddClass 6553592
+AddClass 6553592
+AddClass 6553592
+AddClass 5509485
+AddClass 6436173
+AddClass 6553592
+AddClass -2
+AddClass 2382123
+AddClass 5509485
+AddClass 6436173
+TimeViewed 2382123 0
+AddClass 3252041
+RemoveCourse 6436173
+WatchClass 5509485 0 20
+AddCourse 3587667
+WatchClass 5509485 1 15
+WatchClass 5509485 0 20
+AddClass 2382123
+WatchClass 3194248 7 12
+AddCourse 7260929
+RemoveCourse 5509485
+TimeViewed 6553592 3
+WatchClass 2382123 1 10
+RemoveCourse 6553592
+WatchClass 2382123 1 14
+AddCourse 5666600
+WatchClass 2382123 0 15
+RemoveCourse 7260929
+RemoveCourse 2382123
+AddCourse 681411
+AddClass 5666600
+AddCourse 3372513
+AddClass 681411
+AddClass 681411
+AddClass 8459145
+WatchClass 7802984 7 19
+AddClass 3372513
+TimeViewed 681411 0
+AddCourse 4893334
+AddCourse 1926816
+TimeViewed 5666600 0
+AddClass 3587667
+WatchClass 6910789 9 8
+RemoveCourse 681411
+WatchClass 5666600 0 15
+GetIthWatchedClass 1
+RemoveCourse 3587667
+GetIthWatchedClass 1
+AddClass 1447851
+TimeViewed 5666600 0
+TimeViewed 5666600 0
+TimeViewed 5666600 0
+AddCourse 1456942
+AddClass 1926816
+AddCourse 2716207
+WatchClass 1926816 0 17
+RemoveCourse 1926816
+AddClass 1456942
+AddCourse 3191918
+GetIthWatchedClass 1
+AddClass 3191918
+GetIthWatchedClass 0
+WatchClass 5666600 0 8
+AddClass 4893334
+WatchClass 4893334 0 13
+WatchClass 1456942 0 6
+AddClass 3372513
+RemoveCourse 5666600
+AddClass 338443
+WatchClass 3372513 0 19
+AddClass 1456942
+RemoveCourse 2716207
+WatchClass 3191918 0 16
+AddCourse 6959314
+AddCourse 3420158
+WatchClass 3372513 0 15
+WatchClass 1623456 5 10
+AddClass 3191918
+AddClass 4893334
+AddCourse 2874728
+GetIthWatchedClass 1
+TimeViewed 3372513 6
+TimeViewed -2 -1
+AddCourse 1227142
+RemoveCourse 3191918
+RemoveCourse 6959314
+AddCourse 5418790
+TimeViewed 3372513 0
+AddCourse 6240918
+AddClass 5418790
+AddClass 3372513
+AddCourse 4407908
+WatchClass 943851 -3 7
+TimeViewed 3372513 2
+TimeViewed 3372513 2
+RemoveCourse 6240918
+AddClass 3372513
+TimeViewed 3372513 3
+TimeViewed 1456942 0
+AddCourse 1456942
+AddCourse 4180174
+WatchClass 1456942 0 7
+RemoveCourse 4180174
+AddClass 4893334
+AddClass 3372513
+WatchClass 2202165 -3 16
+WatchClass 1456942 0 11
+AddClass 3420158
+AddClass 3372513
+AddCourse 1617740
+Quit

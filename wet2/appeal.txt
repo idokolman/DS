@@ -1,0 +1,12 @@
+We have made changes to our code in two places, 4 lines of code in total:
+
+ - When removing an entry from a hash table, we needed to check whether it had
+   a "next" node in the same hash-list and update their "prev" pointer accordingly.
+    + HashTable.cpp:103: if(it->next) it->next->prev = it->prev;
+    + HashTable.cpp:108: if(it->next) it->next->prev = it;
+ 
+ - When expanding a dynamic array, instead of copying the whole array in the end
+   of the loop that update the nodes parent, left and right pointers,
+   we should've copyed each entry immediatly after updating the pointers.
+    + DynamicArray.cpp:45: new_root[i] = *it;
+    - DynamicArray.cpp:46: memcpy(new_root, array->root, array->capacity * sizeof(Node));

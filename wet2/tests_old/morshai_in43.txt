@@ -1,0 +1,108 @@
+Init
+AddCourse 20002
+AddClass 20002
+WatchClass 20002 0 508
+TimeViewed 20002 0
+WatchClass 20002 0 102
+TimeViewed 20002 0
+AddCourse 20003
+AddClass 20003
+AddClass 20003
+AddClass 20003
+AddClass 20003
+AddClass 20003
+AddClass 20003
+WatchClass 20003 1 995
+TimeViewed 20003 1
+WatchClass 20003 0 861
+TimeViewed 20003 0
+WatchClass 20003 0 920
+TimeViewed 20003 0
+WatchClass 20003 4 880
+TimeViewed 20003 4
+WatchClass 20003 4 205
+TimeViewed 20003 4
+WatchClass 20003 3 577
+TimeViewed 20003 3
+WatchClass 20003 3 630
+TimeViewed 20003 3
+WatchClass 20003 3 359
+TimeViewed 20003 3
+WatchClass 20003 5 127
+TimeViewed 20003 5
+WatchClass 20003 5 497
+TimeViewed 20003 5
+WatchClass 20003 2 992
+TimeViewed 20003 2
+WatchClass 20003 2 38
+TimeViewed 20003 2
+WatchClass 20003 2 373
+TimeViewed 20003 2
+AddCourse 20001
+AddClass 20001
+WatchClass 20001 0 774
+TimeViewed 20001 0
+AddCourse 20004
+AddClass 20004
+AddClass 20004
+AddClass 20004
+WatchClass 20004 0 430
+TimeViewed 20004 0
+WatchClass 20004 1 160
+TimeViewed 20004 1
+WatchClass 20004 1 332
+TimeViewed 20004 1
+WatchClass 20004 1 168
+TimeViewed 20004 1
+WatchClass 20004 2 75
+TimeViewed 20004 2
+WatchClass 20004 2 988
+TimeViewed 20004 2
+WatchClass 20004 2 78
+TimeViewed 20004 2
+AddCourse 20000
+AddClass 20000
+AddClass 20000
+AddClass 20000
+AddClass 20000
+WatchClass 20000 3 515
+TimeViewed 20000 3
+WatchClass 20000 3 548
+TimeViewed 20000 3
+WatchClass 20000 3 254
+TimeViewed 20000 3
+WatchClass 20000 2 404
+TimeViewed 20000 2
+WatchClass 20000 2 630
+TimeViewed 20000 2
+WatchClass 20000 0 691
+TimeViewed 20000 0
+WatchClass 20000 0 59
+TimeViewed 20000 0
+WatchClass 20000 0 606
+TimeViewed 20000 0
+WatchClass 20000 0 361
+TimeViewed 20000 0
+WatchClass 20000 1 179
+TimeViewed 20000 1
+WatchClass 20000 1 667
+TimeViewed 20000 1
+WatchClass 20000 1 257
+TimeViewed 20000 1
+GetIthWatchedClass 0
+GetIthWatchedClass 1
+GetIthWatchedClass 2
+GetIthWatchedClass 3
+GetIthWatchedClass 4
+GetIthWatchedClass 5
+GetIthWatchedClass 6
+GetIthWatchedClass 7
+GetIthWatchedClass 8
+GetIthWatchedClass 9
+GetIthWatchedClass 10
+GetIthWatchedClass 11
+GetIthWatchedClass 12
+GetIthWatchedClass 13
+GetIthWatchedClass 14
+GetIthWatchedClass 15
+Quit

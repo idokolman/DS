@@ -1,0 +1,104 @@
+init done.
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+AddClass: 5
+WatchClass: SUCCESS
+TimeViewed: 893
+WatchClass: SUCCESS
+TimeViewed: 1255
+WatchClass: SUCCESS
+TimeViewed: 674
+WatchClass: SUCCESS
+TimeViewed: 1504
+WatchClass: SUCCESS
+TimeViewed: 555
+WatchClass: SUCCESS
+TimeViewed: 349
+WatchClass: SUCCESS
+TimeViewed: 1326
+WatchClass: SUCCESS
+TimeViewed: 293
+WatchClass: SUCCESS
+TimeViewed: 565
+WatchClass: SUCCESS
+TimeViewed: 706
+WatchClass: SUCCESS
+TimeViewed: 1346
+WatchClass: INVALID_INPUT
+TimeViewed: 1346
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+WatchClass: SUCCESS
+TimeViewed: 281
+WatchClass: SUCCESS
+TimeViewed: 668
+WatchClass: SUCCESS
+TimeViewed: 1552
+WatchClass: SUCCESS
+TimeViewed: 1611
+WatchClass: SUCCESS
+TimeViewed: 265
+WatchClass: SUCCESS
+TimeViewed: 1205
+WatchClass: SUCCESS
+TimeViewed: 1925
+WatchClass: SUCCESS
+TimeViewed: 2718
+WatchClass: SUCCESS
+TimeViewed: 214
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+AddClass: 5
+WatchClass: SUCCESS
+TimeViewed: 944
+WatchClass: SUCCESS
+TimeViewed: 1842
+WatchClass: SUCCESS
+TimeViewed: 2469
+WatchClass: SUCCESS
+TimeViewed: 617
+WatchClass: SUCCESS
+TimeViewed: 1467
+WatchClass: SUCCESS
+TimeViewed: 389
+WatchClass: SUCCESS
+TimeViewed: 1164
+WatchClass: SUCCESS
+TimeViewed: 783
+WatchClass: SUCCESS
+TimeViewed: 1075
+WatchClass: SUCCESS
+TimeViewed: 2008
+WatchClass: SUCCESS
+TimeViewed: 2891
+WatchClass: SUCCESS
+TimeViewed: 335
+WatchClass: SUCCESS
+TimeViewed: 448
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20001 2
+GetIthWatchedClass: 20000 2
+GetIthWatchedClass: 20001 1
+GetIthWatchedClass: 20002 4
+GetIthWatchedClass: 20000 5
+GetIthWatchedClass: 20002 3
+GetIthWatchedClass: 20002 5
+GetIthWatchedClass: 20002 2
+GetIthWatchedClass: 20000 3
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20002 1
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20000 4
+GetIthWatchedClass: 20001 0
+quit done.

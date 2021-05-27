@@ -1,0 +1,5007 @@
+Init
+AddCourse 3558526 12
+AddCourse 9211664 8
+AddCourse 6441158 14
+AddCourse 4684005 -2
+AddCourse 1236656 2
+AddCourse 728240 4
+WatchClass 6441158 4 19
+AddCourse 8647722 4
+AddCourse 5404571 15
+AddCourse 1693549 19
+RemoveCourse 1693549
+TimeViewed 5404571 13
+TimeViewed 3558526 4
+TimeViewed 1236656 0
+WatchClass 728240 0 20
+WatchClass 7739270 14 17
+WatchClass 8647722 6 9
+RemoveCourse 1236656
+WatchClass 3558526 8 14
+AddCourse 6921876 9
+WatchClass 6441158 9 16
+AddCourse 4751360 9
+RemoveCourse 143657
+TimeViewed 8647722 -2
+GetMostViewedClasses 13
+GetMostViewedClasses -1
+GetMostViewedClasses 62
+RemoveCourse 728240
+WatchClass 6921876 5 15
+WatchClass 6441158 -1 19
+WatchClass 5404571 1 12
+RemoveCourse 6921876
+AddCourse 5404571 18
+WatchClass 6441158 9 5
+AddCourse 3558526 9
+WatchClass 9211664 0 16
+RemoveCourse 8647722
+RemoveCourse 5404571
+WatchClass 2773147 -1 20
+RemoveCourse 9211664
+TimeViewed 3558526 9
+AddCourse 4626520 1
+AddCourse 4255689 19
+WatchClass 4751360 8 18
+GetMostViewedClasses 51
+WatchClass 4626520 0 3
+AddCourse 9568722 16
+WatchClass 9568722 6 2
+AddCourse 8778603 17
+AddCourse 10675 17
+AddCourse 6606447 14
+AddCourse 8414920 16
+TimeViewed 3588794 6
+WatchClass 6441158 1 16
+WatchClass 9568722 8 20
+TimeViewed 8414920 4
+WatchClass 8414920 10 6
+AddCourse 9287468 2
+AddCourse 958579 17
+AddCourse -2 -1
+GetMostViewedClasses 77
+WatchClass 9568722 5 15
+WatchClass 958579 14 6
+TimeViewed 3558526 4
+RemoveCourse 4255689
+AddCourse 7844399 15
+GetMostViewedClasses 156
+AddCourse 7844399 17
+AddCourse 8453887 2
+WatchClass 8778603 9 15
+AddCourse 3160175 5
+RemoveCourse 8312068
+WatchClass 4626520 0 14
+WatchClass 6606447 4 19
+GetMostViewedClasses 160
+AddCourse 2405944 13
+GetMostViewedClasses 0
+AddCourse 243731 7
+WatchClass 6870547 3 6
+AddCourse 121495 16
+RemoveCourse 3558526
+AddCourse 8873938 17
+WatchClass 3160175 0 17
+AddCourse 2040521 8
+GetMostViewedClasses 87
+AddCourse 3204706 17
+AddCourse 3391351 8
+TimeViewed 8414920 14
+AddCourse 8450183 11
+GetMostViewedClasses 141
+AddCourse 844631 11
+AddCourse 8414920 19
+AddCourse 9568722 19
+WatchClass 8873938 2 15
+AddCourse -2 -1
+AddCourse 6471756 4
+TimeViewed 8453872 12
+RemoveCourse 3160175
+TimeViewed 4751360 7
+GetMostViewedClasses 254
+GetMostViewedClasses 45
+AddCourse 4072732 18
+WatchClass 8414920 14 18
+AddCourse 5311873 11
+AddCourse 9977653 0
+RemoveCourse 4072732
+WatchClass 8778603 5 10
+RemoveCourse 8453887
+AddCourse 6289867 11
+RemoveCourse 6289867
+GetMostViewedClasses 184
+GetMostViewedClasses 230
+TimeViewed 6606447 12
+WatchClass 0 -1 6
+AddCourse 6603780 19
+WatchClass -1 7 10
+AddCourse 1306222 6
+WatchClass 2040521 -3 3
+RemoveCourse 3204706
+WatchClass 4751360 6 18
+AddCourse 8450183 11
+RemoveCourse 844631
+AddCourse 28925 4
+TimeViewed 8414920 13
+WatchClass 0 -1 1
+AddCourse 9193527 9
+RemoveCourse 3391351
+AddCourse 2875204 5
+WatchClass 243731 1 19
+GetMostViewedClasses 197
+GetMostViewedClasses 75
+AddCourse 6508394 7
+AddCourse 1103209 17
+WatchClass 2040521 7 20
+WatchClass 9287468 0 13
+TimeViewed 9287468 8
+AddCourse 8414920 3
+AddCourse 1589729 4
+TimeViewed 8209481 2
+WatchClass 9287468 8 9
+RemoveCourse 7844399
+WatchClass 8778603 9 19
+GetMostViewedClasses 264
+RemoveCourse -1
+AddCourse 4995249 17
+TimeViewed 6471756 8
+RemoveCourse 2405944
+AddCourse 6481419 20
+GetMostViewedClasses 4
+RemoveCourse 5803422
+AddCourse 1103209 3
+TimeViewed 4364845 -1
+WatchClass -1 2 5
+WatchClass 1589729 2 14
+AddCourse 378552 11
+WatchClass 4626520 0 15
+AddCourse 8926849 18
+AddCourse 7348997 17
+TimeViewed 243731 4
+AddCourse 482140 16
+TimeViewed 9568722 7
+TimeViewed 243731 2
+RemoveCourse 2040521
+AddCourse 1306222 -2
+TimeViewed 284722 10
+AddCourse 958579 -1
+AddCourse 10675 18
+WatchClass 6606447 5 7
+WatchClass 5311873 5 16
+AddCourse 5094305 9
+WatchClass 10675 4 19
+WatchClass 4751360 2 16
+AddCourse 0 -2
+AddCourse 5674396 1
+GetMostViewedClasses 346
+RemoveCourse 5674396
+WatchClass 9568722 15 5
+AddCourse 8734401 18
+TimeViewed 8734401 15
+WatchClass 1589729 3 3
+AddCourse 4691092 13
+AddCourse 8026994 19
+WatchClass 6606447 6 20
+WatchClass 6508394 11 15
+WatchClass 7559844 -1 12
+RemoveCourse 6481419
+TimeViewed 8026994 11
+WatchClass 1103209 16 17
+GetMostViewedClasses 395
+GetMostViewedClasses 109
+RemoveCourse 6163325
+GetMostViewedClasses 286
+AddCourse 7954982 19
+AddCourse 7569394 17
+GetMostViewedClasses 86
+AddCourse 6603780 11
+AddCourse 9994840 18
+WatchClass 243731 1 8
+AddCourse 6255587 19
+AddCourse 6867313 18
+WatchClass 4751360 8 13
+WatchClass 6603780 7 -1
+AddCourse 4073510 9
+GetMostViewedClasses 258
+WatchClass 2875204 2 13
+AddCourse 975504 11
+AddCourse 2251977 7
+AddCourse 515043 8
+AddCourse 9172850 5
+AddCourse 968841 20
+AddCourse 5016308 7
+RemoveCourse 5094305
+RemoveCourse 8450183
+AddCourse 8725483 8
+AddCourse 9090997 16
+WatchClass 9193527 -1 4
+AddCourse 2272693 9
+AddCourse 3396330 7
+WatchClass 8778603 7 -2
+RemoveCourse 121495
+RemoveCourse 7954982
+WatchClass 958579 11 12
+AddCourse 5869513 4
+WatchClass 9172850 0 9
+AddCourse 4953170 19
+WatchClass 4073510 6 16
+AddCourse 3224553 11
+AddCourse 6517444 13
+RemoveCourse 6867313
+GetMostViewedClasses 253
+WatchClass 5311873 6 16
+WatchClass 6508394 2 8
+AddCourse 772997 3
+TimeViewed 378552 6
+RemoveCourse 4995249
+AddCourse 7439652 7
+AddCourse 8954221 17
+TimeViewed 6441158 3
+TimeViewed 975504 10
+AddCourse 1280937 4
+RemoveCourse 1280937
+AddCourse 1043427 4
+AddCourse 6084701 11
+GetMostViewedClasses 472
+AddCourse 169351 14
+AddCourse 6472895 12
+AddCourse 6642218 19
+GetMostViewedClasses 650
+GetMostViewedClasses 271
+WatchClass 772997 2 15
+TimeViewed 9664766 -3
+AddCourse 3975214 5
+WatchClass 5635444 -3 13
+RemoveCourse 169351
+WatchClass 2251977 0 9
+AddCourse 1408668 11
+RemoveCourse 3975214
+AddCourse 9769376 17
+RemoveCourse 5016308
+AddCourse 6389738 4
+GetMostViewedClasses 661
+WatchClass 2272693 6 9
+WatchClass 6658887 -2 12
+AddCourse 4232495 4
+WatchClass 0 11 15
+WatchClass 7569394 16 19
+WatchClass 2251977 3 14
+GetMostViewedClasses 223
+AddCourse 5227730 19
+RemoveCourse 772997
+TimeViewed 2167359 -1
+GetMostViewedClasses 190
+RemoveCourse 5311873
+RemoveCourse 515043
+WatchClass 7348997 3 5
+RemoveCourse 8926849
+AddCourse 7606139 19
+WatchClass 8873938 10 5
+AddCourse 5279640 5
+TimeViewed 378552 9
+AddCourse 7940382 4
+AddCourse 8030163 18
+TimeViewed 4232495 8
+GetMostViewedClasses 634
+WatchClass 8778603 6 19
+TimeViewed 4642685 7
+AddCourse 188946 3
+AddCourse 3729407 12
+AddCourse 8474563 12
+AddCourse 457953 19
+WatchClass 10675 1 17
+RemoveCourse 4626520
+GetMostViewedClasses 491
+TimeViewed 9994840 22
+WatchClass 7606139 9 3
+AddCourse 8222825 19
+AddCourse 7423626 2
+RemoveCourse 670905
+WatchClass 4073510 8 7
+AddCourse 7134597 1
+RemoveCourse 9172850
+AddCourse 7622707 1
+RemoveCourse 1408668
+WatchClass 188946 2 5
+TimeViewed 3729407 0
+GetMostViewedClasses 556
+AddCourse 5121539 0
+AddCourse 785107 18
+RemoveCourse 2251977
+AddCourse 4387851 10
+RemoveCourse 7606139
+AddCourse 3651033 15
+WatchClass 8734401 13 6
+GetMostViewedClasses 324
+TimeViewed 8778603 8
+WatchClass 4751360 5 18
+TimeViewed 6603780 0
+GetMostViewedClasses 739
+WatchClass 10675 26 14
+WatchClass 4691092 10 13
+AddCourse 7778214 17
+RemoveCourse 6508394
+WatchClass 9090997 11 16
+GetMostViewedClasses 503
+WatchClass 7439652 2 4
+AddCourse 9118959 10
+WatchClass 9090997 12 3
+WatchClass 8734401 11 10
+AddCourse 975504 -2
+WatchClass 8222825 16 19
+AddCourse 9211137 2
+AddCourse 7486729 0
+TimeViewed 7348997 15
+TimeViewed 785107 0
+RemoveCourse 9090997
+TimeViewed 0 -1
+RemoveCourse 457953
+GetMostViewedClasses 698
+AddCourse 8734401 15
+WatchClass 8474563 12 3
+AddCourse 5752664 8
+WatchClass 9568722 1 1
+WatchClass 8734401 21 19
+RemoveCourse 3396330
+RemoveCourse 1523420
+RemoveCourse 5717272
+GetMostViewedClasses 109
+WatchClass 4953170 10 10
+RemoveCourse 7778214
+AddCourse 8590007 7
+AddCourse 7082321 20
+AddCourse 3143534 17
+TimeViewed 7423626 1
+GetMostViewedClasses 46
+AddCourse 8741321 20
+AddCourse 4691092 -2
+AddCourse 8329709 6
+RemoveCourse 8590007
+RemoveCourse 8725483
+AddCourse 8636778 17
+AddCourse 7495082 13
+WatchClass 3729407 11 14
+AddCourse 1421926 15
+RemoveCourse 9287468
+RemoveCourse 9118959
+WatchClass 28925 1 -2
+AddCourse 9166610 2
+AddCourse 4962740 14
+TimeViewed 5869513 0
+TimeViewed 243731 2
+AddCourse 3686332 5
+WatchClass 5279640 1 20
+AddCourse 5808638 20
+GetMostViewedClasses 850
+RemoveCourse 5227730
+WatchClass 1421926 11 5
+RemoveCourse 6084701
+AddCourse 4678648 7
+GetMostViewedClasses 183
+GetMostViewedClasses 356
+WatchClass 8026994 5 12
+WatchClass 9568722 6 2
+GetMostViewedClasses 92
+AddCourse 7079262 4
+WatchClass 4387851 7 6
+AddCourse 6546880 5
+AddCourse 7495082 15
+AddCourse 9261340 4
+TimeViewed 9166610 1
+WatchClass 6389738 3 5
+RemoveCourse 8222825
+WatchClass 7622707 0 10
+WatchClass 5808638 8 9
+WatchClass 7622707 0 11
+GetMostViewedClasses 45
+RemoveCourse 5808638
+AddCourse 3612903 20
+AddCourse 9760263 12
+RemoveCourse 8873938
+AddCourse 1453457 4
+GetMostViewedClasses 11
+TimeViewed 1103209 10
+RemoveCourse 4953170
+WatchClass 4962740 9 17
+AddCourse 9121786 17
+AddCourse 319994 9
+AddCourse 8690178 9
+WatchClass 785107 4 13
+TimeViewed 319994 6
+TimeViewed 8474563 11
+TimeViewed -1 -2
+AddCourse 6396376 14
+GetMostViewedClasses 484
+TimeViewed 9166610 1
+WatchClass 482140 0 20
+RemoveCourse 5752664
+TimeViewed 9193527 6
+RemoveCourse 8741321
+AddCourse 3539761 7
+WatchClass 8414920 0 15
+TimeViewed 9994840 9
+WatchClass 1453457 0 2
+AddCourse 8503645 18
+WatchClass 785107 10 6
+AddCourse 5478602 3
+WatchClass -1 20 5
+AddCourse 8233225 13
+AddCourse 6356201 10
+AddCourse 4285943 10
+GetMostViewedClasses 224
+GetMostViewedClasses 503
+RemoveCourse 9994840
+WatchClass 3143534 3 18
+WatchClass 8636778 11 18
+WatchClass 1421926 10 3
+WatchClass 9760263 8 4
+WatchClass 6603780 7 1
+WatchClass 785107 2 17
+AddCourse 5395421 5
+WatchClass 9301594 -3 8
+AddCourse -1 -2
+GetMostViewedClasses 851
+WatchClass -1 12 4
+TimeViewed 4751360 0
+RemoveCourse 8414920
+AddCourse 332209 17
+AddCourse 5232474 15
+WatchClass 4232495 3 16
+AddCourse 3098818 4
+RemoveCourse -1
+WatchClass 9760263 4 14
+WatchClass 4751360 3 1
+AddCourse 8106307 16
+AddCourse 6472895 0
+WatchClass 1589729 1 19
+WatchClass 6356201 8 12
+WatchClass 8026994 17 12
+RemoveCourse 319994
+GetMostViewedClasses 158
+AddCourse 1316842 2
+RemoveCourse 3224553
+WatchClass 1316842 0 5
+AddCourse 3809400 4
+AddCourse 1079379 8
+TimeViewed 9261340 2
+WatchClass 6517444 6 6
+AddCourse 3651033 0
+WatchClass 9760263 5 2
+TimeViewed 6599060 10
+RemoveCourse 968841
+AddCourse 9495305 16
+WatchClass 6472895 11 2
+WatchClass 9495305 8 19
+TimeViewed 4232495 1
+WatchClass 6255587 5 1
+AddCourse 8138183 15
+GetMostViewedClasses 890
+AddCourse 9705169 4
+RemoveCourse -1
+WatchClass 6396376 11 8
+RemoveCourse 332209
+WatchClass 2875204 4 14
+GetMostViewedClasses 490
+RemoveCourse 2272693
+AddCourse 9251595 5
+GetMostViewedClasses 661
+RemoveCourse 7940382
+WatchClass 9121786 1 13
+AddCourse 7030168 18
+GetMostViewedClasses 317
+AddCourse 9157600 10
+AddCourse 1394530 11
+RemoveCourse 1079379
+RemoveCourse 3686332
+AddCourse 5923094 2
+WatchClass 7569394 0 17
+WatchClass 1306222 3 3
+WatchClass 5540281 19 14
+AddCourse 6511425 9
+WatchClass 3809400 -1 17
+WatchClass 1394530 18 11
+WatchClass 9495305 3 8
+WatchClass 785107 4 17
+AddCourse 4155465 17
+RemoveCourse 6546880
+RemoveCourse 378552
+AddCourse 23501 11
+TimeViewed 8954221 25
+WatchClass 5923094 11 15
+AddCourse 304441 5
+GetMostViewedClasses 608
+WatchClass 7134597 0 17
+AddCourse 6817371 7
+AddCourse 4678648 6
+RemoveCourse 8954221
+WatchClass 8030163 6 7
+AddCourse 1515266 6
+TimeViewed 4387851 9
+WatchClass 7134597 0 17
+WatchClass 8636778 13 9
+TimeViewed 6642218 0
+AddCourse 4246756 10
+WatchClass 1394530 5 14
+WatchClass 6603780 12 8
+WatchClass 4387851 9 4
+AddCourse 7134597 4
+AddCourse -1 2
+AddCourse 9807169 17
+WatchClass 3539761 2 9
+AddCourse 8329709 12
+AddCourse 4196746 3
+AddCourse 4116829 19
+RemoveCourse 4232495
+AddCourse 4443771 7
+AddCourse 8329709 13
+TimeViewed 7439652 2
+GetMostViewedClasses 234
+GetMostViewedClasses 857
+WatchClass 8329709 2 19
+TimeViewed 1043427 0
+GetMostViewedClasses 735
+RemoveCourse 6642218
+WatchClass -1 20 6
+GetMostViewedClasses 290
+AddCourse 8410104 10
+AddCourse 9777663 15
+WatchClass 4751360 7 16
+TimeViewed 7569394 5
+AddCourse 4794761 19
+GetMostViewedClasses -1
+AddCourse 9244925 7
+AddCourse 8668003 11
+AddCourse 785107 -2
+AddCourse 4207113 2
+RemoveCourse 4155465
+GetMostViewedClasses 871
+WatchClass 1515266 6 3
+AddCourse 8766294 16
+WatchClass 9251595 2 1
+RemoveCourse 3729407
+AddCourse 3804656 20
+AddCourse 7079262 20
+AddCourse 5343081 14
+GetMostViewedClasses 729
+RemoveCourse 3809400
+AddCourse 8926728 6
+RemoveCourse 188946
+WatchClass 6255587 14 7
+TimeViewed 482140 0
+WatchClass 9807169 11 18
+AddCourse 9024152 12
+GetMostViewedClasses 518
+TimeViewed 5343081 20
+WatchClass 5088962 9 5
+RemoveCourse 5232474
+WatchClass 6472895 0 0
+TimeViewed 8668003 9
+AddCourse 9887281 6
+WatchClass 4196746 2 16
+AddCourse 7690699 10
+AddCourse 2003167 7
+AddCourse 1705124 11
+AddCourse 3878329 2
+TimeViewed 4116829 9
+WatchClass 2514876 8 4
+GetMostViewedClasses 396
+GetMostViewedClasses 71
+AddCourse 460114 13
+AddCourse 9337833 9
+AddCourse 3237664 17
+RemoveCourse 10675
+WatchClass 4976580 11 8
+WatchClass 4116829 14 20
+AddCourse 5030596 3
+WatchClass 5030596 1 6
+RemoveCourse 28925
+AddCourse 6196993 14
+WatchClass 7423626 1 13
+RemoveCourse 6511425
+WatchClass 7030168 13 8
+AddCourse 7232090 0
+AddCourse 4728418 10
+TimeViewed 7622707 0
+GetMostViewedClasses 575
+TimeViewed 9261340 3
+TimeViewed 6817371 2
+RemoveCourse 1705124
+GetMostViewedClasses 405
+AddCourse 3804656 -1
+GetMostViewedClasses 691
+RemoveCourse 7082321
+TimeViewed 4196746 2
+AddCourse 6183435 3
+GetMostViewedClasses 787
+GetMostViewedClasses 94
+WatchClass 1891371 11 16
+AddCourse 2028660 17
+GetMostViewedClasses 663
+WatchClass 4073510 6 20
+AddCourse 930644 15
+AddCourse 3285815 9
+WatchClass 3143534 16 13
+AddCourse 7330440 3
+AddCourse 2003167 6
+RemoveCourse 1306222
+RemoveCourse 1103209
+GetMostViewedClasses 344
+GetMostViewedClasses 661
+WatchClass 8329709 4 13
+AddCourse 5062423 -1
+AddCourse 4077679 12
+RemoveCourse 8233225
+WatchClass 6411431 -2 12
+RemoveCourse 785107
+AddCourse 1183300 16
+WatchClass 4073510 7 14
+WatchClass 6817239 15 11
+WatchClass 8540753 -3 9
+TimeViewed 2028660 15
+AddCourse 2028660 4
+AddCourse 9389900 12
+WatchClass 7423626 1 20
+AddCourse 9640811 10
+RemoveCourse 9024152
+GetMostViewedClasses 140
+AddCourse 4756170 5
+WatchClass 9157600 3 11
+WatchClass 7348997 2 18
+WatchClass 5030596 0 2
+RemoveCourse 482140
+WatchClass 8106307 2 7
+WatchClass 9568722 1 1
+WatchClass 9193527 5 4
+WatchClass 4728418 9 9
+AddCourse 1108308 17
+WatchClass 4430610 11 12
+AddCourse 6853878 19
+RemoveCourse 0
+GetMostViewedClasses 402
+GetMostViewedClasses 319
+WatchClass 7690699 4 6
+TimeViewed 9211137 0
+GetMostViewedClasses 1159
+AddCourse 6925552 12
+AddCourse 3078218 6
+WatchClass 8734401 5 2
+WatchClass 4751360 11 10
+AddCourse 2494747 18
+WatchClass 8310310 -3 8
+AddCourse 5030596 0
+RemoveCourse -2
+AddCourse 1230207 7
+AddCourse 803162 18
+AddCourse 5587051 15
+TimeViewed 9807169 13
+TimeViewed 7091210 -2
+WatchClass 975504 3 20
+WatchClass 3285815 0 9
+RemoveCourse 6255587
+WatchClass 930644 11 2
+WatchClass -2 4 9
+AddCourse 1515266 -1
+TimeViewed 9769376 11
+AddCourse 5655730 4
+AddCourse 7063576 5
+RemoveCourse 8668003
+AddCourse 2116088 12
+AddCourse 9192854 6
+AddCourse 990215 19
+AddCourse 797883 1
+AddCourse 9230858 1
+WatchClass 4794761 3 8
+AddCourse 1540969 7
+GetMostViewedClasses 787
+AddCourse 3480873 -2
+RemoveCourse 8410104
+AddCourse 6470281 13
+WatchClass 6470281 1 20
+AddCourse 2026614 4
+GetMostViewedClasses 1196
+WatchClass 0 -2 3
+AddCourse 3291778 18
+WatchClass 1540969 2 17
+GetMostViewedClasses 529
+WatchClass 7134597 0 3
+WatchClass 8766294 7 1
+GetMostViewedClasses 784
+TimeViewed -1 0
+AddCourse 1487952 17
+WatchClass 3878329 0 20
+AddCourse 9157600 2
+TimeViewed -2 -2
+AddCourse 6154459 1
+AddCourse 8074079 19
+AddCourse 9647630 16
+WatchClass 8074079 6 12
+RemoveCourse 9193527
+AddCourse 5275988 15
+AddCourse 7002299 20
+AddCourse 7665354 20
+TimeViewed 4246756 6
+AddCourse 9182337 4
+AddCourse 7569394 15
+GetMostViewedClasses 1279
+GetMostViewedClasses 221
+AddCourse 971867 2
+WatchClass 4691092 2 2
+AddCourse 8226774 5
+RemoveCourse 3237664
+AddCourse 7455420 19
+WatchClass 1453457 3 15
+RemoveCourse 8778603
+AddCourse 7048388 14
+AddCourse 2210075 20
+WatchClass 4116829 27 5
+GetMostViewedClasses 879
+RemoveCourse 7665354
+AddCourse 0 -1
+AddCourse 3159123 19
+AddCourse 5025139 3
+AddCourse 4330080 8
+AddCourse 7419772 3
+AddCourse 1907207 2
+TimeViewed 4207113 1
+RemoveCourse 4794761
+WatchClass 9777663 12 16
+WatchClass 8138183 11 7
+AddCourse 9546422 1
+AddCourse 7455420 3
+RemoveCourse 958579
+AddCourse 4193809 19
+RemoveCourse 5025139
+RemoveCourse 9777663
+RemoveCourse 7796034
+RemoveCourse 9157600
+GetMostViewedClasses 306
+AddCourse 715982 11
+WatchClass 7423626 2 8
+WatchClass 2026614 1 1
+GetMostViewedClasses 69
+AddCourse 8231197 18
+RemoveCourse 9230858
+WatchClass 4073510 6 3
+AddCourse 407133 3
+RemoveCourse 9182337
+AddCourse 4304242 7
+TimeViewed 803162 24
+GetMostViewedClasses 1412
+RemoveCourse 7079262
+TimeViewed 2028660 12
+AddCourse 549365 8
+AddCourse 2226337 14
+TimeViewed 4387851 2
+WatchClass 9337833 5 19
+AddCourse 5924346 11
+WatchClass 9251595 12 1
+AddCourse 5151817 15
+AddCourse 3426894 5
+AddCourse 8262904 3
+AddCourse 2306689 -1
+AddCourse 6156008 15
+RemoveCourse 7622707
+RemoveCourse 5395421
+AddCourse 8198577 9
+RemoveCourse 975504
+RemoveCourse 4728418
+WatchClass 2116088 11 2
+AddCourse 9318398 15
+AddCourse 2089464 16
+WatchClass 8329709 10 2
+WatchClass 4285943 12 9
+WatchClass 1394530 0 5
+WatchClass 6441158 2 15
+WatchClass 3744550 -1 18
+AddCourse 5189200 9
+RemoveCourse 1907207
+GetMostViewedClasses 793
+RemoveCourse 8636778
+AddCourse 8072885 13
+AddCourse 2106659 4
+WatchClass 7495082 7 5
+RemoveCourse 9769376
+AddCourse 4304242 13
+AddCourse 935938 11
+AddCourse 549365 17
+WatchClass 0 19 10
+AddCourse 1263881 5
+WatchClass -2 -2 9
+WatchClass 9318398 1 7
+WatchClass 7419772 0 14
+GetMostViewedClasses 18
+RemoveCourse 3159123
+AddCourse 8180130 19
+WatchClass 7365951 -1 19
+AddCourse 2592670 10
+AddCourse 4136332 6
+WatchClass 2226337 2 15
+AddCourse 3918407 17
+AddCourse 9630220 4
+AddCourse 8629749 17
+AddCourse 8409097 17
+GetMostViewedClasses 1250
+AddCourse 8819975 18
+TimeViewed 9887281 0
+WatchClass 4285943 2 4
+WatchClass 8474563 3 7
+AddCourse 5643854 7
+AddCourse 4371329 13
+RemoveCourse 8074079
+AddCourse 8698093 16
+RemoveCourse 930644
+TimeViewed 6154459 0
+AddCourse 8426473 15
+RemoveCourse 4443771
+AddCourse 268257 6
+GetMostViewedClasses 611
+TimeViewed 6441158 13
+WatchClass 971867 1 4
+TimeViewed 7030168 -2
+AddCourse 2243983 14
+RemoveCourse 3426894
+WatchClass 4193809 0 14
+RemoveCourse 8698093
+AddCourse 1574394 14
+WatchClass 6250485 9 13
+TimeViewed 4551124 5
+WatchClass -2 19 11
+GetMostViewedClasses 343
+RemoveCourse 8474563
+AddCourse 715982 -1
+GetMostViewedClasses 1468
+RemoveCourse 4246756
+WatchClass 1263881 2 18
+RemoveCourse 3078218
+WatchClass 9640811 9 11
+WatchClass 4691092 12 18
+WatchClass 9647630 1 2
+AddCourse 4077920 1
+AddCourse 3695842 20
+RemoveCourse 6470281
+WatchClass 6156008 2 1
+AddCourse 1718710 2
+WatchClass -2 16 10
+WatchClass 6817371 1 -1
+WatchClass 7419772 0 5
+AddCourse 614760 2
+GetMostViewedClasses 765
+RemoveCourse 6154459
+WatchClass 8106307 15 6
+TimeViewed 971867 0
+TimeViewed 6853878 13
+AddCourse 2243983 -1
+AddCourse 2220145 6
+AddCourse 676668 1
+GetMostViewedClasses 942
+AddCourse 7677454 18
+WatchClass 6817371 0 3
+TimeViewed 3695842 16
+AddCourse 46435 5
+RemoveCourse 4116829
+AddCourse 5631068 9
+GetMostViewedClasses 564
+AddCourse 1725519 2
+AddCourse 2517616 20
+WatchClass 6356201 19 4
+WatchClass 7330440 2 17
+WatchClass 8329709 1 1
+AddCourse 3631347 5
+AddCourse 4476033 8
+AddCourse 3049968 6
+RemoveCourse 9705169
+WatchClass 8106307 12 1
+WatchClass 8766294 2 7
+AddCourse 9267921 -2
+AddCourse 8521216 6
+WatchClass 1230207 0 12
+AddCourse 8926728 2
+GetMostViewedClasses 739
+AddCourse 7778294 3
+WatchClass 4962740 1 4
+AddCourse 2106992 2
+RemoveCourse 935938
+RemoveCourse 0
+AddCourse 662543 -1
+WatchClass 8030163 3 1
+AddCourse 3321306 18
+AddCourse 230013 11
+TimeViewed 9568722 11
+TimeViewed 8503645 6
+TimeViewed 3651033 0
+GetMostViewedClasses 1591
+WatchClass 9389900 11 14
+TimeViewed 2003167 16
+TimeViewed 4962740 3
+RemoveCourse 6603780
+AddCourse 3964781 14
+AddCourse 8382965 2
+WatchClass 2220145 0 15
+AddCourse 4652125 12
+TimeViewed 6183435 2
+RemoveCourse 2875204
+AddCourse 3370500 11
+AddCourse 6818837 4
+AddCourse 4028552 11
+AddCourse 2344433 2
+GetMostViewedClasses 835
+WatchClass 9318398 14 11
+WatchClass 7304458 -1 19
+AddCourse 269052 7
+WatchClass 9647630 0 16
+WatchClass 9546422 0 4
+AddCourse 6636478 7
+AddCourse 5660182 4
+GetMostViewedClasses 191
+TimeViewed 8106307 9
+TimeViewed 7439652 3
+AddCourse 5481818 20
+RemoveCourse 3539761
+AddCourse 8290947 19
+TimeViewed 4077679 5
+AddCourse 8941478 12
+AddCourse 1698160 3
+WatchClass 1515266 3 5
+AddCourse 3755378 16
+GetMostViewedClasses 1262
+AddCourse 8064596 17
+AddCourse 8405381 5
+AddCourse 2113385 2
+AddCourse 3801526 12
+TimeViewed 2106659 0
+WatchClass 7455420 17 13
+RemoveCourse 3755378
+TimeViewed 1309667 -1
+RemoveCourse 4077679
+TimeViewed 6389738 0
+RemoveCourse 8226774
+TimeViewed 8757359 8
+AddCourse 5162295 15
+AddCourse 5827832 18
+AddCourse 9033327 7
+AddCourse 7361267 19
+WatchClass 3631347 1 8
+TimeViewed 9546422 3
+RemoveCourse 676668
+WatchClass 549365 4 12
+RemoveCourse 2220145
+WatchClass 8521216 14 15
+AddCourse 1291379 5
+RemoveCourse 5279640
+AddCourse 2373347 7
+GetMostViewedClasses 1344
+AddCourse 9893084 9
+WatchClass 6389738 3 11
+RemoveCourse 8180130
+AddCourse 8022045 15
+AddCourse 8083872 20
+AddCourse 6621078 20
+AddCourse 9128501 2
+AddCourse 8451385 17
+GetMostViewedClasses 522
+GetMostViewedClasses 278
+RemoveCourse 8690178
+AddCourse 9369902 1
+GetMostViewedClasses 597
+AddCourse 5586287 4
+GetMostViewedClasses 718
+AddCourse 8086326 17
+AddCourse 7983911 15
+AddCourse 9431950 3
+AddCourse 9389900 4
+RemoveCourse 9630220
+WatchClass 4751360 4 4
+RemoveCourse 8290947
+GetMostViewedClasses 1159
+AddCourse 2635292 15
+AddCourse 4584369 17
+AddCourse 9259790 18
+AddCourse 1301543 11
+RemoveCourse 6389738
+TimeViewed 2116088 3
+AddCourse 6783984 1
+AddCourse 9852044 12
+AddCourse 8548051 15
+WatchClass 1574394 10 5
+WatchClass 9251595 0 11
+AddCourse 7552285 4
+AddCourse 9059868 2
+AddCourse 7219012 13
+AddCourse 3964781 4
+TimeViewed 5869513 1
+AddCourse 8366780 5
+WatchClass 8262904 9 11
+AddCourse 1479718 20
+WatchClass 8231197 4 9
+AddCourse 1183300 2
+AddCourse 8324087 4
+TimeViewed 2028660 2
+TimeViewed 9251595 4
+AddCourse 5263052 14
+AddCourse 8442650 15
+RemoveCourse 1515266
+AddCourse -2 -1
+WatchClass 8064596 1 3
+WatchClass 1183300 18 20
+WatchClass 8926728 2 3
+WatchClass 3370500 9 14
+AddCourse 5110183 11
+TimeViewed 6156008 1
+TimeViewed 9121786 18
+TimeViewed 8324087 1
+AddCourse 3097825 6
+WatchClass 7134597 0 7
+AddCourse 3264620 19
+WatchClass 0 0 13
+WatchClass 304441 1 8
+AddCourse 305253 9
+RemoveCourse 5162295
+WatchClass 9431950 0 13
+AddCourse 3759843 9
+AddCourse 931722 8
+AddCourse 736152 14
+AddCourse 4907505 8
+GetMostViewedClasses 641
+WatchClass 3759843 5 0
+AddCourse 4113905 6
+WatchClass 9807169 3 2
+WatchClass 2226337 7 1
+RemoveCourse 3963733
+WatchClass 3321306 0 2
+AddCourse 9912205 2
+AddCourse 2532306 1
+WatchClass 579260 19 5
+WatchClass 7677454 25 13
+TimeViewed 4678648 3
+TimeViewed 1230207 6
+WatchClass 6441158 4 11
+AddCourse 1502288 6
+WatchClass 803162 8 10
+RemoveCourse 9166610
+AddCourse 5277094 19
+WatchClass 3097825 12 8
+AddCourse 4054778 19
+AddCourse 4563184 9
+TimeViewed 8138183 0
+AddCourse 0 11
+RemoveCourse 2532306
+RemoveCourse 8548051
+AddCourse 5673435 16
+AddCourse 0 0
+AddCourse 8732253 7
+GetMostViewedClasses 1974
+GetMostViewedClasses 2049
+AddCourse 5660182 13
+AddCourse 7545897 4
+AddCourse 369526 20
+AddCourse 8573490 20
+GetMostViewedClasses -2
+GetMostViewedClasses 747
+RemoveCourse 9724125
+WatchClass 8022045 12 11
+RemoveCourse 2113385
+WatchClass 9337833 8 -1
+WatchClass 8106307 6 15
+AddCourse 5374913 13
+WatchClass 6925552 1 19
+WatchClass 8573490 12 18
+AddCourse 1028416 5
+AddCourse 3856216 13
+AddCourse 9035879 13
+GetMostViewedClasses 918
+GetMostViewedClasses 250
+TimeViewed 8086326 0
+AddCourse 5363601 2
+WatchClass 4193809 3 6
+GetMostViewedClasses 827
+TimeViewed 46435 2
+WatchClass 5673435 11 9
+TimeViewed 2106992 1
+RemoveCourse 1589729
+TimeViewed 7455420 -2
+TimeViewed 9121786 3
+WatchClass 1913027 7 1
+AddCourse 6680083 3
+AddCourse 9947941 17
+GetMostViewedClasses 1508
+WatchClass 1028416 0 2
+WatchClass 8086326 6 -2
+AddCourse 711472 8
+AddCourse 8075900 6
+RemoveCourse 8629749
+AddCourse 5343081 -1
+AddCourse 321872 15
+GetMostViewedClasses 931
+AddCourse 6162244 8
+RemoveCourse 3098818
+AddCourse 6683703 14
+AddCourse 6850789 6
+WatchClass 4563184 7 12
+WatchClass 8072885 8 19
+AddCourse 6077164 13
+AddCourse 647779 1
+RemoveCourse 4077920
+WatchClass 5481818 10 8
+WatchClass 2116088 9 10
+RemoveCourse 2635292
+AddCourse 2812000 8
+WatchClass 5275988 9 7
+AddCourse 3475783 7
+AddCourse 5208388 4
+GetMostViewedClasses 1415
+TimeViewed 5151817 14
+AddCourse 8018922 13
+AddCourse 2108612 8
+WatchClass 4330080 2 15
+AddCourse 9993603 15
+WatchClass 8732253 1 14
+WatchClass 7361267 9 7
+GetMostViewedClasses 2056
+TimeViewed 1698160 0
+GetMostViewedClasses 1013
+RemoveCourse 2344433
+WatchClass 5586287 3 -2
+WatchClass 7569394 6 3
+AddCourse 1981197 13
+RemoveCourse 5374913
+WatchClass -2 -2 11
+AddCourse 2325458 18
+GetMostViewedClasses -1
+RemoveCourse 8573490
+AddCourse 4638569 3
+RemoveCourse 5343081
+WatchClass 4387851 6 -1
+TimeViewed 3918407 14
+WatchClass 711472 1 3
+WatchClass 9807169 12 14
+AddCourse 1231789 19
+AddCourse 388281 9
+TimeViewed 3321306 2
+AddCourse 4207113 11
+AddCourse 9727129 13
+AddCourse 8166492 11
+AddCourse 4120721 3
+AddCourse 2714901 11
+RemoveCourse 9760263
+WatchClass 6680083 0 19
+AddCourse 9708575 -1
+RemoveCourse 4962740
+TimeViewed 4756170 4
+AddCourse 3365248 3
+WatchClass 2210075 14 11
+RemoveCourse 9893084
+AddCourse 7246846 19
+WatchClass 1487952 18 2
+GetMostViewedClasses 516
+AddCourse 1339980 15
+RemoveCourse 6636478
+RemoveCourse 8138183
+WatchClass 8329709 0 14
+AddCourse 5660182 8
+GetMostViewedClasses 1375
+AddCourse 3830490 13
+AddCourse 4563184 0
+WatchClass 1230207 5 7
+WatchClass 2226337 0 5
+AddCourse 1122490 13
+TimeViewed 0 0
+AddCourse 1152638 19
+WatchClass 5586287 1 7
+AddCourse 4120721 -1
+AddCourse 7678012 14
+GetMostViewedClasses 2483
+AddCourse 3019842 14
+AddCourse 6049693 20
+AddCourse 896398 5
+TimeViewed 2089464 21
+GetMostViewedClasses 396
+TimeViewed 2089464 13
+RemoveCourse 971867
+AddCourse 2200205 3
+AddCourse 6783984 1
+AddCourse 8336462 11
+AddCourse 400592 8
+AddCourse -1 14
+AddCourse 2210075 5
+RemoveCourse 2089464
+WatchClass 9727129 2 1
+AddCourse 1694710 17
+TimeViewed 2543013 2
+WatchClass 2026614 0 2
+AddCourse 7424760 17
+WatchClass 7678012 7 12
+AddCourse 9369902 18
+AddCourse 5708482 5
+TimeViewed 6509938 -2
+TimeViewed 990215 17
+GetMostViewedClasses 1643
+TimeViewed 8732253 6
+RemoveCourse 8166492
+WatchClass 8094148 5 1
+GetMostViewedClasses 10
+AddCourse 6207494 14
+WatchClass 4285943 6 13
+GetMostViewedClasses 1513
+WatchClass 7983911 23 9
+AddCourse 1470646 9
+AddCourse 6683703 0
+GetMostViewedClasses 581
+AddCourse 7650268 17
+WatchClass 9947941 13 12
+WatchClass 6049693 23 19
+WatchClass 9647630 -3 10
+AddCourse 5928302 10
+WatchClass 0 -1 2
+TimeViewed 9947941 4
+GetMostViewedClasses 1736
+AddCourse 4675742 8
+GetMostViewedClasses 1782
+GetMostViewedClasses 1505
+RemoveCourse 5923094
+WatchClass 2812000 4 8
+GetMostViewedClasses 662
+AddCourse 1718710 15
+WatchClass 4304242 5 14
+AddCourse 7943542 5
+RemoveCourse 6693682
+GetMostViewedClasses 0
+AddCourse 578603 17
+RemoveCourse 2028660
+RemoveCourse 1479718
+WatchClass 896398 1 4
+WatchClass 7134597 0 11
+TimeViewed 614760 0
+AddCourse 739165 3
+RemoveCourse 9887281
+WatchClass 2210075 9 13
+WatchClass 2373347 5 1
+AddCourse 8863502 8
+WatchClass 3097825 12 12
+RemoveCourse 3878329
+WatchClass 8382965 0 14
+GetMostViewedClasses 1998
+GetMostViewedClasses 796
+AddCourse 1800772 12
+GetMostViewedClasses 1028
+RemoveCourse 3049968
+TimeViewed -1 -2
+AddCourse 9251595 -1
+TimeViewed 6183435 0
+AddCourse 9111197 5
+AddCourse 8616953 16
+AddCourse 0 16
+GetMostViewedClasses 2649
+WatchClass 8324087 2 5
+WatchClass 23501 8 12
+AddCourse 719556 8
+AddCourse 7218281 13
+WatchClass 23501 8 -2
+GetMostViewedClasses 742
+AddCourse 6097925 13
+TimeViewed 9075822 7
+AddCourse 3181529 2
+AddCourse 1979527 3
+TimeViewed 739165 0
+GetMostViewedClasses 472
+AddCourse 7529141 7
+GetMostViewedClasses -2
+TimeViewed 2812000 10
+WatchClass 8442650 0 19
+WatchClass 8262904 0 20
+WatchClass 4298281 -1 11
+RemoveCourse 9192854
+AddCourse 9437971 13
+AddCourse 5746749 13
+WatchClass -1 -1 2
+WatchClass 1502288 4 12
+AddCourse 9934088 12
+AddCourse -2 -2
+AddCourse 7932903 20
+AddCourse 6849947 16
+TimeViewed 3759843 6
+RemoveCourse 8426473
+RemoveCourse 7419772
+WatchClass 719556 4 7
+AddCourse 6085295 5
+GetMostViewedClasses 2311
+WatchClass 3164556 10 14
+AddCourse 2812000 0
+WatchClass 5478602 2 20
+AddCourse 7674336 10
+TimeViewed 1487952 2
+AddCourse 8656738 7
+RemoveCourse 1540969
+TimeViewed 3370500 3
+GetMostViewedClasses 2233
+WatchClass 9251595 3 12
+TimeViewed -2 8
+AddCourse 4490239 10
+WatchClass 9318398 5 20
+AddCourse 5656335 6
+AddCourse 555328 6
+GetMostViewedClasses 650
+WatchClass 1453457 3 3
+AddCourse 2022790 16
+RemoveCourse 8376944
+AddCourse 4004818 20
+RemoveCourse 4330080
+AddCourse 275164 6
+AddCourse 2928414 4
+WatchClass 8106307 11 20
+AddCourse 2237439 17
+GetMostViewedClasses 2111
+AddCourse 8278932 9
+WatchClass 1291379 1 3
+WatchClass 8585744 -2 10
+WatchClass 4691092 12 5
+AddCourse 655 7
+TimeViewed 719556 6
+AddCourse 3008432 5
+WatchClass 9389900 7 17
+AddCourse 990215 17
+WatchClass 369526 6 3
+AddCourse -1 -2
+RemoveCourse 2373347
+AddCourse 9143051 5
+AddCourse 851585 20
+AddCourse -1 5
+AddCourse 1602090 5
+AddCourse -1 -2
+WatchClass 9318398 0 7
+TimeViewed 4387851 9
+WatchClass 7439652 6 20
+AddCourse 3680394 7
+TimeViewed 6183435 1
+TimeViewed 8941478 11
+WatchClass 3759843 8 13
+AddCourse 9287957 11
+AddCourse 5456508 7
+WatchClass 990215 12 19
+RemoveCourse 3801526
+WatchClass 9548931 11 5
+AddCourse 7875102 19
+AddCourse 1213335 1
+WatchClass 8018922 2 9
+AddCourse 8102294 2
+TimeViewed 1698160 1
+GetMostViewedClasses 1874
+TimeViewed 1739176 10
+AddCourse 2744300 18
+WatchClass 5030596 0 2
+GetMostViewedClasses 1105
+GetMostViewedClasses 362
+GetMostViewedClasses 603
+AddCourse 8627284 17
+WatchClass 3856216 7 1
+AddCourse 2248777 17
+AddCourse 3471842 10
+AddCourse 3319403 7
+AddCourse 2194299 20
+GetMostViewedClasses 1758
+AddCourse 4953720 1
+AddCourse 3193501 12
+WatchClass 8064596 6 11
+AddCourse 9172709 14
+TimeViewed 1800772 8
+AddCourse 6272378 4
+RemoveCourse 7678012
+AddCourse 9482216 20
+AddCourse 5484482 15
+AddCourse 5343397 6
+WatchClass 6272378 3 7
+RemoveCourse 3291778
+AddCourse 8147633 5
+TimeViewed 7439652 4
+AddCourse 4615427 6
+WatchClass 8941478 4 3
+RemoveCourse 614760
+WatchClass 4652125 -3 17
+AddCourse 8980173 11
+TimeViewed 6415132 6
+WatchClass 8941478 17 15
+AddCourse 6102467 5
+WatchClass 2116088 3 4
+AddCourse 2460015 4
+AddCourse 2802934 5
+RemoveCourse 1421926
+GetMostViewedClasses 2949
+AddCourse 6606447 6
+AddCourse 5272011 6
+RemoveCourse 6471756
+AddCourse 7415137 16
+RemoveCourse 1725519
+RemoveCourse 8106307
+GetMostViewedClasses 1559
+WatchClass 4113905 5 8
+AddCourse 3711120 6
+AddCourse 2699122 6
+WatchClass 7529141 15 7
+AddCourse 5145881 4
+AddCourse 1134454 15
+GetMostViewedClasses 112
+AddCourse 4011336 11
+GetMostViewedClasses 2733
+AddCourse 1630245 7
+AddCourse 0 -1
+AddCourse 7823845 13
+AddCourse 7363675 9
+GetMostViewedClasses 2863
+AddCourse 7963905 0
+RemoveCourse 3471842
+GetMostViewedClasses 2633
+AddCourse 6908931 4
+RemoveCourse 2106992
+AddCourse 8351925 8
+RemoveCourse -1
+WatchClass 1698160 2 16
+AddCourse 1388694 20
+AddCourse 3183568 10
+WatchClass 8734401 15 16
+TimeViewed 6049693 1
+TimeViewed 9495305 15
+AddCourse 188785 19
+RemoveCourse 3370500
+AddCourse 9829892 8
+AddCourse 6421521 5
+WatchClass 896398 2 1
+AddCourse 4079825 6
+WatchClass 1183300 14 14
+AddCourse 1791672 4
+GetMostViewedClasses 959
+GetMostViewedClasses 2771
+AddCourse 6684933 3
+WatchClass 7339075 6 18
+AddCourse 6897838 14
+AddCourse 4054257 8
+WatchClass 3285815 7 8
+RemoveCourse 2248777
+AddCourse 8422152 17
+AddCourse 7120008 10
+GetMostViewedClasses 2071
+AddCourse 2025621 4
+AddCourse 300950 20
+GetMostViewedClasses 2541
+WatchClass 7614422 11 7
+WatchClass 1108308 15 4
+TimeViewed -2 -2
+WatchClass 1630245 3 9
+WatchClass 9912205 6 18
+RemoveCourse 2210075
+WatchClass 6925552 0 19
+RemoveCourse 2003167
+WatchClass 7439652 1 15
+GetMostViewedClasses 2232
+WatchClass 407133 0 4
+WatchClass 6850789 5 2
+AddCourse 303389 16
+GetMostViewedClasses 1490
+TimeViewed 2928414 2
+RemoveCourse 3721278
+WatchClass 4953720 0 18
+TimeViewed 8102294 0
+AddCourse 5923072 10
+RemoveCourse 1263881
+RemoveCourse 4285943
+RemoveCourse 8442650
+AddCourse 9659765 16
+GetMostViewedClasses 2993
+GetMostViewedClasses 533
+TimeViewed 6621078 12
+RemoveCourse 8147633
+GetMostViewedClasses 1867
+RemoveCourse 3365248
+AddCourse 8680233 7
+WatchClass 8503645 16 12
+AddCourse 5437788 9
+AddCourse 7048388 18
+AddCourse 8034129 18
+AddCourse 7574760 7
+RemoveCourse 8382965
+AddCourse 6084049 2
+AddCourse 7134597 -2
+WatchClass 5587051 5 11
+TimeViewed 7569394 14
+TimeViewed 2237439 14
+AddCourse 5914945 20
+TimeViewed 6517444 3
+AddCourse 1800772 6
+AddCourse 7616238 20
+AddCourse -2 18
+RemoveCourse 931722
+AddCourse 9546422 15
+AddCourse 1292621 12
+WatchClass 3667588 -2 5
+AddCourse 6584318 1
+TimeViewed 1278220 15
+AddCourse 2965407 1
+AddCourse 2226337 15
+RemoveCourse 4004818
+AddCourse 9720686 6
+AddCourse 2146883 20
+AddCourse 3856216 0
+AddCourse -2 -2
+RemoveCourse 3183568
+RemoveCourse 5660182
+RemoveCourse 8336462
+RemoveCourse 8732253
+AddCourse 4942392 16
+AddCourse 2108612 20
+AddCourse 7694992 2
+WatchClass 2495668 11 18
+TimeViewed 4126116 -1
+AddCourse 5296303 11
+AddCourse 4247233 11
+WatchClass 851585 21 1
+AddCourse 5763866 5
+WatchClass 1388694 2 2
+TimeViewed 2699122 1
+TimeViewed 7063576 4
+WatchClass 5151817 3 17
+AddCourse 7634511 8
+AddCourse 1458594 9
+WatchClass 7569394 15 15
+WatchClass 4563184 5 7
+WatchClass 2022790 15 8
+RemoveCourse 460114
+AddCourse 2158322 8
+WatchClass 5030596 2 5
+WatchClass 8075900 3 13
+GetMostViewedClasses 2862
+TimeViewed 4584369 27
+WatchClass 7943542 15 1
+RemoveCourse 4615427
+TimeViewed 5631068 5
+WatchClass 8656738 4 3
+AddCourse 5003303 20
+WatchClass 6102467 2 13
+TimeViewed 7455420 16
+TimeViewed 3759843 1
+RemoveCourse 1694710
+AddCourse 2018556 3
+AddCourse 8922890 5
+RemoveCourse 8030163
+WatchClass 400592 0 6
+AddCourse 0 -1
+WatchClass 5272011 5 9
+GetMostViewedClasses 208
+WatchClass 236517 -3 1
+WatchClass 284622 18 3
+AddCourse 1163417 6
+AddCourse 2059024 12
+AddCourse -1 -1
+AddCourse 5342840 4
+AddCourse 3804656 6
+GetMostViewedClasses 2805
+AddCourse 547523 17
+AddCourse 6587869 18
+AddCourse 2031933 4
+GetMostViewedClasses 547
+RemoveCourse 3711120
+AddCourse 2999021 8
+AddCourse 7013573 14
+GetMostViewedClasses 806
+TimeViewed 7004922 4
+RemoveCourse 3631347
+RemoveCourse 5342840
+AddCourse 8336415 17
+RemoveCourse 1291379
+WatchClass 3680394 1 11
+AddCourse 9832718 3
+AddCourse 3432851 4
+AddCourse 6920752 19
+AddCourse 3354588 6
+RemoveCourse 9568722
+AddCourse 9261340 19
+WatchClass 6817371 0 3
+RemoveCourse 1470646
+WatchClass -1 -1 9
+RemoveCourse 990215
+RemoveCourse 6421521
+WatchClass 7552285 2 15
+GetMostViewedClasses 961
+AddCourse 5571653 6
+RemoveCourse 655
+RemoveCourse 7634511
+GetMostViewedClasses 826
+WatchClass 9261340 2 3
+TimeViewed 2200205 1
+RemoveCourse 7439652
+AddCourse 4054257 6
+RemoveCourse 7246846
+TimeViewed 7363675 2
+GetMostViewedClasses 1023
+WatchClass 4751360 0 15
+AddCourse 5333297 14
+WatchClass 5151817 11 14
+AddCourse 6577186 7
+AddCourse 30782 3
+GetMostViewedClasses 1957
+AddCourse 7809512 13
+RemoveCourse 2592670
+AddCourse 7533645 14
+AddCourse 1769671 19
+GetMostViewedClasses 2212
+AddCourse 9807169 18
+AddCourse 9332193 4
+AddCourse 7436723 14
+TimeViewed 6818837 1
+WatchClass 1718710 8 11
+AddCourse 7820913 4
+TimeViewed 6577186 2
+RemoveCourse 3612903
+RemoveCourse 4196746
+RemoveCourse 1769671
+GetMostViewedClasses 944
+AddCourse 881175 -2
+TimeViewed 136226 -2
+RemoveCourse 6849947
+AddCourse 8985332 5
+AddCourse 5401608 11
+WatchClass 23501 5 15
+TimeViewed 8405381 4
+AddCourse 8572020 5
+WatchClass 1108308 5 10
+AddCourse 8093475 10
+RemoveCourse 5003303
+AddCourse 289641 17
+AddCourse 1265208 2
+RemoveCourse 9934088
+TimeViewed 7574760 5
+AddCourse 591807 4
+AddCourse 5605284 11
+RemoveCourse 7063576
+WatchClass 5923072 8 15
+WatchClass 4113905 3 9
+GetMostViewedClasses 2330
+WatchClass 7424760 0 -1
+AddCourse 1718081 14
+WatchClass 8572020 4 9
+RemoveCourse 2714901
+AddCourse 9933246 19
+GetMostViewedClasses 2442
+TimeViewed 1487952 18
+AddCourse 0 11
+AddCourse 9094563 13
+AddCourse 7793535 12
+AddCourse 6885752 4
+GetMostViewedClasses 3291
+GetMostViewedClasses 573
+TimeViewed 1602090 3
+GetMostViewedClasses 1657
+AddCourse 4002720 3
+AddCourse 8926728 1
+WatchClass 5827832 7 11
+RemoveCourse 9640811
+AddCourse 9120993 8
+WatchClass 7455420 9 5
+TimeViewed 9035879 4
+AddCourse 5946600 3
+WatchClass 1163417 9 15
+WatchClass 4703349 15 13
+AddCourse 715982 10
+GetMostViewedClasses 1817
+GetMostViewedClasses 2084
+WatchClass 407133 2 19
+AddCourse 1709595 14
+AddCourse 2385765 9
+RemoveCourse 9094563
+WatchClass 1487952 4 -1
+AddCourse 5032647 1
+AddCourse 8410083 20
+AddCourse 3830490 13
+WatchClass 8086326 17 3
+WatchClass 2018556 1 15
+AddCourse 4591139 18
+AddCourse 8142889 3
+RemoveCourse 3193501
+RemoveCourse 6908931
+GetMostViewedClasses 3504
+TimeViewed 0 3
+AddCourse 9471885 6
+RemoveCourse 5771991
+AddCourse 2945141 12
+TimeViewed 7677454 17
+AddCourse 1265208 3
+AddCourse 1227250 18
+AddCourse 8255197 17
+GetMostViewedClasses 2577
+AddCourse 4191430 12
+AddCourse 1254808 11
+WatchClass 4476033 5 20
+WatchClass 369526 18 3
+RemoveCourse 1301543
+WatchClass 5944797 -1 14
+GetMostViewedClasses 89
+RemoveCourse 0
+RemoveCourse 1265208
+GetMostViewedClasses 2455
+GetMostViewedClasses 1587
+GetMostViewedClasses 166
+RemoveCourse 4073510
+TimeViewed 3607217 -1
+TimeViewed 1299647 -1
+AddCourse 1152638 6
+GetMostViewedClasses 2877
+GetMostViewedClasses 715
+GetMostViewedClasses 3559
+RemoveCourse 6156008
+AddCourse 5484482 15
+RemoveCourse 8329895
+AddCourse 1279962 18
+AddCourse 7767224 9
+TimeViewed 7219012 17
+WatchClass 9482216 13 5
+AddCourse 8941478 0
+GetMostViewedClasses 0
+WatchClass 230013 10 19
+AddCourse 1740791 6
+AddCourse 9681785 10
+WatchClass 8855268 13 6
+AddCourse 7148821 12
+AddCourse 2785289 18
+WatchClass 6472895 7 11
+WatchClass 5923072 3 9
+RemoveCourse 8086326
+AddCourse 5043493 11
+AddCourse 5738610 8
+TimeViewed 7363675 5
+AddCourse 2141748 5
+WatchClass 4652125 4 7
+AddCourse 6801367 12
+WatchClass 407133 0 8
+WatchClass 0 15 15
+AddCourse 3501386 0
+TimeViewed 8389727 20
+WatchClass 7330440 2 18
+AddCourse 23505 5
+RemoveCourse 0
+WatchClass 5208388 2 19
+TimeViewed 4193809 13
+TimeViewed 1630245 1
+TimeViewed 5277094 15
+RemoveCourse 5746749
+AddCourse 4501937 18
+AddCourse 9862194 1
+WatchClass 7694992 0 12
+AddCourse 8373145 9
+AddCourse 1271105 16
+AddCourse 809261 19
+WatchClass 9437971 10 18
+AddCourse 6701974 4
+AddCourse 9517337 13
+WatchClass 5586287 10 4
+AddCourse 7954072 11
+AddCourse 4458516 6
+AddCourse 3830490 7
+WatchClass 1122490 19 12
+AddCourse 2162701 16
+AddCourse 6394970 5
+AddCourse 695394 17
+GetMostViewedClasses 610
+WatchClass 1740791 8 1
+WatchClass 5946600 1 13
+AddCourse 7449945 11
+WatchClass 9143051 2 7
+TimeViewed 4028552 10
+WatchClass 3319403 3 7
+RemoveCourse 7983911
+AddCourse 839280 1
+AddCourse 1709595 -1
+RemoveCourse 5437788
+AddCourse 671420 17
+WatchClass 3830490 7 11
+RemoveCourse 7767224
+AddCourse 1404295 7
+AddCourse 1184010 19
+AddCourse 7054135 17
+TimeViewed 6396376 2
+GetMostViewedClasses 312
+WatchClass 188785 5 14
+WatchClass 7048388 6 4
+AddCourse 3475783 -2
+RemoveCourse 8503645
+TimeViewed 4120721 1
+AddCourse 4675742 5
+AddCourse 1636930 8
+AddCourse 4916955 18
+TimeViewed 7569394 0
+AddCourse 3299299 2
+TimeViewed 407133 2
+AddCourse 7514853 18
+AddCourse 275164 10
+AddCourse -1 15
+AddCourse 4025279 12
+AddCourse 2396204 2
+AddCourse 8908314 15
+WatchClass 1339980 25 15
+WatchClass 4054257 5 9
+TimeViewed 7133013 -1
+AddCourse 2282282 16
+WatchClass 8410083 17 1
+AddCourse 496916 4
+TimeViewed 9727129 3
+WatchClass 896398 2 19
+AddCourse 6733239 14
+GetMostViewedClasses 403
+AddCourse 1163417 9
+TimeViewed 1183300 12
+AddCourse 618352 3
+GetMostViewedClasses 1625
+AddCourse 8787210 0
+WatchClass 1134454 25 10
+AddCourse 547523 6
+RemoveCourse 30782
+AddCourse 1228548 12
+RemoveCourse 1183300
+WatchClass 8908314 9 9
+WatchClass 9251595 2 19
+TimeViewed 5189200 6
+GetMostViewedClasses 2152
+WatchClass 5763866 4 20
+TimeViewed 1152638 2
+GetMostViewedClasses 3214
+AddCourse 4787271 1
+AddCourse 6005723 20
+AddCourse 3296349 12
+AddCourse 9349244 1
+TimeViewed 7423626 1
+WatchClass 275164 3 5
+AddCourse 2809569 6
+GetMostViewedClasses 3930
+AddCourse 4318171 9
+WatchClass 6587869 8 12
+AddCourse 908835 4
+TimeViewed 4652125 6
+GetMostViewedClasses 256
+WatchClass 5343397 5 5
+AddCourse 7430964 2
+TimeViewed 3181529 0
+AddCourse 7756006 18
+AddCourse 7229171 2
+WatchClass 1388758 -2 9
+WatchClass 9111197 15 12
+TimeViewed 5189200 4
+AddCourse 3769711 18
+AddCourse 4474922 12
+AddCourse 8477825 12
+WatchClass 9909936 -2 2
+AddCourse 7691358 15
+WatchClass 3856216 7 16
+GetMostViewedClasses 598
+RemoveCourse 2106659
+WatchClass 5946600 1 4
+AddCourse 2800987 3
+AddCourse 4991057 15
+GetMostViewedClasses 2597
+AddCourse 8169058 13
+WatchClass 8572020 2 3
+WatchClass 1636930 1 8
+WatchClass 2146883 1 5
+AddCourse 4002720 0
+AddCourse 932804 16
+AddCourse 1207058 20
+AddCourse 269934 15
+RemoveCourse 1404295
+WatchClass 8018922 9 8
+TimeViewed 7600856 -1
+WatchClass 5151817 11 10
+AddCourse 4109907 6
+TimeViewed 4907505 1
+AddCourse 1246115 7
+AddCourse 8085119 17
+WatchClass 3830490 15 11
+RemoveCourse 8908314
+WatchClass 8734401 13 14
+AddCourse 1777232 9
+WatchClass 0 0 20
+WatchClass 8324087 -1 20
+AddCourse 1742497 2
+WatchClass 671420 12 6
+AddCourse 23501 12
+AddCourse 5923263 13
+RemoveCourse 6584318
+AddCourse 5181627 9
+AddCourse 6117488 8
+AddCourse 3713883 18
+AddCourse 7933217 3
+AddCourse 4328280 12
+AddCourse 7146584 14
+RemoveCourse 6897838
+GetMostViewedClasses 3775
+AddCourse 6184532 8
+AddCourse 0 -2
+WatchClass 9211137 1 17
+WatchClass 7002299 14 5
+RemoveCourse 8366780
+TimeViewed 1043427 1
+AddCourse 1871269 4
+AddCourse 8112587 -2
+WatchClass 4193809 8 17
+AddCourse 5199586 15
+AddCourse 9046565 3
+WatchClass 4953720 0 1
+RemoveCourse 7533645
+GetMostViewedClasses 4194
+GetMostViewedClasses 3830
+GetMostViewedClasses 1946
+TimeViewed 8410083 25
+AddCourse 7264245 1
+AddCourse 8817548 12
+RemoveCourse 3856216
+WatchClass 9829892 2 4
+RemoveCourse 9482216
+RemoveCourse 9111197
+AddCourse 255378 10
+WatchClass 4591139 3 1
+AddCourse 5552833 15
+WatchClass 719556 0 9
+RemoveCourse 1740791
+TimeViewed 8351925 3
+WatchClass 23505 1 16
+WatchClass 6196993 1 4
+AddCourse 6232908 18
+AddCourse 9726630 11
+AddCourse 1293726 15
+GetMostViewedClasses 977
+WatchClass 7120008 2 9
+WatchClass 7134597 0 19
+WatchClass 9862194 0 20
+AddCourse 3830490 5
+TimeViewed 719556 4
+RemoveCourse 5456508
+AddCourse 9882495 6
+TimeViewed 7574760 4
+AddCourse 5491275 18
+RemoveCourse 9369902
+WatchClass 4387851 0 10
+AddCourse 9242350 3
+TimeViewed 400592 -1
+GetMostViewedClasses 2670
+RemoveCourse 8093475
+AddCourse 7107555 5
+WatchClass 3143534 13 14
+AddCourse 4056068 7
+GetMostViewedClasses 2584
+AddCourse 6011044 19
+WatchClass 5110183 9 2
+TimeViewed 719556 4
+AddCourse 7750470 19
+GetMostViewedClasses 1187
+AddCourse 6974805 7
+TimeViewed 4584369 6
+AddCourse 1438302 1
+AddCourse 2090646 1
+WatchClass 715982 7 17
+WatchClass -1 0 16
+AddCourse 6735093 6
+WatchClass 7430964 1 7
+GetMostViewedClasses 4276
+AddCourse 4787271 -1
+RemoveCourse 4756170
+TimeViewed 9120993 2
+GetMostViewedClasses 4110
+AddCourse 2167993 9
+AddCourse 6387307 4
+WatchClass 8075900 1 16
+WatchClass 1718710 0 5
+RemoveCourse 400592
+GetMostViewedClasses 4308
+WatchClass 1981197 1 5
+WatchClass 3354588 1 4
+GetMostViewedClasses 4299
+AddCourse 5806979 2
+WatchClass 1698160 2 3
+AddCourse 3019842 8
+AddCourse 6764687 11
+AddCourse 4990418 18
+AddCourse 4542228 19
+AddCourse 5310693 19
+AddCourse 2025383 6
+AddCourse 8212504 9
+AddCourse 6211201 14
+WatchClass 321872 4 14
+AddCourse 8211843 19
+AddCourse 8628451 13
+WatchClass 289641 8 14
+AddCourse 8817749 2
+WatchClass 8083872 10 -1
+AddCourse 7110630 20
+TimeViewed -1 -1
+WatchClass 8102294 7 9
+AddCourse 5481117 7
+WatchClass 9287957 0 0
+TimeViewed 6085295 6
+RemoveCourse 9318398
+WatchClass 46435 1 0
+AddCourse 0 0
+RemoveCourse 6394970
+AddCourse 2144043 13
+WatchClass 8521216 1 15
+WatchClass 7674336 8 10
+AddCourse 2564700 18
+WatchClass 3143534 7 19
+AddCourse 8809707 13
+AddCourse 3415058 4
+AddCourse 5904779 13
+AddCourse 7245473 1
+GetMostViewedClasses 2522
+AddCourse -2 -1
+AddCourse 1622542 10
+AddCourse 2382675 15
+TimeViewed 4387851 1
+AddCourse 4097456 1
+AddCourse 7864186 14
+WatchClass 692341 17 2
+RemoveCourse 3651033
+WatchClass 1636930 -2 9
+AddCourse 2479680 7
+WatchClass 8206882 5 14
+GetMostViewedClasses 1526
+WatchClass 8336415 4 13
+RemoveCourse 578603
+AddCourse 5735185 15
+RemoveCourse 1777232
+AddCourse -1 -1
+WatchClass 7264245 0 14
+AddCourse 8069215 13
+RemoveCourse 7436723
+WatchClass 3713883 6 8
+AddCourse 8528312 14
+WatchClass 2025621 1 7
+AddCourse 7198190 6
+AddCourse 8669870 3
+WatchClass 6764687 -1 15
+RemoveCourse 1791672
+AddCourse 1410669 17
+AddCourse 0 19
+AddCourse 5576130 10
+TimeViewed 0 8
+AddCourse 3616838 18
+WatchClass 268257 13 1
+AddCourse 8128773 12
+AddCourse 2996746 19
+AddCourse 3315596 20
+AddCourse 4227668 18
+AddCourse 7696388 18
+RemoveCourse 303389
+AddCourse 7474374 11
+AddCourse 5722681 14
+WatchClass 304441 0 3
+TimeViewed 3918407 8
+WatchClass 2167993 3 5
+RemoveCourse 8336415
+AddCourse 430697 11
+WatchClass 5189200 5 17
+AddCourse 96396 18
+RemoveCourse 3264620
+AddCourse 9245639 4
+AddCourse 9692243 4
+WatchClass 0 -1 3
+GetMostViewedClasses 1280
+WatchClass 0 4 18
+AddCourse 8157537 19
+AddCourse 9799620 17
+TimeViewed 2025621 1
+WatchClass 496916 2 15
+WatchClass 9349244 0 8
+AddCourse 1510702 13
+TimeViewed 6587869 27
+AddCourse 327682 11
+RemoveCourse 7778294
+WatchClass 7134597 0 14
+TimeViewed 1294160 -1
+AddCourse 2196481 10
+WatchClass 8627284 15 19
+RemoveCourse 2162701
+GetMostViewedClasses 3457
+AddCourse 2844898 10
+WatchClass 6117488 4 19
+RemoveCourse 7750470
+AddCourse 3095576 6
+WatchClass 426292 3 11
+RemoveCourse 3964781
+TimeViewed 6396376 5
+RemoveCourse 7864186
+TimeViewed -2 15
+WatchClass 7047037 11 16
+GetMostViewedClasses 640
+RemoveCourse 3830490
+WatchClass 8521216 5 17
+AddCourse 536646 19
+RemoveCourse 3319403
+AddCourse 3411297 12
+WatchClass 9947941 6 2
+RemoveCourse 5586287
+AddCourse 0 0
+AddCourse 434343 8
+RemoveCourse 647779
+WatchClass 5763866 11 5
+WatchClass 2752881 8 15
+TimeViewed 4247233 5
+AddCourse 1602090 -2
+AddCourse 0 17
+AddCourse 5571653 -2
+GetMostViewedClasses 4448
+AddCourse 8610594 17
+AddCourse 1979527 15
+WatchClass 23505 2 7
+RemoveCourse 188785
+RemoveCourse 1122490
+WatchClass 4490239 7 19
+WatchClass 9659765 6 17
+GetMostViewedClasses 4705
+AddCourse 138875 16
+AddCourse 7033844 9
+WatchClass 1230207 4 11
+AddCourse 9014554 12
+RemoveCourse 2237439
+RemoveCourse 6085295
+GetMostViewedClasses 3374
+TimeViewed 7616238 0
+RemoveCourse 8809707
+WatchClass 7751553 -1 7
+WatchClass 6680083 0 3
+AddCourse 4629372 12
+WatchClass 1184010 14 18
+RemoveCourse 2996746
+AddCourse 4099671 8
+GetMostViewedClasses 1968
+TimeViewed 9287957 10
+TimeViewed 715982 9
+WatchClass 3616838 11 13
+RemoveCourse 9522
+AddCourse 5663072 -1
+GetMostViewedClasses 2074
+WatchClass 4675742 0 12
+WatchClass 5587051 5 4
+RemoveCourse 6684933
+AddCourse 9909874 17
+TimeViewed 9832718 2
+WatchClass 329550 16 10
+WatchClass 8373145 6 0
+AddCourse 4394055 12
+RemoveCourse 1698160
+AddCourse 9252072 18
+RemoveCourse 23501
+RemoveCourse 7030168
+WatchClass 2812000 4 7
+TimeViewed 9389900 0
+WatchClass 6817371 14 13
+WatchClass 1636930 7 3
+AddCourse 5310693 3
+AddCourse 908835 2
+GetMostViewedClasses 4348
+AddCourse 6140619 18
+AddCourse 7066869 5
+WatchClass 0 4 13
+TimeViewed 5478602 1
+AddCourse 1725604 19
+TimeViewed 0 0
+WatchClass 4652125 3 12
+WatchClass 6764687 5 15
+AddCourse 4528698 5
+RemoveCourse 6211201
+AddCourse 5538753 14
+GetMostViewedClasses 4763
+AddCourse 3763308 11
+GetMostViewedClasses 2019
+AddCourse 1093517 15
+AddCourse 4698305 8
+RemoveCourse 5484482
+AddCourse 9373644 20
+RemoveCourse 8212504
+WatchClass -2 8 11
+AddCourse 8859003 2
+WatchClass 0 -1 7
+TimeViewed 7809512 8
+AddCourse 349978 7
+GetMostViewedClasses 2291
+AddCourse 9294299 6
+WatchClass 4490239 1 15
+RemoveCourse 3992367
+TimeViewed 9261340 2
+AddCourse 4047869 2
+AddCourse 5196282 4
+TimeViewed 6162244 1
+AddCourse 5280363 2
+TimeViewed 5280363 0
+AddCourse -1 0
+RemoveCourse 8477825
+AddCourse 8169058 20
+RemoveCourse 2025621
+AddCourse 140916 9
+AddCourse 549386 17
+RemoveCourse 7694283
+AddCourse 2064571 4
+TimeViewed 8859003 0
+WatchClass 7756006 13 1
+GetMostViewedClasses 4833
+WatchClass 2385765 1 0
+WatchClass 4113905 0 19
+GetMostViewedClasses 2822
+RemoveCourse 5763866
+AddCourse 3703276 9
+WatchClass 6606447 10 14
+RemoveCourse 547523
+TimeViewed 5343397 5
+AddCourse 8405381 2
+WatchClass 6011044 6 11
+WatchClass 8069226 -2 4
+GetMostViewedClasses 121
+WatchClass 4136332 1 11
+AddCourse 2749224 15
+GetMostViewedClasses 0
+AddCourse 2166279 13
+AddCourse 5253803 17
+WatchClass 1622542 6 9
+AddCourse 1572424 9
+AddCourse 4773693 12
+AddCourse 2448832 11
+WatchClass 3759843 8 5
+AddCourse 4414473 1
+RemoveCourse 4002720
+AddCourse 7535291 6
+TimeViewed 3418465 7
+WatchClass 739165 2 13
+AddCourse 6561163 17
+WatchClass 1279962 17 19
+AddCourse 8701688 18
+WatchClass 2809569 0 18
+WatchClass 1213335 0 10
+AddCourse 4877765 17
+TimeViewed 7107555 2
+AddCourse 1314480 12
+TimeViewed 8863502 1
+GetMostViewedClasses 317
+AddCourse 3008432 8
+AddCourse 8723940 20
+GetMostViewedClasses 448
+WatchClass 275164 1 11
+WatchClass 9807169 15 17
+TimeViewed 8863502 11
+AddCourse 5886911 7
+TimeViewed 8034129 17
+TimeViewed 5886911 2
+AddCourse 5822828 18
+AddCourse 5468277 6
+WatchClass 7455420 13 19
+AddCourse 6700010 20
+AddCourse 2129047 9
+WatchClass 3019842 7 8
+AddCourse 8867099 18
+AddCourse 7404711 3
+RemoveCourse 1394530
+AddCourse 1474113 8
+RemoveCourse 5032647
+WatchClass 9993603 13 15
+WatchClass 5869513 3 8
+AddCourse 2587863 8
+WatchClass 8040533 -2 16
+TimeViewed 4953720 0
+WatchClass 797883 0 13
+AddCourse 7508469 8
+WatchClass 5626868 -3 12
+WatchClass 4113905 13 7
+AddCourse 5336891 16
+WatchClass 7694992 1 18
+WatchClass 2999021 6 19
+RemoveCourse 6519667
+WatchClass 7616238 7 12
+WatchClass 243731 3 16
+WatchClass 9765939 7 9
+RemoveCourse 2945141
+WatchClass 0 -1 5
+RemoveCourse 647680
+WatchClass 5043493 5 2
+AddCourse 9681785 10
+TimeViewed 4387851 9
+AddCourse 8723367 13
+RemoveCourse 2116088
+AddCourse 125098 19
+RemoveCourse 9431950
+AddCourse 279234 6
+AddCourse 9614883 6
+RemoveCourse 5667852
+AddCourse 0 14
+AddCourse 4552252 6
+AddCourse 1028416 13
+WatchClass 2785289 17 14
+AddCourse 5735185 14
+TimeViewed 3008432 4
+AddCourse 9575819 11
+AddCourse 4019942 17
+GetMostViewedClasses 4945
+RemoveCourse 5468277
+WatchClass 7694992 0 4
+AddCourse 6555815 2
+WatchClass 2749224 3 14
+WatchClass 7134597 0 17
+WatchClass 8329709 5 13
+WatchClass 7545897 1 18
+AddCourse 4148429 14
+AddCourse 4712380 1
+TimeViewed 7823845 4
+AddCourse 2447599 15
+AddCourse 6632366 3
+WatchClass 4712380 0 10
+AddCourse 0 5
+AddCourse 3930966 11
+AddCourse 3853973 6
+AddCourse 8064680 3
+WatchClass 2325458 14 17
+AddCourse 1272028 19
+GetMostViewedClasses 5217
+AddCourse 4236439 19
+AddCourse 4005751 19
+AddCourse 1796631 15
+AddCourse 803162 13
+GetMostViewedClasses -1
+GetMostViewedClasses 841
+TimeViewed 999146 10
+AddCourse 1815941 18
+RemoveCourse 1197556
+GetMostViewedClasses 2859
+RemoveCourse 7529141
+AddCourse 3672382 16
+AddCourse 1864591 6
+RemoveCourse 6102467
+TimeViewed 7054135 4
+WatchClass 5343397 3 1
+GetMostViewedClasses 1853
+AddCourse 2275601 19
+AddCourse 6754349 9
+WatchClass 6396376 16 18
+WatchClass 5738610 5 4
+WatchClass 300950 3 1
+WatchClass 6764687 7 12
+AddCourse 2460015 3
+AddCourse 7967829 3
+WatchClass 7229171 1 14
+AddCourse 2841012 9
+AddCourse 1648952 4
+TimeViewed 9495305 15
+WatchClass 275164 2 9
+WatchClass 327682 5 10
+RemoveCourse 2243983
+WatchClass 9035879 1 1
+RemoveCourse 4991057
+TimeViewed 7696388 7
+WatchClass 23206 12 9
+WatchClass 5571653 4 12
+AddCourse 7464025 19
+AddCourse 3930966 1
+WatchClass 9986412 -1 17
+AddCourse 2562983 10
+GetMostViewedClasses 4671
+TimeViewed 6358020 3
+TimeViewed 7106847 11
+GetMostViewedClasses -1
+AddCourse 32492 2
+AddCourse 8939021 10
+AddCourse 3697150 5
+GetMostViewedClasses 5354
+AddCourse 0 19
+WatchClass 6920752 0 11
+AddCourse 2892033 3
+WatchClass 5822828 0 17
+TimeViewed 7535291 1
+RemoveCourse 8262904
+TimeViewed 2158322 7
+AddCourse 3640900 4
+TimeViewed 5806979 1
+RemoveCourse 7361267
+WatchClass 4109907 4 5
+RemoveCourse 7120008
+AddCourse 764996 11
+TimeViewed 1213335 0
+AddCourse 8406508 19
+AddCourse 8324087 -1
+RemoveCourse 4011336
+AddCourse 9809984 3
+RemoveCourse 3672382
+RemoveCourse 1254808
+AddCourse 3228407 11
+WatchClass 9337833 1 1
+RemoveCourse 2699122
+RemoveCourse 7218281
+RemoveCourse 2226337
+AddCourse 1260713 7
+AddCourse 7864229 9
+AddCourse 5562591 6
+AddCourse 7365449 11
+RemoveCourse 5333297
+AddCourse 294953 3
+AddCourse 4355238 8
+TimeViewed -1 4
+TimeViewed -1 8
+AddCourse -1 5
+AddCourse 1715803 12
+RemoveCourse 7148821
+AddCourse 2217063 15
+AddCourse 4448597 16
+GetMostViewedClasses 1269
+AddCourse 2970367 5
+AddCourse 291583 18
+WatchClass 4019942 2 14
+GetMostViewedClasses 4621
+AddCourse 5786313 5
+GetMostViewedClasses 3105
+AddCourse 8719815 1
+AddCourse 6630013 9
+TimeViewed 3475783 0
+GetMostViewedClasses 3301
+AddCourse 6811970 2
+RemoveCourse 289641
+AddCourse 7512339 5
+WatchClass 9259790 0 13
+TimeViewed 4028552 7
+AddCourse -2 18
+WatchClass 6077164 11 16
+AddCourse 440303 15
+GetMostViewedClasses 2508
+AddCourse 6183245 16
+AddCourse 2523702 13
+AddCourse 329130 -1
+AddCourse 8394853 10
+WatchClass 3411297 11 19
+WatchClass 2094139 17 2
+TimeViewed 6561163 8
+WatchClass 9120993 6 1
+AddCourse 6961600 17
+GetMostViewedClasses 2678
+GetMostViewedClasses 4336
+AddCourse 8915743 17
+WatchClass -2 0 20
+AddCourse 835965 10
+TimeViewed 6162244 1
+GetMostViewedClasses -2
+AddCourse 2213865 4
+WatchClass 2167993 2 -2
+AddCourse 8739220 11
+TimeViewed 3475783 5
+WatchClass 8680233 1 -2
+AddCourse 3195555 9
+GetMostViewedClasses 246
+AddCourse 6768481 14
+WatchClass 8085119 8 3
+AddCourse 45112 6
+AddCourse 2928414 7
+AddCourse 996380 10
+AddCourse 4891175 -1
+AddCourse 8029184 8
+AddCourse 1328917 7
+RemoveCourse 1228548
+WatchClass 9727129 9 2
+RemoveCourse 7954072
+RemoveCourse 8157537
+AddCourse 9705168 10
+AddCourse 9645488 14
+AddCourse 453799 3
+TimeViewed 536646 2
+TimeViewed 305253 6
+RemoveCourse 6184532
+WatchClass 835965 8 6
+RemoveCourse 7423626
+WatchClass 695394 15 5
+GetMostViewedClasses 5539
+AddCourse 4756288 5
+RemoveCourse 6315517
+AddCourse 3300875 13
+WatchClass 46435 3 9
+TimeViewed 4181649 4
+AddCourse 7432569 13
+AddCourse 8378831 20
+AddCourse 6662053 11
+AddCourse 3691550 20
+WatchClass 2017101 16 5
+RemoveCourse 6811970
+GetMostViewedClasses 1375
+TimeViewed 549386 14
+WatchClass 9495305 -1 10
+RemoveCourse 8405381
+WatchClass 430697 4 17
+WatchClass 1438302 0 13
+RemoveCourse 4193809
+TimeViewed 2965407 0
+TimeViewed 7365449 1
+TimeViewed 9862194 0
+RemoveCourse 8026994
+RemoveCourse 9120993
+WatchClass 8719815 2 15
+AddCourse 7416472 5
+AddCourse 1156218 -1
+WatchClass 7674336 1 3
+TimeViewed 6517444 3
+AddCourse -1 19
+WatchClass 138875 9 5
+WatchClass 1979527 -3 18
+TimeViewed 6817371 2
+AddCourse 492616 12
+RemoveCourse 4054257
+RemoveCourse 6232908
+RemoveCourse 5738610
+GetMostViewedClasses 0
+WatchClass 8859003 1 15
+AddCourse 8238800 10
+AddCourse 6398545 15
+AddCourse 5207441 6
+AddCourse 8287846 12
+GetMostViewedClasses -2
+WatchClass 1410669 8 14
+RemoveCourse 4414473
+AddCourse 3025387 13
+AddCourse 6029375 4
+AddCourse 6735440 20
+GetMostViewedClasses 2976
+WatchClass 230013 10 5
+AddCourse 2570361 0
+TimeViewed 8817548 2
+WatchClass 8915743 11 13
+AddCourse 586588 3
+WatchClass 5478602 1 9
+AddCourse 1595807 2
+TimeViewed 9726630 5
+WatchClass 5722681 15 4
+WatchClass 4787271 10 2
+WatchClass 9014554 11 16
+GetMostViewedClasses 867
+RemoveCourse 1293726
+WatchClass 255378 1 4
+AddCourse 5837824 3
+AddCourse 2355136 14
+WatchClass 8160192 -1 19
+RemoveCourse 8169058
+GetMostViewedClasses 1800
+AddCourse 5437545 11
+RemoveCourse 2802934
+AddCourse 5396613 0
+AddCourse 9575819 17
+RemoveCourse 4047869
+WatchClass 2158322 1 1
+AddCourse 711675 17
+RemoveCourse 7933217
+GetMostViewedClasses 4801
+RemoveCourse 3143534
+AddCourse 6600800 3
+WatchClass 2447599 9 19
+RemoveCourse 5110183
+WatchClass 6817371 3 2
+WatchClass 2892033 1 11
+TimeViewed 8766294 23
+WatchClass 4207113 1 10
+RemoveCourse 2523702
+TimeViewed 839280 0
+WatchClass 4019942 11 3
+RemoveCourse 1152638
+GetMostViewedClasses 4134
+WatchClass 4207113 1 5
+WatchClass 0 0 8
+AddCourse 8177643 13
+AddCourse 363203 14
+AddCourse 5168062 13
+WatchClass 8680233 3 19
+WatchClass 9647630 10 20
+AddCourse 5207157 4
+WatchClass 5207441 0 12
+WatchClass 6052664 12 7
+WatchClass 7793535 3 6
+AddCourse -1 -1
+TimeViewed 2928414 9
+AddCourse 0 14
+AddCourse 8493984 6
+AddCourse 6621521 13
+WatchClass 591807 2 5
+AddCourse 644250 18
+RemoveCourse 6005723
+AddCourse 8985332 10
+AddCourse 3542233 12
+WatchClass 9245639 1 15
+TimeViewed 6011044 12
+AddCourse 5930012 15
+AddCourse 7180888 8
+AddCourse -1 0
+TimeViewed 1622542 4
+RemoveCourse 6974805
+RemoveCourse 3763308
+WatchClass 3228407 -2 18
+GetMostViewedClasses 1184
+RemoveCourse 8819975
+TimeViewed 2494747 6
+AddCourse 8911720 7
+WatchClass 4907505 7 3
+WatchClass 3321306 7 17
+AddCourse 0 -1
+WatchClass 6683703 0 2
+AddCourse 4641983 14
+AddCourse 975409 11
+RemoveCourse 9287957
+AddCourse 8561233 9
+WatchClass 4756288 2 9
+AddCourse 839280 -2
+RemoveCourse 6561163
+WatchClass 9647630 7 16
+GetMostViewedClasses 216
+AddCourse 3357157 20
+RemoveCourse 9799620
+WatchClass 9227379 -1 16
+WatchClass 5904779 1 3
+GetMostViewedClasses 2184
+AddCourse 8993737 20
+WatchClass 9852044 9 6
+RemoveCourse 8394853
+WatchClass 9211137 1 8
+TimeViewed 5886911 0
+AddCourse 8584453 4
+WatchClass -2 20 15
+TimeViewed 7756006 6
+AddCourse 267208 3
+AddCourse 4799667 11
+RemoveCourse 4097456
+AddCourse 946912 16
+WatchClass 4698305 2 12
+AddCourse 4879806 4
+GetMostViewedClasses 764
+AddCourse 9492326 5
+AddCourse 335117 18
+GetMostViewedClasses 994
+AddCourse 6357459 10
+RemoveCourse 6850789
+RemoveCourse 5348906
+AddCourse 2644973 16
+WatchClass 4629372 6 11
+RemoveCourse 1796631
+RemoveCourse 8766294
+GetMostViewedClasses 4925
+GetMostViewedClasses 5713
+GetMostViewedClasses 5488
+AddCourse 1417857 19
+AddCourse 5748024 19
+WatchClass 7430964 1 11
+AddCourse 8578956 18
+WatchClass -1 18 17
+AddCourse 3664622 17
+RemoveCourse 6357459
+AddCourse 6179264 6
+AddCourse 547985 1
+RemoveCourse 9726630
+WatchClass 4113905 5 13
+WatchClass 2517616 9 5
+AddCourse 6621078 -1
+WatchClass -2 -1 18
+AddCourse 6184444 15
+AddCourse 1458265 14
+AddCourse 8395469 1
+AddCourse 8021656 14
+AddCourse 8387836 3
+AddCourse 2999689 5
+AddCourse 1574394 13
+WatchClass 7864229 5 6
+RemoveCourse -2
+WatchClass 9809984 1 6
+RemoveCourse 695394
+AddCourse 7768362 9
+WatchClass 9546422 0 0
+RemoveCourse 3332500
+AddCourse 2219083 12
+AddCourse 8042522 16
+AddCourse 6124767 9
+AddCourse 526155 10
+TimeViewed 5786313 1
+AddCourse 6840186 3
+AddCourse 4909308 1
+WatchClass 9913723 6 11
+WatchClass 369526 6 5
+GetMostViewedClasses 4651
+AddCourse 6800464 9
+AddCourse 7365449 0
+WatchClass 4136332 2 7
+AddCourse 2047030 20
+AddCourse 2556322 8
+AddCourse 8782156 6
+TimeViewed 1871269 1
+WatchClass 7006674 6 10
+AddCourse 3961 7
+AddCourse 6366621 17
+WatchClass 5837824 4 1
+AddCourse 1314839 20
+AddCourse 7515889 20
+TimeViewed 8867099 17
+RemoveCourse 1718710
+TimeViewed 8278932 2
+AddCourse 1456402 7
+AddCourse 4897982 2
+AddCourse 9064619 16
+TimeViewed 5296303 1
+RemoveCourse 279234
+WatchClass 300950 10 12
+RemoveCourse 4591139
+WatchClass 0 0 1
+AddCourse 2922895 4
+AddCourse 2572777 4
+GetMostViewedClasses 3372
+WatchClass 8584453 3 10
+AddCourse 3500165 10
+AddCourse 9244144 3
+WatchClass 4897982 0 7
+TimeViewed 2355136 3
+AddCourse 2150405 4
+TimeViewed 5199586 8
+AddCourse 8254265 1
+AddCourse 8453413 9
+RemoveCourse 1474113
+TimeViewed 8021656 16
+RemoveCourse 5923072
+RemoveCourse 9337833
+RemoveCourse -2
+TimeViewed 902127 -3
+AddCourse 7508469 -2
+AddCourse 4836329 17
+AddCourse 0 13
+WatchClass 8351925 5 1
+RemoveCourse 7404711
+AddCourse 7152238 12
+AddCourse 4848384 1
+WatchClass 6801367 4 5
+AddCourse 4207395 2
+AddCourse 9960860 7
+GetMostViewedClasses 3288
+WatchClass 269052 6 8
+WatchClass 8521216 3 6
+RemoveCourse 2129047
+WatchClass -2 0 5
+AddCourse 851585 0
+RemoveCourse 5168062
+WatchClass 2999021 7 17
+RemoveCourse 3285815
+AddCourse 5996821 8
+TimeViewed 8072885 4
+WatchClass 2397053 17 6
+AddCourse 7217369 1
+RemoveCourse 6084049
+AddCourse 6779186 15
+WatchClass 5189200 0 11
+AddCourse 3320943 9
+RemoveCourse 7430964
+TimeViewed 2355136 7
+WatchClass 1458265 6 19
+AddCourse 2879568 10
+AddCourse 7210596 6
+WatchClass 255378 2 15
+WatchClass 5587051 11 7
+WatchClass 4080050 14 7
+WatchClass 6387307 0 13
+WatchClass 1207058 1 10
+WatchClass 4387851 1 9
+WatchClass 4641983 9 14
+RemoveCourse 6840186
+WatchClass 1709595 8 9
+WatchClass 4474922 6 3
+TimeViewed -2 -1
+AddCourse 7935673 1
+AddCourse 4453710 11
+WatchClass 3664622 19 9
+WatchClass 8085119 0 4
+WatchClass 1401224 17 13
+RemoveCourse 5336891
+AddCourse 3412283 2
+TimeViewed 9349244 0
+AddCourse 8569508 11
+AddCourse 4165888 20
+WatchClass 4019942 8 6
+TimeViewed 138875 5
+RemoveCourse 327682
+WatchClass 2833722 2 4
+AddCourse 5517431 14
+WatchClass 6517444 18 11
+WatchClass 1093517 25 18
+AddCourse 1985017 11
+AddCourse 2633686 8
+AddCourse 3421425 18
+TimeViewed 4371329 12
+AddCourse 3177946 3
+AddCourse 2718167 1
+GetMostViewedClasses 1498
+WatchClass 1979527 12 11
+GetMostViewedClasses 1257
+AddCourse 8898862 1
+AddCourse 6727580 3
+TimeViewed 547985 0
+AddCourse 371428 16
+AddCourse 8927525 20
+WatchClass 8378831 15 18
+WatchClass 4584369 13 8
+AddCourse 2739106 10
+TimeViewed 453799 1
+AddCourse 3144427 8
+AddCourse 8419887 12
+WatchClass 6817371 4 18
+AddCourse 6998640 18
+TimeViewed 0 -1
+WatchClass 1864591 2 7
+GetMostViewedClasses 6191
+WatchClass 5145881 0 16
+AddCourse 1378151 3
+AddCourse 1781514 10
+AddCourse 6536262 6
+AddCourse 7024066 19
+RemoveCourse 4099671
+RemoveCourse 2382675
+TimeViewed 2841012 5
+AddCourse 4014872 5
+RemoveCourse 7415137
+AddCourse 2965936 8
+WatchClass 3296349 9 3
+AddCourse 6596153 9
+AddCourse 5359470 10
+GetMostViewedClasses 1262
+WatchClass 2922895 1 17
+AddCourse 9459933 2
+WatchClass 9705168 19 15
+AddCourse 2044840 10
+AddCourse 4777710 6
+RemoveCourse 7455420
+AddCourse 9455854 8
+AddCourse 4214288 14
+AddCourse 9974195 3
+AddCourse 2892270 16
+AddCourse 1663420 6
+WatchClass 4953720 0 10
+TimeViewed 5491275 5
+AddCourse 9493784 5
+RemoveCourse 2809569
+AddCourse 2906782 14
+GetMostViewedClasses 3883
+WatchClass 8719815 0 8
+AddCourse 5481117 2
+GetMostViewedClasses 4151
+WatchClass 8610594 8 10
+WatchClass 4942392 13 20
+AddCourse 7367623 8
+AddCourse 7570830 14
+GetMostViewedClasses 387
+GetMostViewedClasses -2
+WatchClass 7514853 15 12
+WatchClass 1715803 9 1
+AddCourse 3114773 7
+WatchClass 9670006 19 6
+TimeViewed 3680394 5
+RemoveCourse 7508469
+TimeViewed 5481818 -3
+TimeViewed 4025279 6
+TimeViewed 2200205 1
+WatchClass 434343 6 20
+TimeViewed 4798520 -1
+RemoveCourse 1725604
+AddCourse 4687907 3
+TimeViewed 4675742 7
+AddCourse 4237927 17
+RemoveCourse 305253
+WatchClass 6885752 0 14
+WatchClass 125098 15 5
+AddCourse 881944 16
+AddCourse 9453935 5
+TimeViewed 1410669 5
+TimeViewed 46435 0
+AddCourse 770856 5
+TimeViewed 3853973 4
+WatchClass 9206076 9 9
+AddCourse 6595135 1
+RemoveCourse 1718081
+GetMostViewedClasses 3145
+AddCourse 5552833 8
+AddCourse 8473280 17
+AddCourse 2747940 10
+TimeViewed 809261 13
+AddCourse 7827042 11
+RemoveCourse 549386
+WatchClass 2494747 15 4
+AddCourse 5494918 7
+RemoveCourse 7474374
+RemoveCourse 7363675
+AddCourse 766566 1
+AddCourse 3554473 -1
+WatchClass 766566 0 15
+WatchClass 8473280 9 4
+WatchClass 4394055 5 16
+WatchClass 4236439 1 11
+GetMostViewedClasses 3640
+RemoveCourse 4328280
+AddCourse 932804 0
+WatchClass 6196993 10 20
+RemoveCourse 6438753
+WatchClass 1979527 1 17
+AddCourse 7535134 16
+AddCourse 4236439 20
+AddCourse 1425819 9
+GetMostViewedClasses 5053
+WatchClass 549365 0 3
+AddCourse -2 -1
+TimeViewed 8572020 4
+AddCourse 695912 15
+RemoveCourse 5946600
+AddCourse 1297022 17
+GetMostViewedClasses 1143
+AddCourse 8211867 1
+AddCourse 5207780 14
+AddCourse 4166496 19
+AddCourse 4252544 10
+RemoveCourse 9705168
+AddCourse 875406 17
+RemoveCourse 9033327
+TimeViewed 5189200 0
+RemoveCourse 7365449
+AddCourse 8993737 19
+AddCourse 4773665 18
+RemoveCourse 3542233
+AddCourse 242009 3
+TimeViewed 5401608 1
+WatchClass -2 -2 3
+AddCourse 3337401 13
+RemoveCourse 2108612
+WatchClass 3713883 4 9
+GetMostViewedClasses 3719
+AddCourse 9453935 9
+WatchClass 242009 0 13
+AddCourse 1174128 1
+RemoveCourse 2282282
+GetMostViewedClasses 4089
+WatchClass 8387836 1 20
+AddCourse 8723940 6
+AddCourse 3068201 16
+WatchClass 388281 12 11
+TimeViewed 202218 1
+GetMostViewedClasses 2443
+WatchClass 1709595 2 2
+GetMostViewedClasses 3643
+AddCourse 8085119 -1
+AddCourse 640928 17
+RemoveCourse 803162
+AddCourse 6166380 12
+GetMostViewedClasses 2510
+RemoveCourse 7013573
+RemoveCourse 8528312
+RemoveCourse 3296349
+TimeViewed 1709595 10
+WatchClass 4079825 5 17
+WatchClass 8083872 4 20
+AddCourse 3361912 16
+RemoveCourse 4191430
+AddCourse 8373145 0
+TimeViewed 4678648 2
+RemoveCourse 9389900
+AddCourse 5088955 12
+RemoveCourse 7691358
+AddCourse 1691280 19
+WatchClass 6630013 12 16
+TimeViewed 5849838 4
+RemoveCourse 719556
+RemoveCourse 4528698
+AddCourse 9083830 1
+GetMostViewedClasses 3653
+RemoveCourse 3703276
+RemoveCourse 2494747
+WatchClass 8898862 0 5
+WatchClass 6680083 1 11
+AddCourse 2840870 10
+TimeViewed 4490239 12
+AddCourse 8945691 2
+AddCourse 3601564 12
+RemoveCourse 2196481
+AddCourse 5455754 11
+WatchClass 924543 12 4
+AddCourse 5990897 8
+RemoveCourse 1174128
+WatchClass 9692243 2 1
+RemoveCourse 2965936
+RemoveCourse 8451385
+RemoveCourse 5735185
+WatchClass 9546422 0 2
+WatchClass 2542867 20 14
+AddCourse 2256604 17
+AddCourse 8462775 16
+GetMostViewedClasses 3241
+AddCourse 4514719 5
+WatchClass -2 8 7
+TimeViewed 7574760 3
+GetMostViewedClasses 3320
+RemoveCourse 8255197
+GetMostViewedClasses 2940
+WatchClass 5198016 -1 9
+RemoveCourse 2018556
+WatchClass 6517444 5 6
+RemoveCourse 8064596
+WatchClass 7552285 1 9
+AddCourse 579334 17
+AddCourse 0 19
+GetMostViewedClasses 5317
+AddCourse 1944417 4
+RemoveCourse 3601564
+TimeViewed 2453910 12
+GetMostViewedClasses 3875
+TimeViewed 8669870 1
+GetMostViewedClasses 5287
+AddCourse 7360758 4
+AddCourse 5238483 12
+WatchClass 2044840 6 9
+AddCourse 7184365 5
+AddCourse 3778173 10
+WatchClass 4388315 11 8
+AddCourse 9769877 15
+AddCourse 8107277 1
+GetMostViewedClasses 2936
+WatchClass 8590743 -1 8
+TimeViewed 8719815 0
+WatchClass 2999021 6 17
+AddCourse 6026686 2
+AddCourse 5940639 14
+TimeViewed 1297022 12
+AddCourse 5588065 4
+AddCourse 5816943 17
+WatchClass 4222258 -2 4
+GetMostViewedClasses 3386
+AddCourse 4951981 3
+WatchClass 8329709 0 9
+AddCourse 27932 9
+WatchClass 6621078 1 8
+AddCourse 7311856 11
+TimeViewed 8734401 8
+WatchClass 9484599 1 19
+RemoveCourse 9912205
+GetMostViewedClasses 3512
+GetMostViewedClasses 1079
+AddCourse 1041376 17
+AddCourse 8831389 10
+AddCourse 4742828 1
+WatchClass 6997370 6 17
+WatchClass 975409 8 15
+GetMostViewedClasses 5445
+RemoveCourse 9459933
+RemoveCourse 4387851
+RemoveCourse 9933246
+AddCourse 4934006 17
+AddCourse 7694992 10
+WatchClass 2564700 10 16
+TimeViewed 2355136 1
+GetMostViewedClasses 2598
+GetMostViewedClasses 535
+AddCourse 9240087 14
+AddCourse 8393054 10
+AddCourse 2572075 7
+AddCourse 8068396 6
+AddCourse 6162545 1
+AddCourse 4737589 9
+WatchClass 3695842 11 13
+WatchClass 2999021 1 6
+AddCourse 1801221 20
+AddCourse 6434307 9
+AddCourse 7503367 17
+WatchClass 2633686 5 11
+AddCourse 1602958 20
+TimeViewed 4054778 4
+RemoveCourse 6662053
+AddCourse 8442070 4
+AddCourse 6961106 15
+GetMostViewedClasses 2954
+TimeViewed 255378 2
+GetMostViewedClasses 942
+GetMostViewedClasses 4178
+WatchClass 6011044 9 10
+WatchClass 7229171 1 16
+GetMostViewedClasses 6461
+TimeViewed 8985332 4
+RemoveCourse 0
+GetMostViewedClasses 6592
+AddCourse 6450519 2
+WatchClass 5207441 4 8
+AddCourse 9779075 16
+TimeViewed 4805208 -3
+RemoveCourse 4514719
+AddCourse 8102294 -2
+GetMostViewedClasses 6520
+GetMostViewedClasses 0
+WatchClass 7696388 2 16
+AddCourse 4784015 19
+WatchClass 6396376 4 6
+AddCourse 6011044 5
+GetMostViewedClasses 4196
+AddCourse 2433643 8
+WatchClass 7245473 0 20
+AddCourse 7036225 13
+TimeViewed 7432569 2
+AddCourse 8333604 9
+WatchClass 304441 4 5
+AddCourse 1247446 10
+GetMostViewedClasses 82
+TimeViewed 2385765 4
+AddCourse 8622541 18
+RemoveCourse 5990897
+AddCourse 2672869 17
+GetMostViewedClasses 2879
+AddCourse 717970 20
+WatchClass 3144427 5 6
+AddCourse 1566302 -2
+GetMostViewedClasses 5859
+AddCourse 2980727 18
+AddCourse 3825952 19
+AddCourse 464903 5
+RemoveCourse 4056068
+WatchClass 1800772 7 10
+GetMostViewedClasses 2624
+GetMostViewedClasses 4383
+GetMostViewedClasses 5318
+AddCourse 2162282 15
+GetMostViewedClasses 1771
+WatchClass 8723367 9 5
+GetMostViewedClasses 964
+WatchClass 9121786 7 14
+AddCourse 8378600 10
+GetMostViewedClasses 2421
+AddCourse 7166596 12
+AddCourse 4215708 11
+AddCourse 2673606 19
+GetMostViewedClasses 4022
+GetMostViewedClasses 1286
+GetMostViewedClasses 1502
+TimeViewed 5359470 0
+AddCourse 1215177 3
+WatchClass 2965407 4 14
+AddCourse 2590396 3
+WatchClass 6783984 0 17
+AddCourse 4741102 19
+TimeViewed 3195555 8
+AddCourse 1890062 3
+AddCourse 5983975 15
+AddCourse 4073669 20
+AddCourse 1417346 7
+AddCourse 4730782 1
+TimeViewed 3181529 1
+WatchClass 5478602 0 11
+RemoveCourse 0
+GetMostViewedClasses 4163
+WatchClass 9143051 1 19
+RemoveCourse 5437545
+AddCourse 5354116 9
+AddCourse 8305003 9
+AddCourse 9169234 10
+AddCourse 9891567 1
+RemoveCourse 6961106
+TimeViewed 1663420 5
+RemoveCourse 9244925
+AddCourse 1178280 5
+GetMostViewedClasses 0
+RemoveCourse 3664622
+RemoveCourse 7864229
+RemoveCourse 5562591
+TimeViewed 294953 0
+AddCourse 779822 5
+WatchClass 8085119 15 10
+AddCourse 4980645 15
+AddCourse 9658865 10
+AddCourse 1335773 18
+WatchClass 9829892 13 11
+WatchClass 3759843 2 12
+WatchClass 7134597 0 -1
+AddCourse 2437409 12
+AddCourse 6483603 16
+WatchClass 4028552 0 19
+AddCourse 7932903 -2
+TimeViewed 8926728 0
+TimeViewed 9294299 2
+AddCourse 3698709 3
+WatchClass 8985332 2 5
+WatchClass 2844898 4 12
+AddCourse 828093 17
+WatchClass 8072885 11 19
+AddCourse 61538 14
+GetMostViewedClasses 627
+AddCourse 5707375 10
+AddCourse 9114044 18
+AddCourse 4973429 20
+AddCourse 5545019 11
+RemoveCourse 6768481
+WatchClass 5088955 1 2
+RemoveCourse 2437409
+WatchClass 6621521 5 19
+AddCourse -2 0
+AddCourse 9476154 12
+AddCourse 4621950 13
+WatchClass 3321306 2 8
+AddCourse 9539062 20
+AddCourse 2367359 20
+WatchClass 8993737 8 8
+AddCourse 3300875 8
+RemoveCourse 3068201
+AddCourse 1272028 15
+RemoveCourse 3697150
+GetMostViewedClasses 2240
+GetMostViewedClasses 6679
+WatchClass 7495082 2 13
+WatchClass 2166279 -2 17
+WatchClass 5996821 5 5
+WatchClass 9614883 0 0
+WatchClass 8927525 10 6
+AddCourse 2674864 16
+TimeViewed 1572424 6
+WatchClass 4675742 1 7
+GetMostViewedClasses 47
+RemoveCourse 5043493
+WatchClass 269052 1 3
+WatchClass 5401608 9 15
+WatchClass 45112 5 4
+WatchClass 7943542 0 8
+RemoveCourse 4474922
+GetMostViewedClasses 1790
+TimeViewed 7367623 4
+RemoveCourse 8393054
+WatchClass 8922890 0 10
+TimeViewed 896398 0
+WatchClass 9536208 -2 2
+AddCourse 2240699 5
+WatchClass 5189200 14 10
+AddCourse 3687809 10
+WatchClass 7066869 4 5
+RemoveCourse 2059024
+GetMostViewedClasses 5969
+RemoveCourse 5928302
+AddCourse 492616 17
+TimeViewed 4756288 3
+WatchClass 8723367 5 19
+WatchClass 0 5 17
+GetMostViewedClasses 1123
+AddCourse 6201894 11
+GetMostViewedClasses -2
+WatchClass 1426873 -1 5
+TimeViewed 2673606 9
+AddCourse 6307119 18
+RemoveCourse 9059868
+AddCourse 7010646 9
+AddCourse 7775202 16
+TimeViewed 5673435 5
+TimeViewed 711472 7
+RemoveCourse 7935673
+WatchClass 4678648 3 2
+WatchClass 1335773 22 18
+WatchClass 5196282 2 16
+AddCourse 4501937 4
+AddCourse 381292 18
+RemoveCourse 8627284
+RemoveCourse 8575221
+WatchClass 7943542 -3 19
+WatchClass 7694992 0 15
+AddCourse 8780615 11
+WatchClass 9539062 14 14
+AddCourse 1568155 4
+AddCourse 3424328 2
+AddCourse 434786 20
+RemoveCourse 3698709
+GetMostViewedClasses 998
+RemoveCourse 5578758
+RemoveCourse 8584453
+RemoveCourse 4641983
+GetMostViewedClasses 0
+WatchClass 2892270 11 12
+AddCourse 140916 6
+RemoveCourse 1297022
+WatchClass 6817371 0 2
+RemoveCourse 4448597
+GetMostViewedClasses 5225
+AddCourse 8762472 16
+AddCourse -1 -1
+AddCourse 6229239 13
+TimeViewed 1093517 13
+WatchClass 7736879 -2 11
+AddCourse 1227250 16
+WatchClass 1691280 17 12
+AddCourse 2552838 5
+WatchClass 8946382 11 17
+TimeViewed 1260713 1
+AddCourse 5923382 9
+GetMostViewedClasses 1640
+AddCourse 1089799 3
+RemoveCourse 4014872
+GetMostViewedClasses 6152
+WatchClass 381292 7 7
+RemoveCourse 6735440
+RemoveCourse 3412283
+WatchClass 364927 7 1
+GetMostViewedClasses 3558
+AddCourse 2063800 -1
+GetMostViewedClasses 3268
+WatchClass 6272378 1 20
+AddCourse 9070741 8
+AddCourse 5512603 6
+GetMostViewedClasses 5991
+WatchClass 1417857 9 7
+RemoveCourse 9779075
+TimeViewed 1458594 -1
+GetMostViewedClasses 5409
+WatchClass 3354588 3 10
+GetMostViewedClasses 7063
+RemoveCourse 1213335
+AddCourse -2 20
+RemoveCourse 5643854
+AddCourse 7100249 10
+AddCourse 2215404 2
+AddCourse 8774789 8
+WatchClass 8329709 0 17
+RemoveCourse 6196993
+WatchClass 2785289 13 20
+AddCourse 6303449 12
+GetMostViewedClasses 4920
+RemoveCourse 3177946
+AddCourse 2837326 15
+AddCourse 2504545 14
+GetMostViewedClasses 499
+GetMostViewedClasses 7104
+AddCourse 3503002 10
+RemoveCourse 8656738
+AddCourse 3237064 4
+AddCourse 2644182 19
+AddCourse 3219914 3
+GetMostViewedClasses 4852
+AddCourse 148206 4
+AddCourse 5403883 14
+WatchClass 1781514 4 17
+TimeViewed 4638569 2
+WatchClass 8107277 0 9
+WatchClass 1417857 2 12
+TimeViewed 3025387 4
+RemoveCourse 9993603
+WatchClass 5673435 8 11
+RemoveCourse 5655730
+TimeViewed 5277094 18
+GetMostViewedClasses 5740
+GetMostViewedClasses 5335
+AddCourse 2712289 10
+RemoveCourse 4621950
+RemoveCourse 9495305
+AddCourse 826007 17
+WatchClass 4978287 12 12
+GetMostViewedClasses 2767
+AddCourse 2019969 18
+AddCourse 546682 7
+GetMostViewedClasses 3883
+AddCourse 308087 5
+WatchClass 23505 2 7
+AddCourse 6167191 5
+WatchClass 5837824 0 10
+AddCourse 2151068 10
+RemoveCourse 6783984
+TimeViewed 2812000 -2
+AddCourse 1853866 16
+AddCourse 3946745 19
+AddCourse 4028683 1
+AddCourse 1793674 7
+WatchClass 7674336 8 18
+AddCourse 8331503 7
+AddCourse 9685915 12
+TimeViewed 5517431 15
+TimeViewed 304441 4
+AddCourse 182726 3
+TimeViewed 8177643 10
+GetMostViewedClasses 1580
+GetMostViewedClasses 2481
+AddCourse 9082613 15
+GetMostViewedClasses 2844
+AddCourse 9087277 20
+WatchClass 4236439 14 6
+AddCourse 1698459 8
+AddCourse 2300868 10
+WatchClass 4355238 15 19
+WatchClass 9169234 6 1
+RemoveCourse 1108308
+AddCourse 4161113 13
+WatchClass 2275601 12 14
+WatchClass 0 0 18
+WatchClass 2587863 7 16
+AddCourse 2102276 14
+GetMostViewedClasses 736
+AddCourse 1875786 2
+TimeViewed 8034129 10
+RemoveCourse 8985332
+AddCourse 4540601 16
+AddCourse 3116558 2
+WatchClass 2928414 3 20
+WatchClass 7552285 3 5
+GetMostViewedClasses 1826
+AddCourse 6209732 19
+AddCourse 1410669 8
+RemoveCourse 2965407
+GetMostViewedClasses 6643
+AddCourse 481133 15
+AddCourse 202781 17
+AddCourse 6077342 9
+RemoveCourse 9128501
+AddCourse 3322370 5
+RemoveCourse 8980173
+TimeViewed 5196282 3
+RemoveCourse 4652125
+AddCourse 260702 18
+AddCourse 5509995 13
+RemoveCourse 3299299
+RemoveCourse 5275988
+AddCourse 4346094 18
+WatchClass 4054778 6 13
+TimeViewed 3746123 -1
+AddCourse 7102836 2
+WatchClass 6183245 7 10
+RemoveCourse 7107555
+GetMostViewedClasses 4976
+WatchClass 8572020 4 12
+RemoveCourse 536646
+RemoveCourse 8898862
+AddCourse 3148931 16
+RemoveCourse 3144427
+WatchClass 9213325 -3 12
+RemoveCourse 2928414
+AddCourse 8573075 7
+AddCourse 2587002 17
+AddCourse 5570687 14
+AddCourse 2927911 12
+AddCourse 9841775 1
+GetMostViewedClasses 4864
+TimeViewed 2275601 1
+GetMostViewedClasses -1
+AddCourse 9634309 10
+GetMostViewedClasses 1938
+AddCourse 1591900 9
+TimeViewed 1487952 -1
+AddCourse 9473786 2
+TimeViewed 1602958 15
+AddCourse 1860025 10
+WatchClass 0 10 14
+GetMostViewedClasses 4088
+WatchClass 5509995 7 2
+WatchClass 8941478 8 15
+WatchClass 1985017 17 12
+RemoveCourse 4742828
+TimeViewed 1207058 18
+TimeViewed 7361903 4
+RemoveCourse 4907505
+WatchClass 5272011 4 18
+AddCourse 9047787 15
+AddCourse 6969148 3
+WatchClass 5631068 3 19
+GetMostViewedClasses 3153
+RemoveCourse 2837326
+AddCourse 3589043 5
+AddCourse 7549316 3
+AddCourse -2 -1
+GetMostViewedClasses 730
+AddCourse 9969684 13
+WatchClass 2587002 5 14
+AddCourse 1578839 0
+WatchClass 3759843 6 9
+GetMostViewedClasses 4196
+AddCourse 9727035 12
+RemoveCourse 3794230
+WatchClass 8680233 5 1
+AddCourse 1302745 14
+WatchClass 0 -1 8
+GetMostViewedClasses 3734
+RemoveCourse 1636930
+WatchClass 7416472 4 18
+TimeViewed 9634309 4
+AddCourse 9172709 14
+TimeViewed 9242350 2
+AddCourse 1028211 15
+AddCourse 7158722 4
+TimeViewed 5207157 2
+RemoveCourse 3097825
+AddCourse 101188 9
+RemoveCourse 1339980
+WatchClass 7973754 13 1
+AddCourse 8567352 8
+AddCourse 4620871 14
+AddCourse 7015949 8
+AddCourse 4587627 4
+WatchClass 9581344 -3 16
+GetMostViewedClasses 4116
+AddCourse 5523947 -2
+WatchClass 5491275 8 11
+AddCourse 2180117 15
+AddCourse 7338810 4
+GetMostViewedClasses 4157
+AddCourse 9191286 8
+WatchClass 8177643 1 1
+WatchClass 7574760 6 6
+TimeViewed 9969684 3
+WatchClass 8442070 3 9
+AddCourse 7881090 17
+AddCourse 5679742 13
+TimeViewed 1864591 10
+AddCourse 4699530 15
+AddCourse 6472020 9
+RemoveCourse 7158722
+WatchClass -1 -2 9
+TimeViewed 3680394 2
+GetMostViewedClasses 5785
+WatchClass 1458265 4 17
+WatchClass 8553442 9 13
+WatchClass 8715338 7 15
+AddCourse 396784 10
+AddCourse 1025465 6
+AddCourse 1595807 15
+WatchClass 6969148 2 14
+WatchClass 1985017 3 3
+AddCourse 8833696 10
+WatchClass 6472895 7 7
+GetMostViewedClasses 172
+RemoveCourse 2718167
+AddCourse 7983534 8
+RemoveCourse 9035879
+TimeViewed 8409097 3
+WatchClass 1979527 0 17
+RemoveCourse 2194299
+AddCourse 5135056 3
+AddCourse 2298749 10
+AddCourse 7200239 9
+AddCourse 8894379 15
+AddCourse 7888582 10
+AddCourse 6355849 9
+AddCourse 2952799 10
+WatchClass 6387307 1 16
+GetMostViewedClasses 1094
+AddCourse 275164 10
+AddCourse 8786632 11
+AddCourse 9992250 8
+AddCourse 8734401 15
+RemoveCourse 5517431
+AddCourse 7475473 16
+AddCourse 8984458 8
+WatchClass -1 20 6
+WatchClass 7311856 8 6
+TimeViewed 3116558 1
+WatchClass 6229239 2 13
+RemoveCourse 8211867
+AddCourse -1 0
+RemoveCourse 1438302
+AddCourse 5378438 11
+WatchClass 9046565 1 6
+AddCourse 9509701 14
+RemoveCourse 6683703
+WatchClass 8993737 21 12
+AddCourse 6194113 7
+AddCourse 0 7
+GetMostViewedClasses 5350
+AddCourse 7635921 19
+WatchClass 3095576 1 2
+RemoveCourse 9647630
+GetMostViewedClasses 3160
+AddCourse 2898591 -2
+WatchClass 5378438 10 0
+AddCourse 2878392 6
+WatchClass 9909874 7 1
+AddCourse 3195527 16
+RemoveCourse 7424760
+TimeViewed 4490239 1
+WatchClass 9685915 6 1
+WatchClass 6754349 1 16
+AddCourse 4925499 6
+RemoveCourse 2167993
+GetMostViewedClasses 3075
+AddCourse 9608257 11
+AddCourse 6409842 3
+AddCourse 2367359 14
+WatchClass 4799667 8 1
+TimeViewed 3918407 3
+AddCourse 203219 1
+AddCourse 2678920 13
+GetMostViewedClasses -1
+TimeViewed 5378438 3
+TimeViewed 434786 14
+WatchClass 4113905 0 1
+AddCourse 5114080 6
+GetMostViewedClasses 6130
+AddCourse 8576426 11
+WatchClass 7015949 6 7
+RemoveCourse 9974195
+WatchClass 809261 26 7
+AddCourse 5895320 14
+RemoveCourse 3116558
+WatchClass -2 17 15
+WatchClass 9642061 -2 6
+RemoveCourse 6207494
+GetMostViewedClasses 2568
+WatchClass 3503002 2 1
+AddCourse 5942193 15
+GetMostViewedClasses 1376
+AddCourse 8729800 17
+AddCourse 2373832 4
+AddCourse 557172 9
+AddCourse 0 -1
+GetMostViewedClasses 1982
+RemoveCourse 4973429
+AddCourse 2784050 4
+RemoveCourse 770856
+AddCourse 1750317 9
+WatchClass 975409 -2 16
+AddCourse 8206341 14
+AddCourse 8324087 3
+AddCourse 2278499 0
+AddCourse 1801772 7
+AddCourse 3765178 5
+GetMostViewedClasses 4044
+AddCourse 2633686 -1
+RemoveCourse 9252072
+AddCourse 6768561 2
+GetMostViewedClasses 6559
+WatchClass 2906782 5 15
+WatchClass 1410669 4 3
+TimeViewed 8206341 11
+WatchClass 2749224 19 2
+WatchClass 7128393 2 4
+AddCourse 1585170 18
+AddCourse 8093001 12
+AddCourse 890007 8
+RemoveCourse 9727129
+AddCourse 4193283 9
+GetMostViewedClasses 1917
+WatchClass 7650268 4 7
+WatchClass 304441 2 13
+AddCourse 1089363 7
+RemoveCourse 2355136
+TimeViewed 4741102 4
+TimeViewed 27932 0
+TimeViewed 851585 19
+GetMostViewedClasses 966
+RemoveCourse 2672869
+WatchClass 5494918 2 4
+WatchClass 6969148 0 5
+WatchClass 8567352 4 13
+WatchClass 5030596 2 18
+AddCourse 7240269 11
+WatchClass 7240269 16 1
+AddCourse 3563763 0
+RemoveCourse 1548810
+GetMostViewedClasses -1
+GetMostViewedClasses 4070
+WatchClass 5571653 5 2
+WatchClass 3778173 5 7
+WatchClass 2144043 5 4
+TimeViewed 3930966 2
+WatchClass 994149 -1 13
+AddCourse 8137960 7
+GetMostViewedClasses 1706
+AddCourse 3872870 1
+GetMostViewedClasses 7828
+AddCourse 2603441 2
+AddCourse 7940176 18
+GetMostViewedClasses 5082
+TimeViewed 6800464 11
+WatchClass 4587627 -1 4
+WatchClass 1335773 12 14
+GetMostViewedClasses 4136
+AddCourse 2883552 15
+TimeViewed 4787271 6
+WatchClass 453799 2 6
+TimeViewed 7002299 8
+AddCourse 8147655 1
+AddCourse 1148532 2
+GetMostViewedClasses -1
+AddCourse 4309011 17
+GetMostViewedClasses 6264
+RemoveCourse 7146584
+RemoveCourse 2952799
+AddCourse 2550296 9
+AddCourse 3985630 4
+WatchClass 6630013 1 9
+AddCourse 4388378 4
+RemoveCourse 9121786
+WatchClass 4712380 0 3
+GetMostViewedClasses -2
+TimeViewed 4237927 3
+AddCourse 8616953 14
+WatchClass 8329709 5 8
+TimeViewed 7002299 6
+AddCourse 5812828 17
+AddCourse 8706700 12
+AddCourse 4627082 5
+GetMostViewedClasses 6982
+WatchClass 407133 1 5
+AddCourse 9437022 7
+GetMostViewedClasses 406
+AddCourse 3564888 5
+AddCourse 6544927 12
+TimeViewed 8762472 0
+TimeViewed 7367623 6
+AddCourse 304811 13
+AddCourse 9068644 20
+AddCourse 6235310 18
+RemoveCourse 1458594
+AddCourse 7722173 7
+AddCourse 1654883 15
+AddCourse 3793057 14
+TimeViewed 5656335 2
+TimeViewed 1709595 13
+AddCourse 6926563 12
+AddCourse 2905828 3
+RemoveCourse 2102276
+AddCourse 8081812 17
+AddCourse 3696888 1
+AddCourse 9083825 11
+WatchClass 6026686 0 10
+AddCourse 4833847 19
+RemoveCourse 321872
+GetMostViewedClasses 7457
+WatchClass 9608257 0 20
+RemoveCourse 9909874
+WatchClass 8147655 0 12
+RemoveCourse 5712373
+AddCourse 3608862 2
+AddCourse 4394497 4
+WatchClass 9575819 7 2
+WatchClass 1417346 -3 9
+WatchClass 5481117 0 8
+TimeViewed 1335773 5
+AddCourse 5743538 6
+WatchClass 3996642 7 8
+WatchClass 2504545 9 20
+GetMostViewedClasses 2428
+AddCourse 5613540 20
+WatchClass 6167191 -2 10
+AddCourse 3301247 3
+WatchClass 3510184 10 5
+AddCourse 2610849 18
+TimeViewed 4028552 9
+AddCourse 6340067 17
+GetMostViewedClasses 6894
+GetMostViewedClasses 5849
+WatchClass 6701974 0 11
+WatchClass 8702473 16 11
+RemoveCourse 3616838
+AddCourse 6355849 15
+WatchClass 7529320 -2 3
+AddCourse 949633 13
+WatchClass 2844898 4 15
+WatchClass 8324087 2 2
+RemoveCourse 2025383
+WatchClass 1875786 0 10
+AddCourse 549816 16
+GetMostViewedClasses 4000
+GetMostViewedClasses 5689
+AddCourse 917643 12
+AddCourse 0 2
+AddCourse 3876412 19
+TimeViewed 8719815 0
+AddCourse 2352356 15
+AddCourse 4147989 7
+AddCourse 7587736 8
+WatchClass 4236439 0 15
+WatchClass 5687330 -1 15
+WatchClass 9832718 2 10
+AddCourse 3402960 15
+WatchClass 9070741 0 15
+WatchClass 5263052 0 11
+TimeViewed 3680394 5
+TimeViewed 1698459 4
+AddCourse 4849224 9
+AddCourse 239051 14
+AddCourse 1185615 17
+AddCourse 1779144 3
+TimeViewed 1585170 13
+AddCourse 1675155 7
+AddCourse 8669946 14
+AddCourse 4563961 12
+GetMostViewedClasses 7737
+WatchClass 8739220 3 15
+WatchClass 349978 6 19
+RemoveCourse 4777710
+TimeViewed 5378438 8
+TimeViewed 6235310 14
+RemoveCourse 5707375
+RemoveCourse 9047787
+WatchClass 8939021 3 7
+AddCourse 2146174 1
+AddCourse 6494519 5
+RemoveCourse 7184365
+WatchClass 7552285 0 3
+AddCourse 8812927 14
+WatchClass 8018922 8 3
+AddCourse 8755305 19
+WatchClass 5189200 6 5
+RemoveCourse 9437971
+RemoveCourse 5923382
+GetMostViewedClasses 8219
+TimeViewed 407133 1
+AddCourse 920148 7
+TimeViewed 9681785 6
+RemoveCourse 2749224
+AddCourse 0 -1
+WatchClass 6817371 2 6
+GetMostViewedClasses 6513
+AddCourse 6028072 9
+TimeViewed 3296637 7
+WatchClass 7002299 11 20
+AddCourse 6544927 17
+WatchClass 7768362 3 7
+WatchClass 896398 10 9
+AddCourse 1547984 6
+AddCourse 9544918 15
+WatchClass 8572020 0 2
+AddCourse 2242183 8
+AddCourse 3216757 16
+RemoveCourse 1163417
+WatchClass 7245473 0 19
+WatchClass -2 -1 8
+AddCourse 9970875 4
+RemoveCourse 3415058
+AddCourse 9725778 4
+AddCourse 8707246 20
+WatchClass 9659765 15 6
+RemoveCourse 4897982
+AddCourse 9439789 18
+WatchClass 1981197 9 4
+AddCourse 5826699 9
+AddCourse 7529515 7
+TimeViewed 3985630 3
+RemoveCourse 6162545
+WatchClass 2367359 1 14
+AddCourse 6359906 17
+WatchClass 5509995 0 14
+AddCourse 112607 -2
+RemoveCourse 2673606
+RemoveCourse 5806979
+RemoveCourse 5253803
+WatchClass 8569508 0 12
+AddCourse 4542228 20
+RemoveCourse 5822828
+AddCourse 8674267 17
+TimeViewed 3490438 16
+WatchClass 7015949 2 13
+AddCourse 8881165 5
+AddCourse 1657533 8
+AddCourse 8349977 7
+WatchClass 9211137 1 2
+RemoveCourse 3008432
+RemoveCourse 6587869
+RemoveCourse 9852396
+WatchClass 6727580 2 10
+AddCourse 7204791 19
+GetMostViewedClasses 6590
+WatchClass 920148 2 12
+AddCourse 2535317 9
+RemoveCourse 3301247
+AddCourse 5633561 6
+AddCourse 687695 5
+WatchClass 5272011 2 12
+RemoveCourse 8894379
+AddCourse 0 -2
+AddCourse 1527891 7
+AddCourse 3637641 5
+WatchClass 5263052 8 5
+AddCourse 2759914 17
+GetMostViewedClasses 3465
+WatchClass 8305003 12 16
+AddCourse 7961067 13
+AddCourse 1743556 14
+RemoveCourse 9992250
+AddCourse 5165709 8
+AddCourse 1224203 20
+GetMostViewedClasses 6543
+AddCourse 7079647 12
+TimeViewed 2022790 1
+RemoveCourse 5942193
+AddCourse 7727147 3
+TimeViewed 1325465 15
+RemoveCourse 9509701
+AddCourse -1 3
+AddCourse 4431953 13
+AddCourse 3188062 5
+GetMostViewedClasses 5561
+RemoveCourse 5165709
+WatchClass 1224203 1 19
+AddCourse 8716236 18
+WatchClass 2141748 3 2
+WatchClass 4542228 4 16
+AddCourse 8284162 15
+AddCourse 9584279 14
+AddCourse 9846015 6
+WatchClass 9476154 0 12
+WatchClass 5981953 -2 16
+RemoveCourse 6029375
+WatchClass 1781514 3 10
+TimeViewed 2367359 10
+AddCourse 3392543 19
+WatchClass 3381204 -3 1
+AddCourse 6776246 6
+AddCourse 9155006 14
+WatchClass 5189200 3 12
+AddCourse 9647835 18
+AddCourse 2315562 3
+AddCourse 1015126 14
+RemoveCourse 9685915
+GetMostViewedClasses 4095
+AddCourse -2 0
+AddCourse 1452261 0
+AddCourse 9248552 15
+RemoveCourse 5207780
+RemoveCourse 8817548
+TimeViewed 5491275 17
+GetMostViewedClasses 3754
+WatchClass 2026614 0 1
+RemoveCourse 2158322
+AddCourse 2166279 12
+AddCourse 4677411 9
+TimeViewed 4120721 11
+RemoveCourse 9083825
+TimeViewed 5359470 2
+AddCourse 4984422 13
+WatchClass 2090646 0 20
+WatchClass 3329932 8 6
+GetMostViewedClasses 8487
+GetMostViewedClasses 3981
+WatchClass 8867099 10 7
+AddCourse 6536262 18
+WatchClass 8915743 11 15
+WatchClass 4148429 13 20
+AddCourse 3037657 5
+GetMostViewedClasses 6226
+AddCourse 5286571 18
+GetMostViewedClasses 442
+TimeViewed 2564700 10
+TimeViewed 9473786 1
+TimeViewed 1514935 11
+GetMostViewedClasses 6640
+WatchClass 7079647 0 6
+WatchClass 6621521 9 10
+AddCourse 135532 13
+WatchClass 2396204 1 2
+AddCourse 9590797 20
+RemoveCourse 4620871
+WatchClass 9634309 1 1
+AddCourse 1480713 20
+AddCourse 8340896 7
+WatchClass 300950 15 9
+WatchClass 8442070 2 10
+AddCourse 9395289 20
+WatchClass 6577186 3 11
+WatchClass 7280848 -2 1
+WatchClass 8422152 11 17
+WatchClass 1148532 1 8
+AddCourse 4951981 19
+AddCourse 9131949 16
+GetMostViewedClasses 7801
+AddCourse 8841725 5
+AddCourse 984081 15
+AddCourse 2887801 6
+TimeViewed 6596153 7
+GetMostViewedClasses 4589
+AddCourse 3691550 4
+RemoveCourse 9608257
+GetMostViewedClasses 1188
+RemoveCourse 6925552
+AddCourse 4554027 18
+TimeViewed 8576426 10
+AddCourse 800345 19
+AddCourse 6445104 17
+GetMostViewedClasses 130
+RemoveCourse 8206341
+AddCourse 888176 11
+AddCourse 6112394 7
+WatchClass 4166496 18 10
+GetMostViewedClasses 4895
+AddCourse 3300875 7
+AddCourse 1604163 -1
+WatchClass 7229171 0 18
+TimeViewed 2504545 11
+GetMostViewedClasses 8155
+WatchClass 1663420 0 18
+AddCourse 2714716 20
+WatchClass 8329709 4 8
+AddCourse 3618405 3
+WatchClass 9647835 1 15
+WatchClass 1272028 18 8
+TimeViewed 0 0
+GetMostViewedClasses 4108
+RemoveCourse 4109907
+TimeViewed 4490239 0
+AddCourse 3224466 1
+AddCourse 2756193 12
+RemoveCourse -1
+AddCourse 4077728 10
+RemoveCourse 875406
+TimeViewed 6920752 0
+WatchClass 294953 0 10
+AddCourse 1157356 8
+AddCourse 4903950 13
+AddCourse 2125612 19
+AddCourse 1334979 4
+AddCourse 2569882 3
+TimeViewed 8569508 4
+AddCourse 9145936 20
+WatchClass 9172709 -3 20
+TimeViewed 1527891 4
+WatchClass -2 0 6
+WatchClass 1985017 9 18
+WatchClass 3237064 1 19
+WatchClass 4691092 7 7
+RemoveCourse 6776246
+AddCourse 8752366 20
+AddCourse 7986552 16
+AddCourse 445590 7
+GetMostViewedClasses 5757
+AddCourse 2217063 0
+AddCourse 1949657 13
+GetMostViewedClasses 3753
+AddCourse 9485174 10
+AddCourse 3741074 19
+AddCourse 3577202 19
+AddCourse 8987468 6
+AddCourse 4494434 8
+WatchClass 1801772 5 10
+RemoveCourse 5545019
+AddCourse 4295408 15
+AddCourse 7935456 11
+WatchClass 6928931 -1 15
+WatchClass 7464025 15 14
+RemoveCourse 1425819
+AddCourse 2999689 18
+TimeViewed 9145936 16
+AddCourse 8439817 6
+AddCourse 4312673 17
+WatchClass 1302745 12 3
+RemoveCourse 644250
+AddCourse 1693021 9
+AddCourse 8172044 19
+GetMostViewedClasses 4434
+WatchClass 2739106 6 17
+WatchClass 8231197 15 1
+AddCourse 118610 5
+WatchClass 0 -2 11
+TimeViewed 6028072 6
+RemoveCourse 9692243
+TimeViewed 1602958 10
+RemoveCourse 1622542
+TimeViewed 2562983 -2
+AddCourse 9587116 11
+AddCourse 2025695 14
+TimeViewed 7110630 4
+WatchClass 4113905 0 4
+WatchClass -2 -2 9
+WatchClass 7961067 6 8
+GetMostViewedClasses 4540
+TimeViewed 4054778 8
+RemoveCourse 2927911
+AddCourse 513607 15
+AddCourse 2519326 7
+AddCourse 4113269 14
+AddCourse 7389420 19
+WatchClass 7330440 1 17
+AddCourse 7385873 14
+AddCourse 996392 20
+GetMostViewedClasses 4385
+AddCourse 2841121 20
+WatchClass 7503367 13 7
+AddCourse 9846453 16
+WatchClass 4490239 2 6
+RemoveCourse 5895320
+AddCourse 214232 15
+GetMostViewedClasses 553
+TimeViewed -1 18
+GetMostViewedClasses 8325
+WatchClass 3321306 10 16
+AddCourse 8650304 -2
+TimeViewed 2217063 7
+AddCourse 447421 2
+AddCourse 707500 9
+WatchClass 3114773 2 10
+TimeViewed 308087 1
+AddCourse 2995699 16
+WatchClass 9785963 9 4
+AddCourse 3300875 -1
+TimeViewed 2025695 11
+WatchClass 7967829 1 19
+WatchClass 7396080 -1 15
+RemoveCourse 1041376
+AddCourse 1092924 19
+GetMostViewedClasses 9050
+AddCourse 6131069 9
+AddCourse 1788860 10
+WatchClass 6701974 2 20
+RemoveCourse 4903950
+RemoveCourse 434343
+GetMostViewedClasses 5803
+AddCourse 425063 5
+AddCourse 9661207 7
+WatchClass 6131069 3 17
+RemoveCourse 2044840
+AddCourse 2756193 6
+AddCourse 9303390 19
+WatchClass 4227668 5 9
+WatchClass 2256604 3 3
+AddCourse 8284962 6
+AddCourse 2479680 17
+WatchClass 5576130 12 12
+WatchClass 9638121 10 20
+AddCourse 2962249 14
+WatchClass 618352 1 9
+AddCourse 5708507 17
+WatchClass 5301504 20 15
+GetMostViewedClasses 4575
+AddCourse -1 8
+WatchClass 3577202 0 15
+AddCourse 8800591 2
+AddCourse 7147234 7
+GetMostViewedClasses 7470
+AddCourse 5115160 13
+AddCourse -2 0
+AddCourse 1334979 -1
+AddCourse 5646617 9
+AddCourse 1164122 4
+AddCourse 4687450 15
+RemoveCourse 9245639
+AddCourse 5646726 4
+AddCourse 407133 19
+AddCourse 6108863 18
+AddCourse 8951507 4
+WatchClass 1779144 2 18
+AddCourse 8879362 12
+RemoveCourse 2433643
+GetMostViewedClasses 6660
+GetMostViewedClasses 8730
+RemoveCourse 1292621
+RemoveCourse 5199586
+RemoveCourse 1316842
+RemoveCourse 2980727
+WatchClass 6926563 7 5
+GetMostViewedClasses 2526
+GetMostViewedClasses 3106
+AddCourse 168273 10
+AddCourse 9205264 13
+AddCourse 47036 1
+AddCourse 1270339 14
+AddCourse 9395289 3
+RemoveCourse 8863502
+GetMostViewedClasses 3730
+RemoveCourse 1788860
+AddCourse 6756172 6
+WatchClass 4787271 0 8
+AddCourse 3591437 6
+AddCourse 2413940 18
+WatchClass 5983975 18 16
+AddCourse 8211843 15
+AddCourse 9115680 8
+AddCourse 7385154 18
+WatchClass 8707246 2 12
+TimeViewed 3918407 11
+TimeViewed 8254265 0
+AddCourse 9597927 17
+WatchClass 27932 5 11
+WatchClass 7385873 17 11
+RemoveCourse 4698305
+RemoveCourse 4699530
+WatchClass 1648952 0 18
+AddCourse 2325458 18
+AddCourse 9845969 7
+AddCourse 1612083 5
+AddCourse 4618831 14
+AddCourse 5406890 1
+GetMostViewedClasses 3976
+AddCourse 4775069 1
+TimeViewed 3918407 9
+RemoveCourse 9082613
+GetMostViewedClasses 3842
+WatchClass 2762580 -3 13
+AddCourse 5516593 4
+RemoveCourse 3095576
+WatchClass 4540601 20 9
+WatchClass 5923263 7 6
+GetMostViewedClasses 1858
+RemoveCourse 6229239
+WatchClass 349978 1 6
+AddCourse 4685511 18
+AddCourse 5690697 9
+WatchClass 9846453 8 19
+GetMostViewedClasses 6660
+AddCourse -1 1
+GetMostViewedClasses 5496
+AddCourse 3132859 19
+AddCourse 9231463 18
+AddCourse 1214154 5
+AddCourse 9256315 8
+AddCourse 5313665 6
+TimeViewed 1815941 8
+WatchClass 3037657 4 20
+AddCourse 3148938 13
+GetMostViewedClasses 6522
+AddCourse 2205206 9
+GetMostViewedClasses 3354
+RemoveCourse 7503367
+WatchClass 6555815 1 8
+WatchClass 717970 15 19
+TimeViewed 9470034 14
+RemoveCourse 308087
+RemoveCourse 447421
+GetMostViewedClasses 6803
+AddCourse -2 0
+RemoveCourse 5263052
+RemoveCourse 8951507
+AddCourse 0 -1
+AddCourse 9508436 14
+WatchClass 6355849 1 14
+WatchClass 5088955 4 12
+WatchClass 5930012 5 7
+AddCourse 3017840 2
+AddCourse 8406138 6
+AddCourse 9122994 2
+RemoveCourse 1328917
+RemoveCourse 8018922
+AddCourse 6444070 14
+WatchClass 2552838 0 0
+WatchClass 371428 8 15
+AddCourse 2905022 11
+RemoveCourse 440303
+AddCourse 7495959 13
+RemoveCourse 2674864
+AddCourse 20862 11
+AddCourse 2117493 14
+WatchClass 6864842 12 13
+WatchClass 5743538 3 17
+WatchClass 6595135 0 13
+AddCourse 1052120 7
+AddCourse 8739220 4
+GetMostViewedClasses 6016
+AddCourse 5056651 6
+WatchClass 7036225 1 8
+TimeViewed 6680083 0
+RemoveCourse 3148931
+TimeViewed 7983534 0
+WatchClass 9584279 10 8
+GetMostViewedClasses 7008
+AddCourse 6232180 20
+AddCourse 8798460 9
+WatchClass 2844898 7 12
+AddCourse 9142056 18
+WatchClass 2315562 1 5
+AddCourse 3494670 6
+AddCourse 9513130 2
+AddCourse 2563658 4
+AddCourse 615033 15
+AddCourse 2590396 14
+GetMostViewedClasses 0
+AddCourse 9440624 2
+AddCourse 5261395 18
+AddCourse 2665489 2
+AddCourse 8762472 -1
+GetMostViewedClasses 2848
+AddCourse 453807 11
+AddCourse 9707862 15
+TimeViewed -1 0
+RemoveCourse 4252544
+AddCourse 4833761 11
+GetMostViewedClasses 2590
+AddCourse 4425626 13
+AddCourse 4552546 2
+GetMostViewedClasses 1474
+AddCourse 5873638 20
+WatchClass 6356201 5 15
+AddCourse 2735742 10
+AddCourse 0 -1
+AddCourse 9047967 10
+GetMostViewedClasses 9083
+RemoveCourse 7535134
+AddCourse 7805306 17
+AddCourse 5225588 20
+WatchClass 4371329 1 20
+WatchClass 9047967 1 11
+WatchClass 3354588 4 3
+AddCourse 1502288 0
+GetMostViewedClasses 7134
+AddCourse 6639039 1
+WatchClass 9256315 3 8
+AddCourse 7735230 3
+AddCourse 3400383 18
+AddCourse 8935013 12
+RemoveCourse 5311519
+WatchClass 1944417 1 12
+GetMostViewedClasses 1159
+WatchClass 7180888 2 9
+AddCourse 261635 11
+RemoveCourse 7805306
+AddCourse 5944111 6
+AddCourse 8976356 7
+TimeViewed 9539062 14
+WatchClass 5673435 4 16
+AddCourse 2320203 4
+GetMostViewedClasses 3147
+RemoveCourse 8935013
+WatchClass 8142889 2 19
+TimeViewed 4678648 9
+AddCourse 4434172 12
+RemoveCourse 230013
+RemoveCourse 5455754
+AddCourse 9721405 5
+WatchClass 4951981 0 11
+WatchClass 5401608 5 11
+RemoveCourse 9134995
+AddCourse 7947553 10
+AddCourse 7812520 20
+WatchClass 9046565 2 18
+TimeViewed 9970875 3
+AddCourse 805403 15
+TimeViewed 6108863 16
+AddCourse 9251322 20
+GetMostViewedClasses 8954
+WatchClass 2413940 17 6
+RemoveCourse 7940176
+WatchClass 881944 8 15
+TimeViewed 8093001 5
+RemoveCourse 7015949
+AddCourse 9629031 17
+WatchClass 3321306 11 6
+GetMostViewedClasses 402
+AddCourse 7282581 2
+AddCourse 6178782 16
+AddCourse 2545713 8
+GetMostViewedClasses 5001
+AddCourse 7604709 1
+TimeViewed 576977 -2
+WatchClass 349978 4 11
+WatchClass 4203809 -3 16
+WatchClass 7048388 7 13
+RemoveCourse 2047030
+AddCourse 2487368 11
+GetMostViewedClasses 507
+AddCourse 8023809 14
+GetMostViewedClasses 5513
+AddCourse 6775133 1
+AddCourse 3142601 16
+TimeViewed 1487952 15
+GetMostViewedClasses 2268
+RemoveCourse 0
+AddCourse 7099391 19
+TimeViewed 5280363 1
+AddCourse 286561 14
+GetMostViewedClasses 3416
+RemoveCourse 96396
+AddCourse 5985086 1
+AddCourse 2633686 8
+WatchClass 4627082 4 12
+WatchClass 5481117 1 1
+AddCourse 8263799 0
+GetMostViewedClasses 8301
+WatchClass 0 9 5
+AddCourse 4320703 5
+WatchClass 6179264 0 4
+TimeViewed 349978 3
+AddCourse 8979546 20
+AddCourse 3644216 4
+WatchClass 1439506 -3 7
+TimeViewed 6680083 1
+RemoveCourse 5656335
+WatchClass 3357157 21 9
+AddCourse 5481818 16
+TimeViewed 3337401 1
+AddCourse 6662499 5
+AddCourse 3986256 15
+TimeViewed 1630245 0
+WatchClass 2590396 2 14
+AddCourse 9265067 6
+RemoveCourse 8085119
+WatchClass 268257 4 3
+RemoveCourse 1510702
+TimeViewed 8567352 5
+AddCourse 1481686 11
+WatchClass 996392 0 8
+GetMostViewedClasses 998
+AddCourse 2778411 16
+TimeViewed 2396204 0
+AddCourse 3732110 7
+WatchClass 1417346 4 20
+WatchClass 6595135 2 2
+AddCourse 916739 3
+WatchClass 8716236 10 2
+GetMostViewedClasses 2582
+AddCourse 3216409 20
+AddCourse 6103460 13
+WatchClass 8021656 8 11
+RemoveCourse 6131069
+WatchClass 9294299 2 10
+RemoveCourse 371428
+WatchClass 2146174 0 16
+WatchClass 2841012 5 10
+WatchClass 4425626 2 1
+AddCourse 9349244 -1
+WatchClass 481133 7 6
+GetMostViewedClasses 9709
+AddCourse 7504994 6
+GetMostViewedClasses 3042
+AddCourse 6380251 16
+AddCourse 3765178 0
+WatchClass 2747940 1 14
+WatchClass 358885 3 13
+RemoveCourse 6112394
+TimeViewed 8044209 -2
+TimeViewed 8516237 20
+AddCourse 4269017 10
+TimeViewed 4618831 13
+TimeViewed 5646617 7
+WatchClass 9068644 7 18
+RemoveCourse 6630013
+TimeViewed 4916955 14
+AddCourse 1157356 14
+AddCourse 5169356 18
+GetMostViewedClasses 4296
+TimeViewed 2922895 2
+RemoveCourse 6398545
+WatchClass 7041662 -1 20
+GetMostViewedClasses 2672
+RemoveCourse 2744300
+AddCourse 4895715 3
+WatchClass 6189516 -2 12
+AddCourse 1986030 16
+AddCourse 6647350 7
+AddCourse 0 0
+TimeViewed 261635 4
+WatchClass 9969684 10 12
+RemoveCourse 1591900
+AddCourse 4380971 11
+RemoveCourse 6730939
+WatchClass 9634309 9 15
+WatchClass 1314480 2 15
+AddCourse 8782156 14
+AddCourse 2615253 10
+AddCourse 6362440 18
+AddCourse 9399202 15
+GetMostViewedClasses 1864
+RemoveCourse 8137960
+GetMostViewedClasses 5968
+AddCourse 4990418 18
+AddCourse 2066808 16
+AddCourse 8231197 13
+WatchClass 8578956 7 15
+TimeViewed 6701974 0
+RemoveCourse 8419887
+AddCourse 8944563 18
+AddCourse 324545 14
+WatchClass 6209732 8 0
+AddCourse 584942 10
+AddCourse 5521549 4
+WatchClass 4953720 0 0
+RemoveCourse 8333604
+AddCourse 7971483 13
+AddCourse 9830106 17
+RemoveCourse 6853878
+TimeViewed 8616953 2
+WatchClass 118610 2 7
+WatchClass 3148938 3 8
+RemoveCourse 4196838
+AddCourse 8568972 14
+GetMostViewedClasses 9718
+RemoveCourse 5335181
+AddCourse 6733779 8
+AddCourse 6735116 6
+RemoveCourse 4236439
+GetMostViewedClasses 7452
+GetMostViewedClasses 9218
+AddCourse 1382362 6
+WatchClass 496916 13 3
+WatchClass 2090646 0 19
+WatchClass 1585170 -3 2
+AddCourse 4055865 4
+TimeViewed 2931651 -2
+AddCourse 4337596 9
+AddCourse 1358973 19
+AddCourse 3034787 9
+GetMostViewedClasses -1
+WatchClass 916739 1 13
+AddCourse 0 -1
+AddCourse 9878303 11
+RemoveCourse 5403883
+AddCourse 4262441 4
+AddCourse 8979546 15
+WatchClass 168273 0 19
+RemoveCourse 7943542
+GetMostViewedClasses 15
+GetMostViewedClasses 6549
+RemoveCourse 8287846
+WatchClass 736152 7 18
+TimeViewed 3769711 17
+WatchClass 1314480 6 19
+WatchClass 0 0 7
+AddCourse 1630920 1
+WatchClass 1214154 3 9
+RemoveCourse 27932
+WatchClass 3695842 6 0
+RemoveCourse 4262441
+WatchClass 3542957 16 11
+AddCourse 5083447 2
+WatchClass 0 -1 15
+AddCourse 3136536 12
+WatchClass 5613540 13 20
+GetMostViewedClasses 8098
+RemoveCourse 7637135
+WatchClass 5207441 3 6
+RemoveCourse 135532
+WatchClass 2841012 -3 8
+GetMostViewedClasses 9860
+AddCourse 9329311 4
+WatchClass 2385765 8 9
+WatchClass 9064619 0 12
+RemoveCourse 3853973
+WatchClass 8406448 12 19
+GetMostViewedClasses 1858
+RemoveCourse 4434172
+RemoveCourse 7367623
+RemoveCourse 3228407
+AddCourse 4656719 5
+TimeViewed 6818837 1
+RemoveCourse 9727035
+WatchClass 4833847 11 2
+AddCourse 3641417 19
+TimeViewed 8572020 3
+WatchClass 5690697 0 20
+RemoveCourse 8739220
+RemoveCourse 6178782
+AddCourse 3537708 4
+AddCourse 4756910 11
+AddCourse 6804785 3
+RemoveCourse 8984458
+AddCourse 8726944 1
+WatchClass 3224466 0 3
+GetMostViewedClasses 0
+WatchClass 3017840 0 5
+RemoveCourse 1979527
+AddCourse 3699908 -2
+GetMostViewedClasses 5572
+GetMostViewedClasses 7187
+WatchClass 6817371 -3 18
+GetMostViewedClasses 3425
+WatchClass 8774789 7 3
+WatchClass 8706700 9 1
+AddCourse 988269 15
+WatchClass 7432569 -3 18
+AddCourse 5375461 16
+AddCourse 4566372 12
+WatchClass 6201894 11 7
+WatchClass 430697 9 1
+GetMostViewedClasses 1773
+AddCourse 8641945 19
+RemoveCourse 1397621
+GetMostViewedClasses 2064
+TimeViewed 896398 3
+AddCourse 2002394 7
+AddCourse 8316072 12
+WatchClass 5406890 0 20
+WatchClass 4165888 8 17
+RemoveCourse 5633561
+AddCourse 8732826 14
+AddCourse 5840702 2
+AddCourse 0 -1
+AddCourse 1632554 10
+AddCourse 5749195 5
+WatchClass 3713883 1 0
+TimeViewed 0 8
+RemoveCourse 2840870
+AddCourse -1 9
+AddCourse 9231463 17
+RemoveCourse 3142601
+WatchClass 9014554 1 19
+WatchClass 1568155 3 20
+AddCourse 1962988 4
+AddCourse 738727 5
+AddCourse 2778411 1
+RemoveCourse 7217369
+TimeViewed 9064619 5
+AddCourse 949633 -2
+WatchClass -2 17 7
+TimeViewed 7552285 2
+AddCourse 1557092 17
+RemoveCourse 5261395
+WatchClass 5996821 5 1
+AddCourse 2664672 5
+GetMostViewedClasses 9906
+AddCourse 2896804 16
+AddCourse 779822 4
+WatchClass 1093517 -1 20
+WatchClass 7432569 5 13
+AddCourse 4494434 8
+AddCourse 885155 15
+TimeViewed 8068396 5
+WatchClass 984081 8 8
+WatchClass 8422152 0 1
+AddCourse 8244160 17
+TimeViewed 6103460 6
+WatchClass 6444070 12 5
+RemoveCourse 9960860
+AddCourse 2868722 19
+AddCourse 1579340 19
+TimeViewed 9614883 0
+RemoveCourse 4563184
+TimeViewed 6596153 8
+AddCourse 5632982 15
+TimeViewed 1279962 12
+AddCourse 6393019 3
+AddCourse 8677611 18
+WatchClass 5151817 11 8
+RemoveCourse 7635921
+RemoveCourse 453807
+TimeViewed 618352 0
+GetMostViewedClasses 9844
+RemoveCourse 7264245
+WatchClass 2090646 0 19
+GetMostViewedClasses 5268
+TimeViewed 9395289 16
+WatchClass 4494434 7 8
+WatchClass 5722681 3 14
+AddCourse 3748237 4
+WatchClass 6611646 15 10
+AddCourse 6264102 3
+RemoveCourse 7735230
+AddCourse 7827222 10
+WatchClass 5449569 1 14
+GetMostViewedClasses 7310
+WatchClass 2615253 5 7
+WatchClass 2868722 9 13
+RemoveCourse 2714716
+WatchClass 0 0 6
+AddCourse 2397505 1
+TimeViewed 3132859 22
+WatchClass 8068396 3 19
+AddCourse -2 19
+WatchClass 2905022 1 3
+WatchClass 1229750 -3 4
+AddCourse 3625038 3
+RemoveCourse 3019842
+WatchClass 6756172 4 15
+WatchClass 0 8 11
+AddCourse 5395148 12
+WatchClass -1 14 12
+AddCourse 5145881 17
+AddCourse 4378536 16
+WatchClass 2090356 -2 16
+AddCourse 8859987 12
+WatchClass 4773693 5 0
+AddCourse 6450519 0
+AddCourse 3513793 9
+RemoveCourse 3872870
+AddCourse 9898424 15
+WatchClass 1657533 3 8
+GetMostViewedClasses 5463
+WatchClass 7587736 7 2
+GetMostViewedClasses 5080
+TimeViewed 4587627 1
+AddCourse 2506877 3
+AddCourse 7518089 6
+GetMostViewedClasses 419
+WatchClass 4431953 5 19
+AddCourse 3453002 10
+WatchClass 586588 1 20
+RemoveCourse 202781
+WatchClass 8867099 4 12
+WatchClass 4120721 0 2
+GetMostViewedClasses 6918
+TimeViewed 2603441 1
+AddCourse 5114080 13
+WatchClass 140916 7 9
+WatchClass 4677411 -1 11
+TimeViewed 4371329 8
+AddCourse 5322463 8
+AddCourse 3123094 13
+GetMostViewedClasses 3990
+TimeViewed 2002394 1
+GetMostViewedClasses 3340
+WatchClass 7385873 0 0
+WatchClass 9829892 1 4
+AddCourse 6776991 12
+RemoveCourse 2753062
+WatchClass 2892033 5 15
+GetMostViewedClasses 3884
+WatchClass -1 -2 10
+WatchClass 3608862 0 19
+AddCourse 7010646 2
+WatchClass 4207113 0 16
+RemoveCourse 9891567
+RemoveCourse 6775133
+AddCourse 1916446 8
+WatchClass 7245473 0 5
+AddCourse 9327420 17
+WatchClass 2066808 14 19
+RemoveCourse 2563658
+WatchClass 0 0 15
+WatchClass 3804656 -3 15
+AddCourse 7696388 1
+WatchClass 291583 12 2
+WatchClass -1 -1 14
+AddCourse 1408893 8
+WatchClass 6366621 9 13
+AddCourse 6654891 15
+AddCourse 1579297 13
+WatchClass 3475783 2 7
+AddCourse 5977283 11
+AddCourse 6800464 9
+AddCourse 1923433 20
+AddCourse 1480713 18
+WatchClass 9327420 12 5
+AddCourse 1599280 9
+AddCourse 8545044 12
+WatchClass 5646617 5 20
+WatchClass 814457 1 3
+GetMostViewedClasses 5609
+WatchClass 9508436 3 19
+WatchClass 9259790 1 20
+AddCourse 6974112 12
+WatchClass 1574394 8 11
+TimeViewed 615033 0
+AddCourse 778558 18
+TimeViewed 7495959 7
+WatchClass 6998640 13 3
+TimeViewed 1247446 1
+RemoveCourse 8572020
+AddCourse 3443212 7
+AddCourse 3540269 20
+WatchClass 8107277 0 7
+AddCourse 6242733 0
+AddCourse 3991663 2
+AddCourse -2 -1
+RemoveCourse 2812000
+TimeViewed 7677454 16
+WatchClass 6768561 0 12
+WatchClass 1743556 5 3
+AddCourse 9361205 18
+WatchClass 4675742 3 2
+AddCourse 4771763 12
+WatchClass 6680083 0 11
+RemoveCourse 547985
+RemoveCourse 7823845
+TimeViewed 2242183 3
+AddCourse 8798460 5
+WatchClass 4079825 4 16
+AddCourse 449913 10
+WatchClass -2 0 6
+GetMostViewedClasses 10145
+WatchClass 3148938 5 15
+AddCourse 4838850 19
+AddCourse 9428383 14
+WatchClass 2610849 18 10
+RemoveCourse 8755305
+RemoveCourse 3155446
+RemoveCourse 8022045
+TimeViewed 8075900 1
+AddCourse 3119619 8
+AddCourse 7348997 -1
+GetMostViewedClasses 450
+WatchClass 4318171 7 1
+AddCourse 4877269 18
+RemoveCourse 8576426
+TimeViewed 5827832 5
+TimeViewed 2306161 17
+AddCourse 8902112 18
+AddCourse 4554648 1
+WatchClass 8780615 8 3
+AddCourse 6934705 13
+WatchClass 8061873 -3 8
+AddCourse 8385288 12
+AddCourse 7953917 9
+GetMostViewedClasses 10093
+WatchClass 7036225 5 9
+AddCourse 1956417 15
+AddCourse 4425284 20
+RemoveCourse 8782156
+AddCourse 3233851 9
+WatchClass 2166279 7 5
+AddCourse 6061556 12
+AddCourse -2 10
+WatchClass 481133 13 2
+RemoveCourse 3695842
+AddCourse 5870875 10
+GetMostViewedClasses 0
+AddCourse -1 0
+AddCourse -1 -2
+AddCourse 1405371 2
+WatchClass 8351925 0 18
+WatchClass 9584279 2 7
+WatchClass 8774789 2 4
+WatchClass 4879806 3 13
+WatchClass 8726944 0 8
+AddCourse 7516106 10
+RemoveCourse 9453935
+RemoveCourse 8838354
+WatchClass 1043427 0 -2
+WatchClass 9240087 12 6
+AddCourse 7024345 9
+AddCourse 5017063 12
+AddCourse 8786378 20
+GetMostViewedClasses 4955
+AddCourse 505139 8
+WatchClass 4784015 11 7
+WatchClass 4821331 5 19
+AddCourse 2901205 14
+AddCourse 6466937 2
+AddCourse 7595892 12
+RemoveCourse 8102294
+RemoveCourse 1572424
+AddCourse 5083530 20
+WatchClass 3148938 5 4
+GetMostViewedClasses 5999
+AddCourse 7815809 11
+AddCourse 6168125 6
+RemoveCourse 2892270
+TimeViewed 4980645 14
+GetMostViewedClasses 6819
+AddCourse 540043 12
+RemoveCourse 1944417
+RemoveCourse 101188
+AddCourse 4457371 5
+WatchClass 1416689 -3 12
+AddCourse 8643462 11
+AddCourse 7866463 13
+WatchClass 9898424 5 18
+RemoveCourse 3428291
+AddCourse 575024 5
+RemoveCourse 2217063
+RemoveCourse 4915622
+AddCourse 1178280 1
+AddCourse 244673 18
+WatchClass 260702 2 4
+AddCourse 2860902 11
+RemoveCourse 3188062
+AddCourse 6028429 9
+AddCourse 5844181 8
+AddCourse 8039772 20
+WatchClass 1875786 1 16
+TimeViewed 584942 5
+RemoveCourse 4833761
+AddCourse 9536099 5
+AddCourse 449913 0
+RemoveCourse 9191286
+AddCourse 4309011 20
+WatchClass 3257883 16 8
+RemoveCourse 1781514
+AddCourse 9305397 8
+WatchClass 8409097 6 20
+AddCourse 7563945 4
+TimeViewed 5395148 9
+GetMostViewedClasses 10182
+AddCourse 6437826 9
+AddCourse 2816028 6
+WatchClass 3946745 11 16
+RemoveCourse 5056651
+WatchClass 6441158 13 5
+AddCourse 4501920 4
+AddCourse -1 8
+AddCourse 4836329 2
+RemoveCourse 8729800
+AddCourse 9755606 7
+AddCourse 6096382 1
+AddCourse 8666709 2
+AddCourse 2464631 8
+AddCourse 171338 9
+RemoveCourse 1949657
+AddCourse 1618099 4
+AddCourse 5506536 18
+AddCourse 1803702 15
+WatchClass -2 4 16
+AddCourse 5395148 17
+WatchClass 8453413 4 6
+WatchClass 1116106 20 4
+AddCourse 5421736 14
+GetMostViewedClasses 3997
+WatchClass 5732859 -1 10
+AddCourse 4054778 12
+AddCourse 1881588 5
+RemoveCourse 4675742
+TimeViewed 1568155 2
+AddCourse 8415933 2
+WatchClass 1272028 2 15
+AddCourse 4812047 6
+AddCourse 1722352 16
+RemoveCourse 3392543
+GetMostViewedClasses 3283
+AddCourse 2845631 2
+GetMostViewedClasses 2673
+RemoveCourse 7650268
+WatchClass 294953 2 12
+WatchClass 9539192 2 7
+WatchClass 4984422 1 18
+AddCourse 2613606 18
+WatchClass 3804656 4 2
+WatchClass 7961067 12 16
+AddCourse 1251148 15
+GetMostViewedClasses 1235
+AddCourse 1803702 1
+RemoveCourse 6028072
+AddCourse 416175 5
+AddCourse -1 -2
+WatchClass 6926563 10 20
+AddCourse 7576744 3
+TimeViewed 5208388 2
+AddCourse 8992814 12
+AddCourse 2897583 14
+RemoveCourse 7066869
+WatchClass -2 0 16
+WatchClass 7147234 1 14
+RemoveCourse 5708482
+AddCourse 7870024 1
+WatchClass 1659068 -2 14
+AddCourse 3049503 7
+AddCourse 396784 4
+AddCourse 4364861 4
+GetMostViewedClasses 8331
+RemoveCourse 4984422
+RemoveCourse 615033
+AddCourse 2771929 14
+WatchClass 6270508 7 2
+RemoveCourse 5481117
+AddCourse 9776846 11
+RemoveCourse 2868722
+RemoveCourse 4318171
+RemoveCourse 839280
+AddCourse 6699247 8
+AddCourse 7797643 15
+WatchClass 2745688 15 15
+WatchClass 0 2 15
+AddCourse 5207593 19
+WatchClass 8732826 13 20
+WatchClass 8422152 12 11
+AddCourse 4422813 17
+WatchClass 0 -2 13
+RemoveCourse 3321306
+RemoveCourse 3400383
+AddCourse 4200067 1
+AddCourse 5771092 18
+AddCourse 7173152 16
+AddCourse 4895289 11
+RemoveCourse 1801221
+AddCourse 6940481 3
+AddCourse 3626448 20
+RemoveCourse 5631068
+AddCourse 4711750 15
+WatchClass 797883 0 15
+AddCourse 2075985 1
+AddCourse 7669473 19
+AddCourse 5726540 8
+WatchClass 6926563 5 9
+RemoveCourse 8442070
+RemoveCourse 717970
+GetMostViewedClasses -2
+RemoveCourse 8387836
+WatchClass 7504994 1 7
+AddCourse 1965890 1
+RemoveCourse 8021656
+WatchClass 2587863 4 10
+WatchClass 9647835 3 12
+AddCourse 5870215 18
+RemoveCourse 2901205
+AddCourse 6508143 19
+AddCourse 4700117 18
+RemoveCourse 1648952
+AddCourse 2444975 7
+WatchClass 4161113 10 11
+AddCourse -1 5
+GetMostViewedClasses 0
+TimeViewed 2298749 2
+WatchClass 5493431 10 7
+AddCourse 4871433 17
+WatchClass 549816 9 12
+WatchClass 6409842 0 10
+AddCourse 1580304 3
+AddCourse 8009290 5
+AddCourse 4649097 6
+AddCourse 2805657 18
+RemoveCourse 118610
+AddCourse 6193614 17
+GetMostViewedClasses 10758
+AddCourse 6645380 2
+AddCourse 7167483 20
+AddCourse 6137770 7
+AddCourse 1389945 7
+TimeViewed 3300875 6
+AddCourse 6157610 10
+GetMostViewedClasses 8128
+AddCourse 7696388 0
+AddCourse 3125929 11
+GetMostViewedClasses 5429
+WatchClass 4371329 11 17
+WatchClass 2841012 5 14
+AddCourse 3682354 9
+RemoveCourse 6639039
+RemoveCourse 1246115
+AddCourse 9804858 12
+AddCourse 5873817 16
+WatchClass 4638569 0 16
+RemoveCourse 4895715
+WatchClass 1743556 12 5
+GetMostViewedClasses 3548
+Quit

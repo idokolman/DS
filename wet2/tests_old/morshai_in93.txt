@@ -1,0 +1,185 @@
+Init
+AddCourse 20005
+AddCourse 20006
+AddClass 20006
+AddClass 20006
+AddClass 20006
+AddClass 20006
+AddClass 20006
+AddClass 20006
+WatchClass 20006 4 289
+TimeViewed 20006 4
+WatchClass 20006 4 108
+TimeViewed 20006 4
+WatchClass 20006 5 529
+TimeViewed 20006 5
+WatchClass 20006 3 366
+TimeViewed 20006 3
+WatchClass 20006 3 595
+TimeViewed 20006 3
+WatchClass 20006 3 637
+TimeViewed 20006 3
+WatchClass 20006 1 745
+TimeViewed 20006 1
+WatchClass 20006 0 717
+TimeViewed 20006 0
+WatchClass 20006 0 336
+TimeViewed 20006 0
+WatchClass 20006 0 635
+TimeViewed 20006 0
+WatchClass 20006 2 221
+TimeViewed 20006 2
+WatchClass 20006 2 64
+TimeViewed 20006 2
+WatchClass 20006 2 660
+TimeViewed 20006 2
+WatchClass 20006 2 699
+TimeViewed 20006 2
+AddCourse 20001
+AddCourse 20002
+AddClass 20002
+AddClass 20002
+AddClass 20002
+WatchClass 20002 1 195
+TimeViewed 20002 1
+WatchClass 20002 1 833
+TimeViewed 20002 1
+WatchClass 20002 2 511
+TimeViewed 20002 2
+WatchClass 20002 2 293
+TimeViewed 20002 2
+WatchClass 20002 2 481
+TimeViewed 20002 2
+WatchClass 20002 2 718
+TimeViewed 20002 2
+WatchClass 20002 0 961
+TimeViewed 20002 0
+WatchClass 20002 0 523
+TimeViewed 20002 0
+AddCourse 20004
+AddClass 20004
+WatchClass 20004 0 154
+TimeViewed 20004 0
+WatchClass 20004 0 618
+TimeViewed 20004 0
+AddCourse 20009
+AddClass 20009
+AddClass 20009
+AddClass 20009
+AddClass 20009
+AddClass 20009
+WatchClass 20009 3 465
+TimeViewed 20009 3
+WatchClass 20009 4 214
+TimeViewed 20009 4
+WatchClass 20009 1 922
+TimeViewed 20009 1
+WatchClass 20009 2 108
+TimeViewed 20009 2
+WatchClass 20009 2 935
+TimeViewed 20009 2
+WatchClass 20009 0 689
+TimeViewed 20009 0
+WatchClass 20009 0 572
+TimeViewed 20009 0
+AddCourse 20003
+AddClass 20003
+AddClass 20003
+AddClass 20003
+AddClass 20003
+WatchClass 20003 1 617
+TimeViewed 20003 1
+WatchClass 20003 0 995
+TimeViewed 20003 0
+WatchClass 20003 3 468
+TimeViewed 20003 3
+WatchClass 20003 3 700
+TimeViewed 20003 3
+WatchClass 20003 2 780
+TimeViewed 20003 2
+WatchClass 20003 2 589
+TimeViewed 20003 2
+WatchClass 20003 2 624
+TimeViewed 20003 2
+WatchClass 20003 2 637
+TimeViewed 20003 2
+AddCourse 20000
+AddClass 20000
+AddClass 20000
+WatchClass 20000 1 287
+TimeViewed 20000 1
+WatchClass 20000 1 846
+TimeViewed 20000 1
+WatchClass 20000 1 327
+TimeViewed 20000 1
+WatchClass 20000 0 806
+TimeViewed 20000 0
+WatchClass 20000 0 843
+TimeViewed 20000 0
+WatchClass 20000 0 587
+TimeViewed 20000 0
+WatchClass 20000 0 447
+TimeViewed 20000 0
+AddCourse 20007
+AddClass 20007
+AddClass 20007
+WatchClass 20007 1 938
+TimeViewed 20007 1
+WatchClass 20007 0 96
+TimeViewed 20007 0
+WatchClass 20007 0 788
+TimeViewed 20007 0
+WatchClass 20007 0 282
+TimeViewed 20007 0
+AddCourse 20008
+AddClass 20008
+AddClass 20008
+AddClass 20008
+WatchClass 20008 2 443
+TimeViewed 20008 2
+WatchClass 20008 2 10
+TimeViewed 20008 2
+WatchClass 20008 2 648
+TimeViewed 20008 2
+WatchClass 20008 2 710
+TimeViewed 20008 2
+WatchClass 20008 1 585
+TimeViewed 20008 1
+WatchClass 20008 1 321
+TimeViewed 20008 1
+WatchClass 20008 0 377
+TimeViewed 20008 0
+WatchClass 20008 0 382
+TimeViewed 20008 0
+WatchClass 20008 0 547
+TimeViewed 20008 0
+WatchClass 20008 0 898
+TimeViewed 20008 0
+GetIthWatchedClass 0
+GetIthWatchedClass 1
+GetIthWatchedClass 2
+GetIthWatchedClass 3
+GetIthWatchedClass 4
+GetIthWatchedClass 5
+GetIthWatchedClass 6
+GetIthWatchedClass 7
+GetIthWatchedClass 8
+GetIthWatchedClass 9
+GetIthWatchedClass 10
+GetIthWatchedClass 11
+GetIthWatchedClass 12
+GetIthWatchedClass 13
+GetIthWatchedClass 14
+GetIthWatchedClass 15
+GetIthWatchedClass 16
+GetIthWatchedClass 17
+GetIthWatchedClass 18
+GetIthWatchedClass 19
+GetIthWatchedClass 20
+GetIthWatchedClass 21
+GetIthWatchedClass 22
+GetIthWatchedClass 23
+GetIthWatchedClass 24
+GetIthWatchedClass 25
+GetIthWatchedClass 26
+Quit

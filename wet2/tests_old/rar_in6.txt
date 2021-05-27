@@ -1,0 +1,42 @@
+AddCourse 5
+RemoveCourse 5
+AddClass 5
+WatchClass 234247 0 20
+TimeViewed 5 0
+GetIthWatchedClass 1
+Init
+AddCourse -5
+AddCourse 0
+AddCourse 5
+AddCourse 5
+RemoveCourse -5
+RemoveCourse 0
+RemoveCourse 5
+RemoveCourse 5
+AddCourse 5
+AddClass -5
+AddClass 0
+AddClass 6
+AddClass 5
+AddClass 5
+WatchClass 5 0 -20
+WatchClass 5 0 0
+WatchClass 5 -1 20
+WatchClass -5 0 12
+WatchClass 0 0 12
+WatchClass 5 2 30
+WatchClass 3 0 30
+WatchClass 5 0 20
+TimeViewed 5 -2
+TimeViewed 0 2
+TimeViewed -5 3
+TimeViewed 5 2
+TimeViewed 3 1
+TimeViewed 5 0
+GetIthWatchedClass 0
+GetIthWatchedClass -5
+GetIthWatchedClass 2
+GetIthWatchedClass 1
+RemoveCourse 5
+GetIthWatchedClass 1
+Quit

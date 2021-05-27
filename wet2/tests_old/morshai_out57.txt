@@ -1,0 +1,134 @@
+init done.
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+AddClass: 5
+WatchClass: SUCCESS
+TimeViewed: 422
+WatchClass: SUCCESS
+TimeViewed: 1251
+WatchClass: SUCCESS
+TimeViewed: 795
+WatchClass: SUCCESS
+TimeViewed: 818
+WatchClass: SUCCESS
+TimeViewed: 452
+WatchClass: SUCCESS
+TimeViewed: 1023
+WatchClass: SUCCESS
+TimeViewed: 466
+WatchClass: SUCCESS
+TimeViewed: 1343
+WatchClass: SUCCESS
+TimeViewed: 1574
+WatchClass: SUCCESS
+TimeViewed: 396
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+AddClass: 4
+WatchClass: SUCCESS
+TimeViewed: 573
+WatchClass: SUCCESS
+TimeViewed: 944
+WatchClass: SUCCESS
+TimeViewed: 1198
+WatchClass: SUCCESS
+TimeViewed: 965
+WatchClass: SUCCESS
+TimeViewed: 1078
+WatchClass: SUCCESS
+TimeViewed: 1907
+WatchClass: SUCCESS
+TimeViewed: 883
+WatchClass: SUCCESS
+TimeViewed: 1479
+WatchClass: SUCCESS
+TimeViewed: 2137
+WatchClass: SUCCESS
+TimeViewed: 2363
+WatchClass: SUCCESS
+TimeViewed: 224
+WatchClass: SUCCESS
+TimeViewed: 429
+WatchClass: SUCCESS
+TimeViewed: 1203
+WatchClass: SUCCESS
+TimeViewed: 1627
+WatchClass: SUCCESS
+TimeViewed: 159
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+WatchClass: SUCCESS
+TimeViewed: 953
+WatchClass: SUCCESS
+TimeViewed: 559
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 414
+WatchClass: SUCCESS
+TimeViewed: 1074
+WatchClass: SUCCESS
+TimeViewed: 1517
+AddCourse: SUCCESS
+AddClass: 0
+AddClass: 1
+AddClass: 2
+AddClass: 3
+WatchClass: SUCCESS
+TimeViewed: 367
+WatchClass: SUCCESS
+TimeViewed: 624
+WatchClass: SUCCESS
+TimeViewed: 1317
+WatchClass: INVALID_INPUT
+TimeViewed: 0
+WatchClass: SUCCESS
+TimeViewed: 161
+WatchClass: SUCCESS
+TimeViewed: 792
+WatchClass: SUCCESS
+TimeViewed: 163
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 117
+AddCourse: SUCCESS
+AddClass: 0
+WatchClass: SUCCESS
+TimeViewed: 335
+WatchClass: SUCCESS
+TimeViewed: 621
+WatchClass: SUCCESS
+TimeViewed: 1055
+WatchClass: SUCCESS
+TimeViewed: 1653
+GetIthWatchedClass: INVALID_INPUT
+GetIthWatchedClass: 20006 0
+GetIthWatchedClass: 20006 2
+GetIthWatchedClass: 20001 0
+GetIthWatchedClass: 20006 4
+GetIthWatchedClass: 20005 0
+GetIthWatchedClass: 20002 0
+GetIthWatchedClass: 20000 0
+GetIthWatchedClass: 20005 3
+GetIthWatchedClass: 20006 3
+GetIthWatchedClass: 20005 1
+GetIthWatchedClass: 20004 1
+GetIthWatchedClass: 20005 5
+GetIthWatchedClass: 20005 4
+GetIthWatchedClass: 20000 1
+GetIthWatchedClass: 20004 0
+GetIthWatchedClass: 20005 2
+GetIthWatchedClass: 20000 3
+GetIthWatchedClass: 20006 1
+GetIthWatchedClass: 20003 0
+GetIthWatchedClass: FAILURE
+quit done.

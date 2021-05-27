@@ -1,0 +1,8 @@
+Init
+AddCourse 1
+AddClass 1
+AddClass 1
+AddClass 1
+AddClass 1
+AddClass 1
+Quit

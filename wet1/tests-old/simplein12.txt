@@ -1,0 +1,16 @@
+Init
+TimeViewed -1 1
+TimeViewed 0 1
+TimeViewed 1 1
+GetMostViewedClasses 0
+GetMostViewedClasses 1
+AddCourse 234 10
+WatchClass 234 5 12
+WatchClass 234 7 12
+GetMostViewedClasses 7
+AddCourse 123 10
+WatchClass 123 7 12
+GetMostViewedClasses 7
+RemoveCourse 234
+GetMostViewedClasses 7
+Quit
